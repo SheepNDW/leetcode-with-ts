@@ -9,6 +9,9 @@ describe('isValid()', () => {
   });
 
   it('should return false for invalid parentheses', () => {
+    expect(isValid('[')).toEqual(false);
+    expect(isValid('}')).toEqual(false);
+    expect(isValid('((')).toEqual(false);
     expect(isValid('(]')).toEqual(false);
     expect(isValid('([)]')).toEqual(false);
     expect(isValid('{[}]')).toEqual(false);
