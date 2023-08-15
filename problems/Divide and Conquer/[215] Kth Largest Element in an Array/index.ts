@@ -1,7 +1,7 @@
 // ==== quick select ====
 /**
  * 思路：
- * partition 函式會回傳一個 pivot，這個 pivot 左邊的元素都比 pivot 小，右邊的元素都比 pivot 大
+ * partition 函式會回傳一個 pivot，這個 pivot 左邊的元素都比 pivot 大，右邊的元素都比 pivot 小
  * 不斷呼叫 partition 然後每次檢查 pivot 的位置是否為 k - 1，如果是的話就回傳 pivot 的值
  */
 
