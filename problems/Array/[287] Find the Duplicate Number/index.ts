@@ -1,11 +1,15 @@
-export function findDuplicate(nums: number[]): number {
-  const map: number[] = [];
-  for (let i = 0; i <= nums.length; i++) {
-    if (map[nums[i]] != null) {
-      return nums[i];
+// Hash Table
+function findDuplicate(nums: number[]): number {
+  const seen = new Set<number>();
+
+  for (const num of nums) {
+    if (seen.has(num)) {
+      return num;
     }
-    map[nums[i]] = i;
+    seen.add(num);
   }
 
-  return 0;
+  return -1;
 }
+
+export { findDuplicate };
