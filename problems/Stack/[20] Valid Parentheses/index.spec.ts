@@ -1,7 +1,7 @@
 import { describe, it, expect } from 'vitest';
 import { isValid } from '.';
 
-describe('isValid()', () => {
+describe('isValid', () => {
   it('should return true for valid parentheses', () => {
     expect(isValid('()')).toEqual(true);
     expect(isValid('()[]{}')).toEqual(true);
