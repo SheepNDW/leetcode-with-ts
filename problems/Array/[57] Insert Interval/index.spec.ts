@@ -1,7 +1,7 @@
 import { describe, it, expect } from 'vitest';
 import { insert } from '.';
 
-describe('insert()', () => {
+describe('insert', () => {
   it('should insert new interval in non-overlapping intervals', () => {
     const intervals = [
       [1, 2],
