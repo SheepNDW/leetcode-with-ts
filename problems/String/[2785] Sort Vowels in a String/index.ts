@@ -1,20 +1,24 @@
+/**
+ * 1. 建立母音集合，包含大小寫
+ * 2. 找出母音並排序
+ * 3. 跑回圈重新建構字串，如果目前字元是母音就填上排序後的母音，並追蹤 index
+ */
 function sortVowels(s: string): string {
-  const vowels = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'];
-  const stringArray = s.split('');
+  const vowels = new Set(['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']);
+  const sArr = s.split('');
+  const sortedVowel = sArr.filter((c) => vowels.has(c)).sort();
 
-  // 記錄每個位置上的字母是否為母音
-  const isVowel = stringArray.map((char) => vowels.includes(char));
-
-  const vowelsInString = stringArray.filter((_, index) => isVowel[index]).sort();
-
-  const result = stringArray.map((char, index) => {
-    if (isVowel[index]) {
-      return vowelsInString.shift();
+  let result = '';
+  let vowelIndex = 0;
+  for (let i = 0; i < s.length; i++) {
+    if (vowels.has(s[i])) {
+      result += sortedVowel[vowelIndex++];
+    } else {
+      result += s[i];
     }
-    return char;
-  });
+  }
 
-  return result.join('');
+  return result;
 }
 
 export { sortVowels };
