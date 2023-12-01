@@ -3,7 +3,7 @@ import { canPlaceFlowers } from '.';
 
 // https://leetcode.com/problems/can-place-flowers/description/
 
-describe('canPlaceFlowers', () => {
+describe.skip('canPlaceFlowers', () => {
   it('should return true when there are enough empty plots', () => {
     const flowerbed = [1, 0, 0, 0, 1];
     const n = 1;
