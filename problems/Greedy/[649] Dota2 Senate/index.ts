@@ -6,8 +6,8 @@ function predictPartyVictory1(senate: string): string {
     const currentMember = senateMembers.shift() as string;
 
     let isFinish = true;
-    for (let i = 0; i < senateMembers.length - 1; i++) {
-      if (senateMembers[i] !== currentMember && senateMembers[i] !== 'banned') {
+    for (let i = 0; i < senateMembers.length; i++) {
+      if (senateMembers[i] !== currentMember) {
         senateMembers.splice(i, 1);
         isFinish = false;
         break;
