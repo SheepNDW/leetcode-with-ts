@@ -4,6 +4,8 @@ interface Job {
   profit: number;
 }
 
+// dp[t]: t 時間內最大 profit
+// dp[i] = max{dp[i - 1], dp[prevNonOverlap] + profit}
 function jobScheduling(startTime: number[], endTime: number[], profit: number[]): number {
   const n = startTime.length;
   const jobs: Job[] = [];
@@ -20,19 +22,13 @@ function jobScheduling(startTime: number[], endTime: number[], profit: number[])
   jobs.sort((a, b) => a.end - b.end);
 
   const dp: number[] = Array(n + 1).fill(0);
-  let best = 0;
 
   for (let i = 1; i <= n; i++) {
-    let currBest = best;
     const prev = biSearch(jobs, i - 1);
-    console.log(prev, jobs[prev]);
-    currBest = Math.max(currBest, dp[prev] + jobs[i - 1].profit);
-
-    dp[i] = currBest;
-    best = Math.max(best, currBest);
+    dp[i] = Math.max(dp[i - 1], dp[prev] + jobs[i - 1].profit);
   }
 
-  return best;
+  return dp[n];
 }
 
 function biSearch(jobs: Job[], index: number) {
