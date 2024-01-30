@@ -14,5 +14,5 @@
 * [[1441] Build an Array With Stack Operations](./problems/Stack/[1441]%20Build%20an%20Array%20With%20Stack%20Operations/)  (Medium)
 
     * `monotonic stack: next greater / smaller`
-      [[739] Daily Temperatures](./problems/Stack/[739]%20Daily%20Temperatures/)  (Medium)
-      [[907] Sum of Subarray Minimums](./problems/Stack/[907]%20Sum%20of%20Subarray%20Minimums/)  (Medium)
+      * [[739] Daily Temperatures](./problems/Stack/[739]%20Daily%20Temperatures/)  (Medium)
+      * [[907] Sum of Subarray Minimums](./problems/Stack/[907]%20Sum%20of%20Subarray%20Minimums/)  (Medium)
