@@ -16,6 +16,34 @@ function dailyTemperatures0(temperatures: number[]): number[] {
 }
 
 /*
+  Greedy solution:
+
+  從後往前思考，對於 ans[i]，可以先觀察右邊的元素的 ans[j] (j = i + 1)。
+  當 temp[j] <= temp[i] 時，直接將 j 跳到 j += ans[j] (比 temp[j] 大的位置)，這樣就可以加速搜尋，
+  直到找到一個 temp[j] > temp[i] 為止，或是 ans[j] == 0 說明找不到了。
+*/
+function dailyTemperatures1(temperatures: number[]): number[] {
+  const n = temperatures.length;
+  const ans: number[] = Array(n).fill(0);
+
+  for (let i = n - 2; i >= 0; i--) {
+    let j = i + 1;
+
+    while (ans[j] !== 0 && temperatures[j] <= temperatures[i]) {
+      j = j + ans[j];
+    }
+
+    if (temperatures[j] > temperatures[i]) {
+      ans[i] = j - i;
+    } else {
+      ans[i] = 0;
+    }
+  }
+
+  return ans;
+}
+
+/*
     find nextGreater => monotonic stack
     [30,40,30,70]
     loop:
