@@ -1,4 +1,4 @@
-function largestPerimeter(nums: number[]): number {
+function largestPerimeter0(nums: number[]): number {
   nums.sort((a, b) => b - a);
 
   let maxSideLen = nums[0];
@@ -12,6 +12,23 @@ function largestPerimeter(nums: number[]): number {
   }
 
   return maxSideLen < otherSideSum ? maxSideLen + otherSideSum : -1;
+}
+
+// ==== alternatives ====
+function largestPerimeter(nums: number[]): number {
+  nums.sort((a, b) => a - b);
+
+  let prevSum = 0;
+  let ans = -1;
+
+  for (const num of nums) {
+    if (prevSum > num) {
+      ans = prevSum + num;
+    }
+    prevSum += num;
+  }
+
+  return ans;
 }
 
 export { largestPerimeter };
