@@ -15,5 +15,8 @@
   "devDependencies": {
     "@vitest/ui": "^0.29.7",
     "vitest": "^0.28.5"
+  },
+  "dependencies": {
+    "@datastructures-js/priority-queue": "5.4.0"
   }
 }
