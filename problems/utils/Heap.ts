@@ -57,6 +57,10 @@ class MinHeap<T> {
   isEmpty() {
     return this.heap.length === 0;
   }
+
+  top() {
+    return this.heap[0];
+  }
 }
 
 export { MinHeap };
