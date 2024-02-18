@@ -17,3 +17,7 @@
     * `monotonic stack: next greater / smaller`
       * [[739] Daily Temperatures](./problems/Stack/[739]%20Daily%20Temperatures/)  (Medium)
       * [[907] Sum of Subarray Minimums](./problems/Stack/[907]%20Sum%20of%20Subarray%20Minimums/)  (Medium)
+
+#### [Priority Queue](./problems/Priority%20Queue/)
+
+* [[1642] Furthest Building You Can Reach](./problems/Priority%20Queue/[1642]%20Furthest%20Building%20You%20Can%20Reach/)
