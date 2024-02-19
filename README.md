@@ -21,3 +21,4 @@
 #### [Priority Queue](./problems/Priority%20Queue/)
 
 * [[1642] Furthest Building You Can Reach](./problems/Priority%20Queue/[1642]%20Furthest%20Building%20You%20Can%20Reach/)
+* [[2402] Meeting Rooms III](./problems/Priority%20Queue/[2402]%20Meeting%20Rooms%20III/)
