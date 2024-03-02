@@ -14,6 +14,7 @@
   "license": "ISC",
   "devDependencies": {
     "@vitest/ui": "^0.29.7",
+    "vite": "^5.1.4",
     "vitest": "^0.28.5"
   },
   "dependencies": {
