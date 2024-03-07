@@ -1,6 +1,9 @@
 import { ListNode } from '../../utils/list';
 
-function hasCycle(head: ListNode | null): boolean {
+/*
+  hash table
+*/
+function hasCycle0(head: ListNode | null): boolean {
   const visited = new Set<ListNode>();
 
   let current = head;
@@ -11,6 +14,25 @@ function hasCycle(head: ListNode | null): boolean {
 
     visited.add(current);
     current = current.next;
+  }
+
+  return false;
+}
+
+/*
+  Floyd's Tortoise and Hare
+*/
+function hasCycle(head: ListNode | null): boolean {
+  let slow = head;
+  let fast = head;
+
+  while (fast && fast.next) {
+    slow = slow!.next;
+    fast = fast.next.next;
+
+    if (fast === slow) {
+      return true;
+    }
   }
 
   return false;

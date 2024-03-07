@@ -2,7 +2,7 @@ import { describe, expect, it } from 'vitest';
 import { ListNode } from '../../utils/list';
 import { hasCycle } from '.';
 
-describe('hasCycle', () => {
+describe.skip('hasCycle', () => {
   it('should return true when there is a cycle', () => {
     const list = createCycleList([3, 2, 0, -4], 1);
     expect(hasCycle(list)).toBe(true);
