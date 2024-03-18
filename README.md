@@ -53,6 +53,7 @@
 * [[2956] Find Common Elements Between Two Arrays](./problems/Hash%20Table/[2956]%20Find%20Common%20Elements%20Between%20Two%20Arrays/)
 
   * `hash + prefix`
+    * [[525] Contiguous Array](./problems/Hash%20Table/[525]%20Contiguous%20Array/)
     * [[930] Binary Subarrays With Sum](./problems/Hash%20Table/[930]%20Binary%20Subarrays%20With%20Sum/)
 
 #### [Linked List](./problems/Linked%20List/)
