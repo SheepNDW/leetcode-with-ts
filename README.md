@@ -72,3 +72,21 @@
     * `Floyd's Tortoise and Hare`
       * [[141] Linked List Cycle](./problems/Linked%20List/[141]%20Linked%20List%20Cycle/)
       * [[876] Middle of the Linked List](./problems/Linked%20List/[876]%20Middle%20of%20the%20Linked%20List/)
+
+#### [Greedy](./problems/Greedy/)
+
+* [[45] Jump Game II](./problems/Greedy/[45]%20Jump%20Game%20II/)
+* [[455] Assign Cookies](./problems/Greedy/[455]%20Assign%20Cookies/)
+* [[649] Dota2 Senate](./problems/Greedy/[649]%20Dota2%20Senate/)
+* [[948] Bag of Tokens](./problems/Greedy/[948]%20Bag%20of%20Tokens/)
+* [[1561] Maximum Number of Coins You Can Get](./problems/Greedy/[1561]%20Maximum%20Number%20of%20Coins%20You%20Can%20Get/)
+* [[1727] Largest Submatrix With Rearrangements](./problems/Greedy/[1727]%20Largest%20Submatrix%20With%20Rearrangements/)
+* [[1921] Eliminate Maximum Number of Monsters](./problems/Greedy/[1921]%20Eliminate%20Maximum%20Number%20of%20Monsters/)
+* [[2366] Minimum Replacements to Sort the Array](./problems/Greedy/[2366]%20Minimum%20Replacements%20to%20Sort%20the%20Array/)
+* [[2864] Maximum Odd Binary Number](./problems/Greedy/[2864]%20Maximum%20Odd%20Binary%20Number/)
+
+    * `Two-pass distribution`
+      * [[135] Candy](./problems/Greedy/[135]%20Candy/)
+      * [[1846] Maximum Element After Decreasing and Rearranging](./problems/Greedy/[1846]%20Maximum%20Element%20After%20Decreasing%20and%20Rearranging/)
+    * `Intervals`
+      * [[452] Minimum Number of Arrows to Burst Balloons](./problems/Greedy/[452]%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons/)
