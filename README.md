@@ -90,3 +90,13 @@
       * [[1846] Maximum Element After Decreasing and Rearranging](./problems/Greedy/[1846]%20Maximum%20Element%20After%20Decreasing%20and%20Rearranging/)
     * `Intervals`
       * [[452] Minimum Number of Arrows to Burst Balloons](./problems/Greedy/[452]%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons/)
+
+#### [Priority Queue](./problems/Priority%20Queue/)
+
+* [[1642] Furthest Building You Can Reach](./problems/Priority%20Queue/[1642]%20Furthest%20Building%20You%20Can%20Reach/)
+
+  * `Arrangement with Stride`
+    * [[621] Task Scheduler](./problems/Priority%20Queue/[621]%20Task%20Scheduler/)
+
+  * `Dual PQ`
+    * [[2402] Meeting Rooms III](./problems/Priority%20Queue/[2402]%20Meeting%20Rooms%20III/)
