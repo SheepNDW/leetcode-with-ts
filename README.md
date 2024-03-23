@@ -62,6 +62,7 @@
 * [[86] Partition List](./problems/Linked%20List/[86]%20Partition%20List/)
 * [[92] Reverse Linked List II](./problems/Linked%20List/[92]%20Reverse%20Linked%20List%20II/)
 * [[141] Linked List Cycle](./problems/Linked%20List/[141]%20Linked%20List%20Cycle/)
+* [[206] Reverse Linked List](./problems/Linked%20List/[206]%20Reverse%20Linked%20List/)
 * [[1171] Remove Zero Sum Consecutive Nodes from Linked List](./problems/Linked%20List/[1171]%20Remove%20Zero%20Sum%20Consecutive%20Nodes%20from%20Linked%20List/)
 * [[1669] Merge In Between Linked Lists](./problems/Linked%20List/[1669]%20Merge%20In%20Between%20Linked%20Lists/)
 
