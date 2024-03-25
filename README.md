@@ -92,6 +92,8 @@
     * `Two-pass distribution`
       * [[135] Candy](./problems/Greedy/[135]%20Candy/)
       * [[1846] Maximum Element After Decreasing and Rearranging](./problems/Greedy/[1846]%20Maximum%20Element%20After%20Decreasing%20and%20Rearranging/)
+    * `Indexing Sort`
+      * [[442] Find All Duplicates in an Array](./problems/Greedy/[442]%20Find%20All%20Duplicates%20in%20an%20Array/) 
     * `Intervals`
       * [[452] Minimum Number of Arrows to Burst Balloons](./problems/Greedy/[452]%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons/)
 
