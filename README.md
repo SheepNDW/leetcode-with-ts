@@ -75,6 +75,7 @@
     * `Floyd's Tortoise and Hare`
       * [[141] Linked List Cycle](./problems/Linked%20List/[141]%20Linked%20List%20Cycle/)
       * [[234] Palindrome Linked List](./problems/Linked%20List/[234]%20Palindrome%20Linked%20List/)
+      * [[287] Find the Duplicate Number](./problems/Two%20Pointer/[287]%20Find%20the%20Duplicate%20Number/)
       * [[876] Middle of the Linked List](./problems/Linked%20List/[876]%20Middle%20of%20the%20Linked%20List/)
 
 #### [Greedy](./problems/Greedy/)
@@ -92,7 +93,9 @@
     * `Two-pass distribution`
       * [[135] Candy](./problems/Greedy/[135]%20Candy/)
       * [[1846] Maximum Element After Decreasing and Rearranging](./problems/Greedy/[1846]%20Maximum%20Element%20After%20Decreasing%20and%20Rearranging/)
-    * `Indexing Sort`
+    * `Indexing Sort (Cycle Sort)`
+      * [[41] First Missing Positive](./problems/Greedy/[41]%20First%20Missing%20Positive/)
+      * [[287] Find the Duplicate Number](./problems/Two%20Pointer/[287]%20Find%20the%20Duplicate%20Number/)
       * [[442] Find All Duplicates in an Array](./problems/Greedy/[442]%20Find%20All%20Duplicates%20in%20an%20Array/) 
     * `Intervals`
       * [[452] Minimum Number of Arrows to Burst Balloons](./problems/Greedy/[452]%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons/)

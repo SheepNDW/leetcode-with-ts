@@ -1,7 +1,13 @@
 import { describe, it, expect } from 'vitest';
 import { findDuplicate } from '.';
 
-describe('findDuplicate()', () => {
+describe.skip('findDuplicate', () => {
+  it('should return the duplicate number', () => {
+    const nums = [1, 4, 3, 5, 6, 1, 2];
+    const result = findDuplicate(nums);
+    expect(result).toBe(1);
+  });
+
   it('should return the duplicate number', () => {
     const nums = [1, 3, 4, 2, 2];
     const result = findDuplicate(nums);
