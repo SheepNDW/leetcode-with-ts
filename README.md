@@ -28,6 +28,7 @@
 * [[1] Two Sum](./problems/Hash%20Table/[1]%20Two%20Sum/)
 * [[36] Valid Sudoku](./problems/Hash%20Table/[36]%20Valid%20Sudoku/)
 * [[49] Group Anagrams](./problems/Hash%20Table/[49]%20Group%20Anagrams/)
+* [[205] Isomorphic Strings](./problems/Hash%20Table/[205]%20Isomorphic%20Strings/)
 * [[380] Insert Delete GetRandom O(1)](./problems/Hash%20Table/[380]%20Insert%20Delete%20GetRandom%20O(1)/)
 * [[389] Find the Difference](./problems/Hash%20Table/[389]%20Find%20the%20Difference/)
 * [[451] Sort Characters By Frequency](./problems/Hash%20Table/[451]%20Sort%20Characters%20By%20Frequency/)
