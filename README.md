@@ -118,3 +118,7 @@
 
   * `Dual PQ`
     * [[2402] Meeting Rooms III](./problems/Priority%20Queue/[2402]%20Meeting%20Rooms%20III/)
+
+#### [Backtracking](./problems/Backtracking/)
+
+* [[79] Word Search](./problems/Backtracking/[79]%20Word%20Search/)
