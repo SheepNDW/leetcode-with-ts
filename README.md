@@ -13,6 +13,7 @@
 * [[341] Flatten Nested List Iterator](./problems/Stack/[341]%20Flatten%20Nested%20List%20Iterator/)  (Medium)
 * [[735] Asteroid Collision](./problems/Stack/[735]%20Asteroid%20Collision/)  (Medium)
 * [[1441] Build an Array With Stack Operations](./problems/Stack/[1441]%20Build%20an%20Array%20With%20Stack%20Operations/)  (Medium)
+* [[1614] Maximum Nesting Depth of the Parentheses](./problems/Stack/[1614]%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/)
 
     * `monotonic stack: next greater / smaller`
       * [[739] Daily Temperatures](./problems/Stack/[739]%20Daily%20Temperatures/)  (Medium)
