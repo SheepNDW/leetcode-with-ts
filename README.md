@@ -108,6 +108,8 @@
       * [[41] First Missing Positive](./problems/Greedy/[41]%20First%20Missing%20Positive/)
       * [[287] Find the Duplicate Number](./problems/Two%20Pointer/[287]%20Find%20the%20Duplicate%20Number/)
       * [[442] Find All Duplicates in an Array](./problems/Greedy/[442]%20Find%20All%20Duplicates%20in%20an%20Array/) 
+    * `Parenthesis`
+      * [[678] Valid Parenthesis String](./problems/Greedy/[678]%20Valid%20Parenthesis%20String/)
     * `Intervals`
       * [[452] Minimum Number of Arrows to Burst Balloons](./problems/Greedy/[452]%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons/)
 
