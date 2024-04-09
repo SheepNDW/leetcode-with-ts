@@ -20,6 +20,10 @@
       * [[739] Daily Temperatures](./problems/Stack/[739]%20Daily%20Temperatures/)  (Medium)
       * [[907] Sum of Subarray Minimums](./problems/Stack/[907]%20Sum%20of%20Subarray%20Minimums/)  (Medium)
 
+#### [Queue](./problems/Queue/)
+
+* [[1700] Number of Students Unable to Eat Lunch](./problems/Queue/[1700]%20Number%20of%20Students%20Unable%20to%20Eat%20Lunch/)
+
 #### [Priority Queue](./problems/Priority%20Queue/)
 
 * [[1642] Furthest Building You Can Reach](./problems/Priority%20Queue/[1642]%20Furthest%20Building%20You%20Can%20Reach/)
