@@ -23,6 +23,7 @@
 #### [Queue](./problems/Queue/)
 
 * [[1700] Number of Students Unable to Eat Lunch](./problems/Queue/[1700]%20Number%20of%20Students%20Unable%20to%20Eat%20Lunch/)
+* [[2073] Time Needed to Buy Tickets](./problems/Queue/[2073]%20Time%20Needed%20to%20Buy%20Tickets/)
 
 #### [Priority Queue](./problems/Priority%20Queue/)
 
