@@ -19,6 +19,8 @@
     * `monotonic stack: next greater / smaller`
       * [[739] Daily Temperatures](./problems/Stack/[739]%20Daily%20Temperatures/)  (Medium)
       * [[907] Sum of Subarray Minimums](./problems/Stack/[907]%20Sum%20of%20Subarray%20Minimums/)  (Medium)
+    * `form smallest sequence`
+      * [[402] Remove K Digits](./problems/Stack/[402]%20Remove%20K%20Digits/)
 
 #### [Queue](./problems/Queue/)
 
