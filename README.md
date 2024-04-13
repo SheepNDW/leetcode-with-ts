@@ -17,6 +17,7 @@
 * [[1614] Maximum Nesting Depth of the Parentheses](./problems/Stack/[1614]%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/)
 
     * `monotonic stack: next greater / smaller`
+      * [[42] Trapping Rain Water](./problems/Stack/[42]%20Trapping%20Rain%20Water/)
       * [[739] Daily Temperatures](./problems/Stack/[739]%20Daily%20Temperatures/)  (Medium)
       * [[907] Sum of Subarray Minimums](./problems/Stack/[907]%20Sum%20of%20Subarray%20Minimums/)  (Medium)
     * `form smallest sequence`
@@ -112,6 +113,8 @@
     * `Two-pass distribution`
       * [[135] Candy](./problems/Greedy/[135]%20Candy/)
       * [[1846] Maximum Element After Decreasing and Rearranging](./problems/Greedy/[1846]%20Maximum%20Element%20After%20Decreasing%20and%20Rearranging/)
+    * `Three-pass`
+      * [[42] Trapping Rain Water](./problems/Stack/[42]%20Trapping%20Rain%20Water/)
     * `Indexing Sort (Cycle Sort)`
       * [[41] First Missing Positive](./problems/Greedy/[41]%20First%20Missing%20Positive/)
       * [[287] Find the Duplicate Number](./problems/Two%20Pointer/[287]%20Find%20the%20Duplicate%20Number/)
