@@ -4,22 +4,23 @@
 
 #### [Stack](./problems/Stack/)
 
-* [[20] Valid Parentheses](./problems/Stack/[20]%20Valid%20Parentheses/])  (Easy)
-* [[71] Simplify Path](./problems/Stack/[71]%20Simplify%20Path/)  (Medium)
-* [[150] Evaluate Reverse Polish Notation](./problems/Stack/[150]%20Evaluate%20Reverse%20Polish%20Notation/)  (Medium)
-* [[225] Implement Stack using Queues](./problems/Stack/[225]%20Implement%20Stack%20using%20Queues/)  (Easy)
-* [[232] Implement Queue using Stacks](./problems/Stack/[232]%20Implement%20Queue%20using%20Stacks/)  (Easy)
-* [[316] Remove Duplicate Letters](./problems/Stack/[316]%20Remove%20Duplicate%20Letters/)  (Medium)
-* [[341] Flatten Nested List Iterator](./problems/Stack/[341]%20Flatten%20Nested%20List%20Iterator/)  (Medium)
-* [[735] Asteroid Collision](./problems/Stack/[735]%20Asteroid%20Collision/)  (Medium)
+* [[20] Valid Parentheses](./problems/Stack/[20]%20Valid%20Parentheses/])
+* [[71] Simplify Path](./problems/Stack/[71]%20Simplify%20Path/)
+* [[150] Evaluate Reverse Polish Notation](./problems/Stack/[150]%20Evaluate%20Reverse%20Polish%20Notation/)
+* [[225] Implement Stack using Queues](./problems/Stack/[225]%20Implement%20Stack%20using%20Queues/)
+* [[232] Implement Queue using Stacks](./problems/Stack/[232]%20Implement%20Queue%20using%20Stacks/)
+* [[316] Remove Duplicate Letters](./problems/Stack/[316]%20Remove%20Duplicate%20Letters/)
+* [[341] Flatten Nested List Iterator](./problems/Stack/[341]%20Flatten%20Nested%20List%20Iterator/)
+* [[735] Asteroid Collision](./problems/Stack/[735]%20Asteroid%20Collision/)
 * [[1249] Minimum Remove to Make Valid Parentheses](./problems/Stack/[1249]%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses/)
 * [[1441] Build an Array With Stack Operations](./problems/Stack/[1441]%20Build%20an%20Array%20With%20Stack%20Operations/)  (Medium)
 * [[1614] Maximum Nesting Depth of the Parentheses](./problems/Stack/[1614]%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/)
 
     * `monotonic stack: next greater / smaller`
+      * [[84] Largest Rectangle in Histogram](./problems/Stack/[84]%20Largest%20Rectangle%20in%20Histogram/)
       * [[42] Trapping Rain Water](./problems/Stack/[42]%20Trapping%20Rain%20Water/)
-      * [[739] Daily Temperatures](./problems/Stack/[739]%20Daily%20Temperatures/)  (Medium)
-      * [[907] Sum of Subarray Minimums](./problems/Stack/[907]%20Sum%20of%20Subarray%20Minimums/)  (Medium)
+      * [[739] Daily Temperatures](./problems/Stack/[739]%20Daily%20Temperatures/)
+      * [[907] Sum of Subarray Minimums](./problems/Stack/[907]%20Sum%20of%20Subarray%20Minimums/)
     * `form smallest sequence`
       * [[402] Remove K Digits](./problems/Stack/[402]%20Remove%20K%20Digits/)
 
