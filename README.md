@@ -145,5 +145,10 @@
   * [[129] Sum Root to Leaf Numbers](./problems/Tree/[129]%20Sum%20Root%20to%20Leaf%20Numbers/)
   * [[623] Add One Row to Tree](./problems/Tree/[623]%20Add%20One%20Row%20to%20Tree/)
 
-* `BFS`
-  * [[752] Open the Lock](./problems/BFS/[752]%20Open%20the%20Lock/)
+
+#### [BFS](./problems/BFS/)
+
+* [[752] Open the Lock](./problems/BFS/[752]%20Open%20the%20Lock/)
+
+  * `拓撲排序`
+    * [[310] Minimum Height Trees](./problems/BFS/[310]%20Minimum%20Height%20Trees/)
