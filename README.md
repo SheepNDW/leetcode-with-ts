@@ -30,11 +30,6 @@
 * [[1700] Number of Students Unable to Eat Lunch](./problems/Queue/[1700]%20Number%20of%20Students%20Unable%20to%20Eat%20Lunch/)
 * [[2073] Time Needed to Buy Tickets](./problems/Queue/[2073]%20Time%20Needed%20to%20Buy%20Tickets/)
 
-#### [Priority Queue](./problems/Priority%20Queue/)
-
-* [[1642] Furthest Building You Can Reach](./problems/Priority%20Queue/[1642]%20Furthest%20Building%20You%20Can%20Reach/)
-* [[2402] Meeting Rooms III](./problems/Priority%20Queue/[2402]%20Meeting%20Rooms%20III/)
-
 #### [Hash Table](./problems/Hash%20Table/)
 
 * [[1] Two Sum](./problems/Hash%20Table/[1]%20Two%20Sum/)
@@ -124,6 +119,10 @@
       * [[678] Valid Parenthesis String](./problems/Greedy/[678]%20Valid%20Parenthesis%20String/)
     * `Intervals`
       * [[452] Minimum Number of Arrows to Burst Balloons](./problems/Greedy/[452]%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons/)
+
+#### [Dynamic Programming](./problems/Dynamic%20Programming/)
+
+* [[1137] N-th Tribonacci Number](./problems/Dynamic%20Programming/[1137]%20N-th%20Tribonacci%20Number/)
 
 #### [Priority Queue](./problems/Priority%20Queue/)
 
