@@ -119,6 +119,8 @@
       * [[678] Valid Parenthesis String](./problems/Greedy/[678]%20Valid%20Parenthesis%20String/)
     * `Intervals`
       * [[452] Minimum Number of Arrows to Burst Balloons](./problems/Greedy/[452]%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons/)
+    * `State Machine`
+      * [[2370] Longest Ideal Subsequence](./problems/Dynamic%20Programming/[2370]%20Longest%20Ideal%20Subsequence/) 
 
 #### [Dynamic Programming](./problems/Dynamic%20Programming/)
 
