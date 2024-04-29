@@ -126,6 +126,10 @@
 
 * [[1137] N-th Tribonacci Number](./problems/Dynamic%20Programming/[1137]%20N-th%20Tribonacci%20Number/)
 
+  * `走迷宮型`
+    * [[931] Minimum Falling Path Sum](./problems/Dynamic%20Programming/[931]%20Minimum%20Falling%20Path%20Sum/)
+    * [[1289] Minimum Falling Path Sum II](./problems/Dynamic%20Programming/[1289]%20Minimum%20Falling%20Path%20Sum%20II/)
+
 #### [Priority Queue](./problems/Priority%20Queue/)
 
 * [[1642] Furthest Building You Can Reach](./problems/Priority%20Queue/[1642]%20Furthest%20Building%20You%20Can%20Reach/)
