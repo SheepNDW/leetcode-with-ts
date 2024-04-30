@@ -18,6 +18,7 @@
 
     * `monotonic stack: next greater / smaller`
       * [[84] Largest Rectangle in Histogram](./problems/Stack/[84]%20Largest%20Rectangle%20in%20Histogram/)
+      * [[85] Maximal Rectangle](./problems/Stack/[85]%20Maximal%20Rectangle/)
       * [[42] Trapping Rain Water](./problems/Stack/[42]%20Trapping%20Rain%20Water/)
       * [[739] Daily Temperatures](./problems/Stack/[739]%20Daily%20Temperatures/)
       * [[907] Sum of Subarray Minimums](./problems/Stack/[907]%20Sum%20of%20Subarray%20Minimums/)
