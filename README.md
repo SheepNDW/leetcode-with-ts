@@ -64,6 +64,7 @@
   * `hash + prefix`
     * [[525] Contiguous Array](./problems/Hash%20Table/[525]%20Contiguous%20Array/)
     * [[930] Binary Subarrays With Sum](./problems/Hash%20Table/[930]%20Binary%20Subarrays%20With%20Sum/)
+    * [[1915] Number of Wonderful Substrings](./problems/Hash%20Table/[1915]%20Number%20of%20Wonderful%20Substrings/)
 
 #### [Linked List](./problems/Linked%20List/)
 
