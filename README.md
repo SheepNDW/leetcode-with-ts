@@ -156,6 +156,7 @@
 #### [BFS](./problems/BFS/)
 
 * [[752] Open the Lock](./problems/BFS/[752]%20Open%20the%20Lock/)
+* [[1992] Find All Groups of Farmland](./problems/BFS/[1992]%20Find%20All%20Groups%20of%20Farmland/)
 
   * `拓撲排序`
     * [[310] Minimum Height Trees](./problems/BFS/[310]%20Minimum%20Height%20Trees/)
