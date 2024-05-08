@@ -78,6 +78,7 @@
 * [[1171] Remove Zero Sum Consecutive Nodes from Linked List](./problems/Linked%20List/[1171]%20Remove%20Zero%20Sum%20Consecutive%20Nodes%20from%20Linked%20List/)
 * [[1669] Merge In Between Linked Lists](./problems/Linked%20List/[1669]%20Merge%20In%20Between%20Linked%20Lists/)
 * [[2487] Remove Nodes From Linked List](./problems/Linked%20List/[2487]%20Remove%20Nodes%20From%20Linked%20List/)
+* [[2816] Double a Number Represented as a Linked List](./problems/Linked%20List/[2816]%20Double%20a%20Number%20Represented%20as%20a%20Linked%20List/)
 
 #### [Two Pointer](./problems/Two%20Pointer/)
 
