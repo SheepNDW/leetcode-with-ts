@@ -109,6 +109,7 @@
 * [[1921] Eliminate Maximum Number of Monsters](./problems/Greedy/[1921]%20Eliminate%20Maximum%20Number%20of%20Monsters/)
 * [[2366] Minimum Replacements to Sort the Array](./problems/Greedy/[2366]%20Minimum%20Replacements%20to%20Sort%20the%20Array/)
 * [[2864] Maximum Odd Binary Number](./problems/Greedy/[2864]%20Maximum%20Odd%20Binary%20Number/)
+* [[3075] Maximize Happiness of Selected Children](./problems/Greedy/[3075]%20Maximize%20Happiness%20of%20Selected%20Children/)
 
     * `Two-pass distribution`
       * [[135] Candy](./problems/Greedy/[135]%20Candy/)
