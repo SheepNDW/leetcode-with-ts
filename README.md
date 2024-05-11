@@ -167,3 +167,8 @@
 #### [String](./problems/String/)
 
 * [[165] Compare Version Numbers](./problems/String/[165]%20Compare%20Version%20Numbers/)
+
+#### [Binary Search](./problems/Binary%20Search/)
+
+* `Find K-th Element`
+  * [[786] K-th Smallest Prime Fraction](./problems/Binary%20Search/[786]%20K-th%20Smallest%20Prime%20Fraction/)
