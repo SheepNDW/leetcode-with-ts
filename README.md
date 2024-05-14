@@ -5,6 +5,7 @@
 #### [Array](./problems/Array/)
 
 * `matrix`
+  * [[861] Score After Flipping Matrix](./problems/Array/[861]%20Score%20After%20Flipping%20Matrix/)
   * [[2373] Largest Local Values in a Matrix](./problems/Array/[2373]%20Largest%20Local%20Values%20in%20a%20Matrix/)
 
 #### [Stack](./problems/Stack/)
