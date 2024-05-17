@@ -150,13 +150,14 @@
 
   * `Dual PQ`
     * [[2402] Meeting Rooms III](./problems/Priority%20Queue/[2402]%20Meeting%20Rooms%20III/)
-  
+
   * `Sort+PQ`
     * [[857] Minimum Cost to Hire K Workers](./problems/Priority%20Queue/[857]%20Minimum%20Cost%20to%20Hire%20K%20Workers/)
 
 #### [Backtracking](./problems/Backtracking/)
 
 * [[79] Word Search](./problems/Backtracking/[79]%20Word%20Search/)
+* [[1219] Path with Maximum Gold](./problems/Backtracking/[1219]%20Path%20with%20Maximum%20Gold/)
 
 #### [Tree](./problems/Tree/)
 
