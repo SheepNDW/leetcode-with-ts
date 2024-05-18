@@ -47,4 +47,30 @@ class Tree {
   }
 }
 
-export { TreeNode, Tree };
+function treeToArray(root: TreeNode | null): (number | null)[] {
+  if (!root) return [];
+
+  const queue: (TreeNode | null)[] = [root];
+  const result: (number | null)[] = [];
+
+  while (queue.length) {
+    const current = queue.shift()!;
+    if (current === null) {
+      result.push(null);
+    } else {
+      result.push(current.val);
+      // 只有當節點存在時才將其子節點加入 queue
+      queue.push(current.left);
+      queue.push(current.right);
+    }
+  }
+
+  // 移除結尾的多餘 null
+  while (result[result.length - 1] === null) {
+    result.pop();
+  }
+
+  return result;
+}
+
+export { TreeNode, Tree, treeToArray };

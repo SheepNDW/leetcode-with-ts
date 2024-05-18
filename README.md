@@ -164,6 +164,7 @@
 * `DFS`
   * [[129] Sum Root to Leaf Numbers](./problems/Tree/[129]%20Sum%20Root%20to%20Leaf%20Numbers/)
   * [[623] Add One Row to Tree](./problems/Tree/[623]%20Add%20One%20Row%20to%20Tree/)
+  * [[1325] Delete Leaves With a Given Value](./problems/Tree/[1325]%20Delete%20Leaves%20With%20a%20Given%20Value/)
 
 
 #### [BFS](./problems/BFS/)
