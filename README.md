@@ -185,3 +185,7 @@
 
 * `Find K-th Element`
   * [[786] K-th Smallest Prime Fraction](./problems/Binary%20Search/[786]%20K-th%20Smallest%20Prime%20Fraction/)
+
+#### [Others](./problems/Others/)
+
+* [[3068] Find the Maximum Sum of Node Values](./problems/Others/[3068]%20Find%20the%20Maximum%20Sum%20of%20Node%20Values/)
