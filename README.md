@@ -158,6 +158,7 @@
 
 * [[79] Word Search](./problems/Backtracking/[79]%20Word%20Search/)
 * [[1219] Path with Maximum Gold](./problems/Backtracking/[1219]%20Path%20with%20Maximum%20Gold/)
+* [[1863] Sum of All Subset XOR Totals](./problems/Backtracking/[1863]%20Sum%20of%20All%20Subset%20XOR%20Totals/)
 
 #### [Tree](./problems/Tree/)
 
