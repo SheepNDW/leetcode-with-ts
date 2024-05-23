@@ -140,6 +140,8 @@
   * `走迷宮型`
     * [[931] Minimum Falling Path Sum](./problems/Dynamic%20Programming/[931]%20Minimum%20Falling%20Path%20Sum/)
     * [[1289] Minimum Falling Path Sum II](./problems/Dynamic%20Programming/[1289]%20Minimum%20Falling%20Path%20Sum%20II/)
+  * `區間型 II`
+    * [[131] Palindrome Partitioning](./problems/Dynamic%20Programming/[131]%20Palindrome%20Partitioning/])
 
 #### [Priority Queue](./problems/Priority%20Queue/)
 
@@ -157,6 +159,7 @@
 #### [Backtracking](./problems/Backtracking/)
 
 * [[79] Word Search](./problems/Backtracking/[79]%20Word%20Search/)
+* [[131] Palindrome Partitioning](./problems/Dynamic%20Programming/[131]%20Palindrome%20Partitioning/])
 * [[1219] Path with Maximum Gold](./problems/Backtracking/[1219]%20Path%20with%20Maximum%20Gold/)
 * [[1863] Sum of All Subset XOR Totals](./problems/Backtracking/[1863]%20Sum%20of%20All%20Subset%20XOR%20Totals/)
 
