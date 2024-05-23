@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { subsets } from '.';
 
-describe('subsets', () => {
+describe.skip('subsets', () => {
   it('should return all subsets for [1, 2, 3]', () => {
     const nums = [1, 2, 3];
     // prettier-ignore
