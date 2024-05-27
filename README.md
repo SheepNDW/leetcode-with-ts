@@ -104,6 +104,11 @@
       * [[287] Find the Duplicate Number](./problems/Two%20Pointer/[287]%20Find%20the%20Duplicate%20Number/)
       * [[876] Middle of the Linked List](./problems/Linked%20List/[876]%20Middle%20of%20the%20Linked%20List/)
 
+#### [Binary Search](./problems/Binary%20Search/)
+
+* `Binary Search by Value`
+  * [[1608] Special Array With X Elements Greater Than or Equal X](./problems/Binary%20Search/[1608]%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X/)
+
 #### [Greedy](./problems/Greedy/)
 
 * [[45] Jump Game II](./problems/Greedy/[45]%20Jump%20Game%20II/)
