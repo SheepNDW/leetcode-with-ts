@@ -94,6 +94,7 @@
     * `Sliding window`
       * [[713] Subarray Product Less Than K](./problems/Sliding%20Window/[713]%20Subarray%20Product%20Less%20Than%20K/)
       * [[992] Subarrays with K Different Integers](./problems/Sliding%20Window/[992]%20Subarrays%20with%20K%20Different%20Integers/)
+      * [[1208] Get Equal Substrings Within Budget](./problems/Sliding%20Window/[1208]%20Get%20Equal%20Substrings%20Within%20Budget/)
       * [[2444] Count Subarrays With Fixed Bounds](./problems/Sliding%20Window/[2444]%20Count%20Subarrays%20With%20Fixed%20Bounds/)
       * [[2958] Length of Longest Subarray With at Most K Frequency](./problems/Sliding%20Window/[2958]%20Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency/)
       * [[2962] Count Subarrays Where Max Element Appears at Least K Times](./problems/Sliding%20Window/[2962]%20Count%20Subarrays%20Where%20Max%20Element%20Appears%20at%20Least%20K%20Times/)
