@@ -199,6 +199,10 @@
 * `Find K-th Element`
   * [[786] K-th Smallest Prime Fraction](./problems/Binary%20Search/[786]%20K-th%20Smallest%20Prime%20Fraction/)
 
+#### [Bit Manipulation](./problems/Bit%20Manipulation/)
+
+* [[1404] Number of Steps to Reduce a Number in Binary Representation to One](./problems/Bit%20Manipulation/[1404]%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One/)
+
 #### [Others](./problems/Others/)
 
 * [[3068] Find the Maximum Sum of Node Values](./problems/Others/[3068]%20Find%20the%20Maximum%20Sum%20of%20Node%20Values/)
