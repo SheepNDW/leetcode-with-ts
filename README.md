@@ -70,6 +70,7 @@
   * `hash + prefix`
     * [[525] Contiguous Array](./problems/Hash%20Table/[525]%20Contiguous%20Array/)
     * [[930] Binary Subarrays With Sum](./problems/Hash%20Table/[930]%20Binary%20Subarrays%20With%20Sum/)
+    * [[1442] Count Triplets That Can Form Two Arrays of Equal XOR](./problems/Bit%20Manipulation/[1442]%20Count%20Triplets%20That%20Can%20Form%20Two%20Arrays%20of%20Equal%20XOR/)
     * [[1915] Number of Wonderful Substrings](./problems/Hash%20Table/[1915]%20Number%20of%20Wonderful%20Substrings/)
 
 #### [Linked List](./problems/Linked%20List/)
@@ -202,6 +203,9 @@
 #### [Bit Manipulation](./problems/Bit%20Manipulation/)
 
 * [[1404] Number of Steps to Reduce a Number in Binary Representation to One](./problems/Bit%20Manipulation/[1404]%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One/)
+
+* `XOR`
+  * [[1442] Count Triplets That Can Form Two Arrays of Equal XOR](./problems/Bit%20Manipulation/[1442]%20Count%20Triplets%20That%20Can%20Form%20Two%20Arrays%20of%20Equal%20XOR/)
 
 #### [Others](./problems/Others/)
 
