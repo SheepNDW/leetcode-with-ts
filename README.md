@@ -50,6 +50,7 @@
 * [[645] Set Mismatch](./problems/Hash%20Table/[645]%20Set%20Mismatch/)
 * [[767] Reorganize String](./problems/Hash%20Table/[767]%20Reorganize%20String/)
 * [[791] Custom Sort String](./problems/Hash%20Table/[791]%20Custom%20Sort%20String/)
+* [[846] Hand of Straights](./problems/Hash%20Table/[846]%20Hand%20of%20Straights/)
 * [[859] Buddy Strings](./problems/Hash%20Table/[859]%20Buddy%20Strings/)
 * [[1002] Find Common Characters](./problems/Hash%20Table/[1002]%20Find%20Common%20Characters/)
 * [[1074] Number of Submatrices That Sum to Target](./problems/Hash%20Table/[1074]%20Number%20of%20Submatrices%20That%20Sum%20to%20Target/)
