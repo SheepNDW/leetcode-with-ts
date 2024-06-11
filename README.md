@@ -10,6 +10,7 @@
 
 * `sorting`
   * [[1051] Height Checker](./problems/Array/[1051]%20Height%20Checker/)
+  * [[1122] Relative Sort Array](./problems/Array/[1122]%20Relative%20Sort%20Array/])
 
 #### [Stack](./problems/Stack/)
 
