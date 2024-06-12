@@ -98,6 +98,7 @@
 #### [Two Pointer](./problems/Two%20Pointer/)
 
 * [[15] 3sum](./problems/Two%20Pointer/[15]%203Sum/)
+* [[75] Sort Colors](./problems/Two%20Pointer/[75]%20Sort%20Colors/)
 * [[344] Reverse String](./problems/Two%20Pointer/[344]%20Reverse%20String/)
 * [[2486] Append Characters to String to Make Subsequence](./problems/Two%20Pointer/[2486]%20Append%20Characters%20to%20String%20to%20Make%20Subsequence/)
 
