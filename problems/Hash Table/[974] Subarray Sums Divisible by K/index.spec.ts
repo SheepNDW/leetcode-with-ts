@@ -19,4 +19,13 @@ describe.skip('subarraysDivByK', () => {
 
     expect(result).toBe(0);
   });
+
+  it('should return 1 for nums = [-6,1,-5,10], k = 9', () => {
+    const nums = [-6, 1, -5, 10];
+    const k = 9;
+
+    const result = subarraysDivByK(nums, k);
+
+    expect(result).toBe(1);
+  });
 });
