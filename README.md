@@ -9,12 +9,13 @@
   * [[2373] Largest Local Values in a Matrix](./problems/Array/[2373]%20Largest%20Local%20Values%20in%20a%20Matrix/)
 
 * `sorting`
+  * [[945] Minimum Increment to Make Array Unique](./problems/Array/[945]%20Minimum%20Increment%20to%20Make%20Array%20Unique/)
   * [[1051] Height Checker](./problems/Array/[1051]%20Height%20Checker/)
-  * [[1122] Relative Sort Array](./problems/Array/[1122]%20Relative%20Sort%20Array/])
+  * [[1122] Relative Sort Array](./problems/Array/[1122]%20Relative%20Sort%20Array/)
 
 #### [Stack](./problems/Stack/)
 
-* [[20] Valid Parentheses](./problems/Stack/[20]%20Valid%20Parentheses/])
+* [[20] Valid Parentheses](./problems/Stack/[20]%20Valid%20Parentheses/)
 * [[71] Simplify Path](./problems/Stack/[71]%20Simplify%20Path/)
 * [[150] Evaluate Reverse Polish Notation](./problems/Stack/[150]%20Evaluate%20Reverse%20Polish%20Notation/)
 * [[225] Implement Stack using Queues](./problems/Stack/[225]%20Implement%20Stack%20using%20Queues/)
