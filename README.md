@@ -174,6 +174,7 @@
     * [[2402] Meeting Rooms III](./problems/Priority%20Queue/[2402]%20Meeting%20Rooms%20III/)
 
   * `Sort+PQ`
+    * [[502] IPO](./problems/Priority%20Queue/[502]%20IPO/)
     * [[857] Minimum Cost to Hire K Workers](./problems/Priority%20Queue/[857]%20Minimum%20Cost%20to%20Hire%20K%20Workers/)
 
 #### [Backtracking](./problems/Backtracking/)
