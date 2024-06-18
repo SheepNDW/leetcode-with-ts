@@ -224,6 +224,10 @@
 * `XOR`
   * [[1442] Count Triplets That Can Form Two Arrays of Equal XOR](./problems/Bit%20Manipulation/[1442]%20Count%20Triplets%20That%20Can%20Form%20Two%20Arrays%20of%20Equal%20XOR/)
 
+#### [Math](./problems/Math/)
+
+* [[633] Sum of Square Numbers](./problems/Math/[633]%20Sum%20of%20Square%20Numbers/)
+
 #### [Others](./problems/Others/)
 
 * [[3068] Find the Maximum Sum of Node Values](./problems/Others/[3068]%20Find%20the%20Maximum%20Sum%20of%20Node%20Values/)
