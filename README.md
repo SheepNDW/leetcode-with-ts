@@ -141,6 +141,8 @@
       * [[1846] Maximum Element After Decreasing and Rearranging](./problems/Greedy/[1846]%20Maximum%20Element%20After%20Decreasing%20and%20Rearranging/)
     * `Three-pass`
       * [[42] Trapping Rain Water](./problems/Stack/[42]%20Trapping%20Rain%20Water/)
+    * `Sort`
+      * [[826] Most Profit Assigning Work](./problems/Greedy/[826]%20Most%20Profit%20Assigning%20Work/)
     * `Indexing Sort (Cycle Sort)`
       * [[41] First Missing Positive](./problems/Greedy/[41]%20First%20Missing%20Positive/)
       * [[287] Find the Duplicate Number](./problems/Two%20Pointer/[287]%20Find%20the%20Duplicate%20Number/)
