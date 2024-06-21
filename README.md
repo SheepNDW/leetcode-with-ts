@@ -122,6 +122,7 @@
 
 * `Binary Search by Value`
   * [[1482] Minimum Number of Days to Make m Bouquets](./problems/Binary%20Search/[1482]%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets/)
+  * [[1552] Magnetic Force Between Two Balls](./problems/Binary%20Search/[1552]%20Magnetic%20Force%20Between%20Two%20Balls/)
   * [[1608] Special Array With X Elements Greater Than or Equal X](./problems/Binary%20Search/[1608]%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X/)
 
 #### [Greedy](./problems/Greedy/)
