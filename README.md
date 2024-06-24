@@ -237,3 +237,6 @@
 #### [Others](./problems/Others/)
 
 * [[3068] Find the Maximum Sum of Node Values](./problems/Others/[3068]%20Find%20the%20Maximum%20Sum%20of%20Node%20Values/)
+
+* `掃描線 / 差分陣列`
+  * [[995] Minimum Number of K Consecutive Bit Flips](./problems/Others/[995]%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips/)
