@@ -241,3 +241,4 @@
 * `掃描線 / 差分陣列`
   * [[995] Minimum Number of K Consecutive Bit Flips](./problems/Others/[995]%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips/)
   * [[1094] Car Pooling](./problems/Others/[1094]%20Car%20Pooling/)
+  * [[1109] Corporate Flight Bookings](./problems/Others/[1109]%20Corporate%20Flight%20Bookings/)
