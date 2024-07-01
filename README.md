@@ -235,6 +235,10 @@
 
 * [[633] Sum of Square Numbers](./problems/Math/[633]%20Sum%20of%20Square%20Numbers/)
 
+#### [Graph](./problems/Graph/)
+
+* [[2285] Maximum Total Importance of Roads](./problems/Graph/[2285]%20Maximum%20Total%20Importance%20of%20Roads/)
+
 #### [Others](./problems/Others/)
 
 * [[3068] Find the Maximum Sum of Node Values](./problems/Others/[3068]%20Find%20the%20Maximum%20Sum%20of%20Node%20Values/)
