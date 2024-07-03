@@ -195,6 +195,8 @@
 
 #### [Tree](./problems/Tree/)
 
+* [[1382] Balance a Binary Search Tree](./problems/Tree/[1382]%20Balance%20a%20Binary%20Search%20Tree/)
+
 * `DFS`
   * [[129] Sum Root to Leaf Numbers](./problems/Tree/[129]%20Sum%20Root%20to%20Leaf%20Numbers/)
   * [[623] Add One Row to Tree](./problems/Tree/[623]%20Add%20One%20Row%20to%20Tree/)
