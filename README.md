@@ -12,6 +12,7 @@
   * [[945] Minimum Increment to Make Array Unique](./problems/Array/[945]%20Minimum%20Increment%20to%20Make%20Array%20Unique/)
   * [[1051] Height Checker](./problems/Array/[1051]%20Height%20Checker/)
   * [[1122] Relative Sort Array](./problems/Array/[1122]%20Relative%20Sort%20Array/)
+  * [[1509] Minimum Difference Between Largest and Smallest Value in Three Moves](./problems/Array/[1509]%20Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves/)
 
 #### [Stack](./problems/Stack/)
 
