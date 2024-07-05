@@ -97,6 +97,7 @@
 * [[1669] Merge In Between Linked Lists](./problems/Linked%20List/[1669]%20Merge%20In%20Between%20Linked%20Lists/)
 * [[2487] Remove Nodes From Linked List](./problems/Linked%20List/[2487]%20Remove%20Nodes%20From%20Linked%20List/)
 * [[2816] Double a Number Represented as a Linked List](./problems/Linked%20List/[2816]%20Double%20a%20Number%20Represented%20as%20a%20Linked%20List/)
+* [[2181] Merge Nodes in Between Zeros](./problems/Linked%20List/[2181]%20Merge%20Nodes%20in%20Between%20Zeros/)
 
 #### [Two Pointer](./problems/Two%20Pointer/)
 
