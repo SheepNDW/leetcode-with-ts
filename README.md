@@ -95,6 +95,7 @@
 * [[234] Palindrome Linked List](./problems/Linked%20List/[234]%20Palindrome%20Linked%20List/)
 * [[1171] Remove Zero Sum Consecutive Nodes from Linked List](./problems/Linked%20List/[1171]%20Remove%20Zero%20Sum%20Consecutive%20Nodes%20from%20Linked%20List/)
 * [[1669] Merge In Between Linked Lists](./problems/Linked%20List/[1669]%20Merge%20In%20Between%20Linked%20Lists/)
+* [[2058] Find the Minimum and Maximum Number of Nodes Between Critical Points](./problems/Linked%20List/[2058]%20Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points/)
 * [[2487] Remove Nodes From Linked List](./problems/Linked%20List/[2487]%20Remove%20Nodes%20From%20Linked%20List/)
 * [[2816] Double a Number Represented as a Linked List](./problems/Linked%20List/[2816]%20Double%20a%20Number%20Represented%20as%20a%20Linked%20List/)
 * [[2181] Merge Nodes in Between Zeros](./problems/Linked%20List/[2181]%20Merge%20Nodes%20in%20Between%20Zeros/)
