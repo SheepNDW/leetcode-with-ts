@@ -14,6 +14,9 @@
   * [[1122] Relative Sort Array](./problems/Array/[1122]%20Relative%20Sort%20Array/)
   * [[1509] Minimum Difference Between Largest and Smallest Value in Three Moves](./problems/Array/[1509]%20Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves/)
 
+* `simulation`
+  * [[1701] Average Waiting Time](./problems/Array/[1701]%20Average%20Waiting%20Time/)
+
 #### [Stack](./problems/Stack/)
 
 * [[20] Valid Parentheses](./problems/Stack/[20]%20Valid%20Parentheses/)
