@@ -142,6 +142,7 @@
 * [[649] Dota2 Senate](./problems/Greedy/[649]%20Dota2%20Senate/)
 * [[948] Bag of Tokens](./problems/Greedy/[948]%20Bag%20of%20Tokens/)
 * [[1561] Maximum Number of Coins You Can Get](./problems/Greedy/[1561]%20Maximum%20Number%20of%20Coins%20You%20Can%20Get/)
+* [[1717] Maximum Score From Removing Substrings](./problems/Greedy/[1717]%20Maximum%20Score%20From%20Removing%20Substrings/)
 * [[1727] Largest Submatrix With Rearrangements](./problems/Greedy/[1727]%20Largest%20Submatrix%20With%20Rearrangements/)
 * [[1921] Eliminate Maximum Number of Monsters](./problems/Greedy/[1921]%20Eliminate%20Maximum%20Number%20of%20Monsters/)
 * [[2366] Minimum Replacements to Sort the Array](./problems/Greedy/[2366]%20Minimum%20Replacements%20to%20Sort%20the%20Array/)
