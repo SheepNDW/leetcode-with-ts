@@ -75,6 +75,7 @@
 * [[1743] Restore the Array From Adjacent Pairs](./problems/Hash%20Table/[1743]%20Restore%20the%20Array%20From%20Adjacent%20Pairs/)
 * [[1814] Count Nice Pairs in an Array](./problems/Hash%20Table/[1814]%20Count%20Nice%20Pairs%20in%20an%20Array/)
 * [[1897] Redistribute Characters to Make All Strings Equal](./problems/Hash%20Table/[1897]%20Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal/)
+* [[2196] Create Binary Tree From Descriptions](./problems/Hash%20Table/[2196]%20Create%20Binary%20Tree%20From%20Descriptions/)
 * [[2215] Find the Difference of Two Arrays](./problems/Hash%20Table/[2215]%20Find%20the%20Difference%20of%20Two%20Arrays/)
 * [[2225] Find Players With Zero or One Losses](./problems/Hash%20Table/[2225]%20Find%20Players%20With%20Zero%20or%20One%20Losses/)
 * [[2610] Convert an Array Into a 2D Array With Conditions](./problems/Hash%20Table/[2610]%20Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions/)
