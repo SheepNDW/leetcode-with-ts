@@ -213,6 +213,9 @@
   * [[979] Distribute Coins in Binary Tree](./problems/Tree/[979]%20Distribute%20Coins%20in%20Binary%20Tree/)
   * [[1325] Delete Leaves With a Given Value](./problems/Tree/[1325]%20Delete%20Leaves%20With%20a%20Given%20Value/)
 
+* `LCA`
+  * [[2096] Step-By-Step Directions From a Binary Tree Node to Another](./problems/Tree/[2096]%20Step-By-Step%20Directions%20From%20a%20Binary%20Tree%20Node%20to%20Another/)
+
 #### [Trie](./problems/Trie/)
 
 * [[648] Replace Words](./problems/Trie/[648]%20Replace%20Words/)
