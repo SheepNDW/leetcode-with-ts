@@ -213,6 +213,7 @@
   * [[979] Distribute Coins in Binary Tree](./problems/Tree/[979]%20Distribute%20Coins%20in%20Binary%20Tree/)
   * [[1110] Delete Nodes And Return Forest](./problems/Tree/[1110]%20Delete%20Nodes%20And%20Return%20Forest/)
   * [[1325] Delete Leaves With a Given Value](./problems/Tree/[1325]%20Delete%20Leaves%20With%20a%20Given%20Value/)
+  * [[1530] Number of Good Leaf Nodes Pairs](./problems/Tree/[1530]%20Number%20of%20Good%20Leaf%20Nodes%20Pairs/)
 
 * `LCA`
   * [[2096] Step-By-Step Directions From a Binary Tree Node to Another](./problems/Tree/[2096]%20Step-By-Step%20Directions%20From%20a%20Binary%20Tree%20Node%20to%20Another/)
