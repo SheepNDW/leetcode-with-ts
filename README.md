@@ -173,6 +173,7 @@
 #### [Dynamic Programming](./problems/Dynamic%20Programming/)
 
 * [[1137] N-th Tribonacci Number](./problems/Dynamic%20Programming/[1137]%20N-th%20Tribonacci%20Number/)
+* [[1395] Count Number of Teams](./problems/Dynamic%20Programming/[1395]%20Count%20Number%20of%20Teams/)
   * `基本型 I`
     * [[2597] The Number of Beautiful Subsets](./problems/Backtracking/[2597]%20The%20Number%20of%20Beautiful%20Subsets/)
   * `走迷宮型`
