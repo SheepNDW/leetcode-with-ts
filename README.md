@@ -157,6 +157,7 @@
       * [[1846] Maximum Element After Decreasing and Rearranging](./problems/Greedy/[1846]%20Maximum%20Element%20After%20Decreasing%20and%20Rearranging/)
     * `Three-pass`
       * [[42] Trapping Rain Water](./problems/Stack/[42]%20Trapping%20Rain%20Water/)
+      * [[1653] Minimum Deletions to Make String Balanced](./problems/Greedy/[1653]%20Minimum%20Deletions%20to%20Make%20String%20Balanced/)
     * `Sort`
       * [[826] Most Profit Assigning Work](./problems/Greedy/[826]%20Most%20Profit%20Assigning%20Work/)
     * `Indexing Sort (Cycle Sort)`
