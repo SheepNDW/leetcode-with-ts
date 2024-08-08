@@ -177,6 +177,8 @@
 * [[1395] Count Number of Teams](./problems/Dynamic%20Programming/[1395]%20Count%20Number%20of%20Teams/)
   * `基本型 I`
     * [[2597] The Number of Beautiful Subsets](./problems/Backtracking/[2597]%20The%20Number%20of%20Beautiful%20Subsets/)
+  * `基本型 II`
+    * [[1105] Filling Bookcase Shelves](./problems/Dynamic%20Programming/[1105]%20Filling%20Bookcase%20Shelves/)
   * `走迷宮型`
     * [[931] Minimum Falling Path Sum](./problems/Dynamic%20Programming/[931]%20Minimum%20Falling%20Path%20Sum/)
     * [[1289] Minimum Falling Path Sum II](./problems/Dynamic%20Programming/[1289]%20Minimum%20Falling%20Path%20Sum%20II/)
