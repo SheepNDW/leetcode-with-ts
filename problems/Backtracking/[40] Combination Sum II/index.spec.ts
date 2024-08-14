@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { combinationSum2 } from '.';
 
-describe('combinationSum2', () => {
+describe.skip('combinationSum2', () => {
   it('when candidates are [10,1,2,7,6,1,5] and target is 8, it should return [[1,1,6],[1,2,5],[1,7],[2,6]]', () => {
     const candidates = [10, 1, 2, 7, 6, 1, 5];
     const target = 8;

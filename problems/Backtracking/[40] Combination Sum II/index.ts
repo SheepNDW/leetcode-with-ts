@@ -1,33 +1,4 @@
-// TLE
-// function combinationSum2(candidates: number[], target: number): number[][] {
-//   candidates.sort((a, b) => a - b);
-//   const result: number[][] = [];
-//   const combination: number[] = [];
-//   const end = candidates.length;
-//   const hash: Record<string, boolean> = {};
-
-//   const backtrack = (start: number, target: number) => {
-//     const combinationKey = combination.toString();
-//     if (target === 0 && !hash[combinationKey]) {
-//       result.push([...combination]);
-//       hash[combinationKey] = true;
-//       return;
-//     }
-
-//     if (target > 0) {
-//       for (let i = start; i < end; i++) {
-//         combination.push(candidates[i]);
-//         backtrack(i + 1, target - candidates[i]);
-//         combination.pop();
-//       }
-//     }
-//   };
-
-//   backtrack(0, target);
-//   return result;
-// }
-
-function combinationSum2(candidates: number[], target: number): number[][] {
+function combinationSum2_(candidates: number[], target: number): number[][] {
   candidates.sort((a, b) => a - b);
   const result: number[][] = [];
   const combination: number[] = [];
@@ -71,6 +42,36 @@ function combinationSum2(candidates: number[], target: number): number[][] {
 
   backtrack(0, target);
   return result;
+}
+
+/*
+  制定規則連著取，要查看目前的 i 跟前一個是不是相等
+*/
+function combinationSum2(candidates: number[], target: number): number[][] {
+  candidates.sort((a, b) => a - b);
+  const end = candidates.length;
+  const res: number[][] = [];
+  const comb: number[] = [];
+
+  backtrack(0, 0);
+  return res;
+
+  function backtrack(start: number, sum: number) {
+    if (sum === target) {
+      res.push([...comb]);
+      return;
+    }
+
+    if (sum > target) return;
+
+    for (let i = start; i < end; i++) {
+      if (i > start && candidates[i] === candidates[i - 1]) continue;
+
+      comb.push(candidates[i]);
+      backtrack(i + 1, sum + candidates[i]);
+      comb.pop();
+    }
+  }
 }
 
 export { combinationSum2 };
