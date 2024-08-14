@@ -139,6 +139,8 @@
   * [[1552] Magnetic Force Between Two Balls](./problems/Binary%20Search/[1552]%20Magnetic%20Force%20Between%20Two%20Balls/)
   * [[1608] Special Array With X Elements Greater Than or Equal X](./problems/Binary%20Search/[1608]%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X/)
   * [[2517] Maximum Tastiness of Candy Basket](./problems/Binary%20Search/[2517]%20Maximum%20Tastiness%20of%20Candy%20Basket/)
+    * `Find K-th Element`
+      * [[719] Find K-th Smallest Pair Distance](./problems/Binary%20Search/[719]%20Find%20K-th%20Smallest%20Pair%20Distance/)
 
 #### [Greedy](./problems/Greedy/)
 
