@@ -206,6 +206,12 @@
     * [[502] IPO](./problems/Priority%20Queue/[502]%20IPO/)
     * [[857] Minimum Cost to Hire K Workers](./problems/Priority%20Queue/[857]%20Minimum%20Cost%20to%20Hire%20K%20Workers/)
 
+#### [Recursion](./problems/Recursion/)
+
+* [[1611] Minimum One Bit Operations to Make Integers Zero](./problems/Recursion/[1611]%20Minimum%20One%20Bit%20Operations%20to%20Make%20Integers%20Zero/)
+  * `Min-Max Strategy`
+    * [[1140] Stone Game II](./problems/Recursion/[1140]%20Stone%20Game%20II/)
+
 #### [Backtracking](./problems/Backtracking/)
 
 * [[40] Combination Sum II](./problems/Backtracking/[40]%20Combination%20Sum%20II/)
