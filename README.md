@@ -262,6 +262,7 @@
 #### [Bit Manipulation](./problems/Bit%20Manipulation/)
 
 * [[260] Single Number III](./problems/Bit%20Manipulation/[260]%20Single%20Number%20III/)
+* [[476] Number Complement](./problems/Bit%20Manipulation/[476]%20Number%20Complement/)
 * [[1404] Number of Steps to Reduce a Number in Binary Representation to One](./problems/Bit%20Manipulation/[1404]%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One/)
 
 * `XOR`
