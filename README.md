@@ -224,6 +224,7 @@
 
 #### [Tree](./problems/Tree/)
 
+* [[590] N-ary Tree Postorder Traversal](./problems/Tree/[590]%20N-ary%20Tree%20Postorder%20Traversal/)
 * [[1382] Balance a Binary Search Tree](./problems/Tree/[1382]%20Balance%20a%20Binary%20Search%20Tree/)
 
 * `DFS`
