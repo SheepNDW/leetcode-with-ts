@@ -250,6 +250,8 @@
 
   * `拓撲排序`
     * [[310] Minimum Height Trees](./problems/BFS/[310]%20Minimum%20Height%20Trees/)
+  * `Dijkstra (BFS+PQ)`
+    * [[1514] Path with Maximum Probability](./problems/Graph/[1514]%20Path%20with%20Maximum%20Probability/)
 
 #### [String](./problems/String/)
 
