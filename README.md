@@ -17,6 +17,9 @@
   * [[1509] Minimum Difference Between Largest and Smallest Value in Three Moves](./problems/Array/[1509]%20Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves/)
   * [[2191] Sort the Jumbled Numbers](./problems/Array/[2191]%20Sort%20the%20Jumbled%20Numbers/)
 
+* `prefix`
+  * [[1894] Find the Student that Will Replace the Chalk](./problems/Array/[1894]%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk/)
+
 * `simulation`
   * [[1701] Average Waiting Time](./problems/Array/[1701]%20Average%20Waiting%20Time/)
 
