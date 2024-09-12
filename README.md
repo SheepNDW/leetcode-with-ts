@@ -276,6 +276,7 @@
 
 * `XOR`
   * [[1442] Count Triplets That Can Form Two Arrays of Equal XOR](./problems/Bit%20Manipulation/[1442]%20Count%20Triplets%20That%20Can%20Form%20Two%20Arrays%20of%20Equal%20XOR/)
+  * [[2220] Minimum Bit Flips to Convert Number](./problems/Bit%20Manipulation/[2220]%20Minimum%20Bit%20Flips%20to%20Convert%20Number/)
 
 #### [Math](./problems/Math/)
 
