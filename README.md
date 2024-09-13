@@ -275,6 +275,7 @@
 * [[1404] Number of Steps to Reduce a Number in Binary Representation to One](./problems/Bit%20Manipulation/[1404]%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One/)
 
 * `XOR`
+  * [[1310] XOR Queries of a Subarray](./problems/Bit%20Manipulation/[1310]%20XOR%20Queries%20of%20a%20Subarray/)
   * [[1442] Count Triplets That Can Form Two Arrays of Equal XOR](./problems/Bit%20Manipulation/[1442]%20Count%20Triplets%20That%20Can%20Form%20Two%20Arrays%20of%20Equal%20XOR/)
   * [[2220] Minimum Bit Flips to Convert Number](./problems/Bit%20Manipulation/[2220]%20Minimum%20Bit%20Flips%20to%20Convert%20Number/)
 
