@@ -247,6 +247,7 @@
 #### [Trie](./problems/Trie/)
 
 * [[648] Replace Words](./problems/Trie/[648]%20Replace%20Words/)
+* [[2416] Sum of Prefix Scores of Strings](./problems/Trie/[2416]%20Sum%20of%20Prefix%20Scores%20of%20Strings/)
 
 #### [BFS](./problems/BFS/)
 
