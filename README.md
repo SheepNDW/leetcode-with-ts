@@ -78,6 +78,7 @@
 * [[1347] Minimum Number of Steps to Make Two Strings Anagram](./problems/Hash%20Table/[1347]%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram/)
 * [[1436] Destination City](./problems/Hash%20Table/[1436]%20Destination%20City/)
 * [[1481] Least Number of Unique Integers after K Removals](./problems/Hash%20Table/[1481]%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals/)
+* [[1497] Check If Array Pairs Are Divisible by k](./problems/Hash%20Table/[1497]%20Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k/)
 * [[1647] Minimum Deletions to Make Character Frequencies Unique](./problems/Hash%20Table/[1647]%20Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique/)
 * [[1657] Determine if Two Strings Are Close](./problems/Hash%20Table/[1657]%20Determine%20if%20Two%20Strings%20Are%20Close/)
 * [[1743] Restore the Array From Adjacent Pairs](./problems/Hash%20Table/[1743]%20Restore%20the%20Array%20From%20Adjacent%20Pairs/)
