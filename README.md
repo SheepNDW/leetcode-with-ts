@@ -97,6 +97,7 @@
     * [[930] Binary Subarrays With Sum](./problems/Hash%20Table/[930]%20Binary%20Subarrays%20With%20Sum/)
     * [[974] Subarray Sums Divisible by K](./problems/Hash%20Table/[974]%20Subarray%20Sums%20Divisible%20by%20K/)
     * [[1442] Count Triplets That Can Form Two Arrays of Equal XOR](./problems/Bit%20Manipulation/[1442]%20Count%20Triplets%20That%20Can%20Form%20Two%20Arrays%20of%20Equal%20XOR/)
+    * [[1590] Make Sum Divisible by P](./problems/Hash%20Table/[1590]%20Make%20Sum%20Divisible%20by%20P/)
     * [[1915] Number of Wonderful Substrings](./problems/Hash%20Table/[1915]%20Number%20of%20Wonderful%20Substrings/)
 
 #### [Linked List](./problems/Linked%20List/)
