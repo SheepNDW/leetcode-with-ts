@@ -180,6 +180,7 @@
       * [[442] Find All Duplicates in an Array](./problems/Greedy/[442]%20Find%20All%20Duplicates%20in%20an%20Array/) 
     * `Parenthesis`
       * [[678] Valid Parenthesis String](./problems/Greedy/[678]%20Valid%20Parenthesis%20String/)
+      * [[1963] Minimum Number of Swaps to Make the String Balanced](./problems/Greedy/[1963]%20Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced/)
     * `Intervals`
       * [[452] Minimum Number of Arrows to Burst Balloons](./problems/Greedy/[452]%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons/)
     * `State Machine`
