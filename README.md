@@ -211,6 +211,7 @@
     * [[621] Task Scheduler](./problems/Priority%20Queue/[621]%20Task%20Scheduler/)
 
   * `Dual PQ`
+    * [[1942] The Number of the Smallest Unoccupied Chair](./problems/Priority%20Queue/[1942]%20The%20Number%20of%20the%20Smallest%20Unoccupied%20Chair/)
     * [[2402] Meeting Rooms III](./problems/Priority%20Queue/[2402]%20Meeting%20Rooms%20III/)
 
   * `Sort+PQ`
