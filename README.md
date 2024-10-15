@@ -47,6 +47,8 @@
       * [[42] Trapping Rain Water](./problems/Stack/[42]%20Trapping%20Rain%20Water/)
       * [[739] Daily Temperatures](./problems/Stack/[739]%20Daily%20Temperatures/)
       * [[907] Sum of Subarray Minimums](./problems/Stack/[907]%20Sum%20of%20Subarray%20Minimums/)
+    * `monotonic stack: other usages`
+      * [[962] Maximum Width Ramp](./problems/Stack/[962]%20Maximum%20Width%20Ramp/)
     * `form smallest sequence`
       * [[402] Remove K Digits](./problems/Stack/[402]%20Remove%20K%20Digits/)
 
