@@ -213,6 +213,7 @@
 
   * `Arrangement with Stride`
     * [[621] Task Scheduler](./problems/Priority%20Queue/[621]%20Task%20Scheduler/)
+    * [[1405] Longest Happy String](./problems/Greedy/[1405]%20Longest%20Happy%20String/)
 
   * `Dual PQ`
     * [[1942] The Number of the Smallest Unoccupied Chair](./problems/Priority%20Queue/[1942]%20The%20Number%20of%20the%20Smallest%20Unoccupied%20Chair/)
