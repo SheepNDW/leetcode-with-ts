@@ -15,6 +15,7 @@
   * [[945] Minimum Increment to Make Array Unique](./problems/Array/[945]%20Minimum%20Increment%20to%20Make%20Array%20Unique/)
   * [[1051] Height Checker](./problems/Array/[1051]%20Height%20Checker/)
   * [[1122] Relative Sort Array](./problems/Array/[1122]%20Relative%20Sort%20Array/)
+  * [[1233] Remove Sub-Folders from the Filesystem](./problems/Array/[1233]%20Remove%20Sub-Folders%20from%20the%20Filesystem/)
   * [[1509] Minimum Difference Between Largest and Smallest Value in Three Moves](./problems/Array/[1509]%20Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves/)
   * [[2191] Sort the Jumbled Numbers](./problems/Array/[2191]%20Sort%20the%20Jumbled%20Numbers/)
 
@@ -260,6 +261,7 @@
 #### [Trie](./problems/Trie/)
 
 * [[648] Replace Words](./problems/Trie/[648]%20Replace%20Words/)
+* [[1233] Remove Sub-Folders from the Filesystem](./problems/Array/[1233]%20Remove%20Sub-Folders%20from%20the%20Filesystem/)
 * [[2416] Sum of Prefix Scores of Strings](./problems/Trie/[2416]%20Sum%20of%20Prefix%20Scores%20of%20Strings/)
 
 #### [BFS](./problems/BFS/)
