@@ -178,6 +178,7 @@
     * `Three-pass`
       * [[42] Trapping Rain Water](./problems/Stack/[42]%20Trapping%20Rain%20Water/)
       * [[1653] Minimum Deletions to Make String Balanced](./problems/Greedy/[1653]%20Minimum%20Deletions%20to%20Make%20String%20Balanced/)
+      * [[1671] Minimum Number of Removals to Make Mountain Array](./problems/Greedy/[1671]%20Minimum%20Number%20of%20Removals%20to%20Make%20Mountain%20Array/)
     * `Sort`
       * [[826] Most Profit Assigning Work](./problems/Greedy/[826]%20Most%20Profit%20Assigning%20Work/)
     * `Indexing Sort (Cycle Sort)`
