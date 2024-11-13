@@ -17,6 +17,7 @@
   * [[1122] Relative Sort Array](./problems/Array/[1122]%20Relative%20Sort%20Array/)
   * [[1233] Remove Sub-Folders from the Filesystem](./problems/Array/[1233]%20Remove%20Sub-Folders%20from%20the%20Filesystem/)
   * [[1509] Minimum Difference Between Largest and Smallest Value in Three Moves](./problems/Array/[1509]%20Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves/)
+  * [[2070] Most Beautiful Item for Each Query](./problems/Array/[2070]%20Most%20Beautiful%20Item%20for%20Each%20Query/)
   * [[2191] Sort the Jumbled Numbers](./problems/Array/[2191]%20Sort%20the%20Jumbled%20Numbers/)
 
 * `prefix`
