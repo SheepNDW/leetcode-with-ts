@@ -288,6 +288,8 @@
 
 #### [Binary Search](./problems/Binary%20Search/)
 
+* [[2563] Count the Number of Fair Pairs](./problems/Binary%20Search/[2563]%20Count%20the%20Number%20of%20Fair%20Pairs/)
+
 * `Find K-th Element`
   * [[786] K-th Smallest Prime Fraction](./problems/Binary%20Search/[786]%20K-th%20Smallest%20Prime%20Fraction/)
 
