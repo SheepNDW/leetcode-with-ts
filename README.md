@@ -149,13 +149,17 @@
 
 #### [Binary Search](./problems/Binary%20Search/)
 
+* [[2563] Count the Number of Fair Pairs](./problems/Binary%20Search/[2563]%20Count%20the%20Number%20of%20Fair%20Pairs/)
+
 * `Binary Search by Value`
   * [[1482] Minimum Number of Days to Make m Bouquets](./problems/Binary%20Search/[1482]%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets/)
   * [[1552] Magnetic Force Between Two Balls](./problems/Binary%20Search/[1552]%20Magnetic%20Force%20Between%20Two%20Balls/)
   * [[1608] Special Array With X Elements Greater Than or Equal X](./problems/Binary%20Search/[1608]%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X/)
+  * [[2064] Minimized Maximum of Products Distributed to Any Store](./problems/Binary%20Search/[2064]%20Minimized%20Maximum%20of%20Products%20Distributed%20to%20Any%20Store/)
   * [[2517] Maximum Tastiness of Candy Basket](./problems/Binary%20Search/[2517]%20Maximum%20Tastiness%20of%20Candy%20Basket/)
     * `Find K-th Element`
       * [[719] Find K-th Smallest Pair Distance](./problems/Binary%20Search/[719]%20Find%20K-th%20Smallest%20Pair%20Distance/)
+      * [[786] K-th Smallest Prime Fraction](./problems/Binary%20Search/[786]%20K-th%20Smallest%20Prime%20Fraction/)
 
 #### [Greedy](./problems/Greedy/)
 
@@ -285,13 +289,6 @@
 
 * [[165] Compare Version Numbers](./problems/String/[165]%20Compare%20Version%20Numbers/)
 * [[2914] Minimum Number of Changes to Make Binary String Beautiful](./problems/String/[2914]%20Minimum%20Number%20of%20Changes%20to%20Make%20Binary%20String%20Beautiful/)
-
-#### [Binary Search](./problems/Binary%20Search/)
-
-* [[2563] Count the Number of Fair Pairs](./problems/Binary%20Search/[2563]%20Count%20the%20Number%20of%20Fair%20Pairs/)
-
-* `Find K-th Element`
-  * [[786] K-th Smallest Prime Fraction](./problems/Binary%20Search/[786]%20K-th%20Smallest%20Prime%20Fraction/)
 
 #### [Bit Manipulation](./problems/Bit%20Manipulation/)
 
