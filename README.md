@@ -142,6 +142,9 @@
       * [[2958] Length of Longest Subarray With at Most K Frequency](./problems/Sliding%20Window/[2958]%20Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency/)
       * [[2962] Count Subarrays Where Max Element Appears at Least K Times](./problems/Sliding%20Window/[2962]%20Count%20Subarrays%20Where%20Max%20Element%20Appears%20at%20Least%20K%20Times/)
 
+    * `Sliding window : Distinct Characters`
+      * [[2461] Maximum Sum of Distinct Subarrays With Length K](./problems/Sliding%20Window/[2461]%20Maximum%20Sum%20of%20Distinct%20Subarrays%20With%20Length%20K/)
+
     * `Floyd's Tortoise and Hare`
       * [[141] Linked List Cycle](./problems/Linked%20List/[141]%20Linked%20List%20Cycle/)
       * [[234] Palindrome Linked List](./problems/Linked%20List/[234]%20Palindrome%20Linked%20List/)
