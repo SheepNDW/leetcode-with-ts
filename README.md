@@ -287,6 +287,7 @@
 * [[1992] Find All Groups of Farmland](./problems/BFS/[1992]%20Find%20All%20Groups%20of%20Farmland/)
 * [[2641] Cousins in Binary Tree II](./problems/BFS/[2641]%20Cousins%20in%20Binary%20Tree%20II/)
 * [[2812] Find the Safest Path in a Grid](./problems/BFS/[2812]%20Find%20the%20Safest%20Path%20in%20a%20Grid/)
+* [[3243] Shortest Distance After Road Addition Queries I](./problems/BFS/[3243]%20Shortest%20Distance%20After%20Road%20Addition%20Queries%20I/)
 
   * `拓撲排序`
     * [[310] Minimum Height Trees](./problems/BFS/[310]%20Minimum%20Height%20Trees/)
