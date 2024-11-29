@@ -285,6 +285,7 @@
 * [[752] Open the Lock](./problems/BFS/[752]%20Open%20the%20Lock/)
 * [[773] Sliding Puzzle](./problems/BFS/[773]%20Sliding%20Puzzle/)
 * [[1992] Find All Groups of Farmland](./problems/BFS/[1992]%20Find%20All%20Groups%20of%20Farmland/)
+* [[2290] Minimum Obstacle Removal to Reach Corner](./problems/BFS/[2290]%20Minimum%20Obstacle%20Removal%20to%20Reach%20Corner/)
 * [[2641] Cousins in Binary Tree II](./problems/BFS/[2641]%20Cousins%20in%20Binary%20Tree%20II/)
 * [[2812] Find the Safest Path in a Grid](./problems/BFS/[2812]%20Find%20the%20Safest%20Path%20in%20a%20Grid/)
 * [[3243] Shortest Distance After Road Addition Queries I](./problems/BFS/[3243]%20Shortest%20Distance%20After%20Road%20Addition%20Queries%20I/)
