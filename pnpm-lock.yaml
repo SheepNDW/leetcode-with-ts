@@ -8,6 +8,9 @@ importers:
 
   .:
     dependencies:
+      '@datastructures-js/deque':
+        specifier: ^1.0.4
+        version: 1.0.4
       '@datastructures-js/priority-queue':
         specifier: 5.4.0
         version: 5.4.0
@@ -23,6 +26,9 @@ importers:
         version: 1.6.0(@vitest/ui@1.6.0)
 
 packages:
+
+  '@datastructures-js/deque@1.0.4':
+    resolution: {integrity: sha512-zlgVSsxqiAd+scLUILvx8E887o+6kYds9/d4DCM/mFOuUITUlPG/r3u5iPZjzW3o6XPPi+p66p3Kf1+wFxYvLQ==}
 
   '@datastructures-js/heap@3.2.0':
     resolution: {integrity: sha512-FcU5ZAyb+VIOZz1HABsJUsbJi2ZyUDO7aoe97hq4d3tK3z8nMgwdxf5bO0gafR0ExFi18YTspntqHLzt4XOgnA==}
@@ -649,6 +655,8 @@ packages:
 
 snapshots:
 
+  '@datastructures-js/deque@1.0.4': {}
+
   '@datastructures-js/heap@3.2.0': {}
 
   '@datastructures-js/priority-queue@5.4.0':
@@ -1149,7 +1157,6 @@ snapshots:
       '@vitest/runner': 1.6.0
       '@vitest/snapshot': 1.6.0
       '@vitest/spy': 1.6.0
-      '@vitest/ui': 1.6.0(vitest@1.6.0)
       '@vitest/utils': 1.6.0
       acorn-walk: 8.3.2
       chai: 4.4.1
@@ -1166,6 +1173,8 @@ snapshots:
       vite: 5.1.4
       vite-node: 1.6.0
       why-is-node-running: 2.2.2
+    optionalDependencies:
+      '@vitest/ui': 1.6.0(vitest@1.6.0)
     transitivePeerDependencies:
       - less
       - lightningcss

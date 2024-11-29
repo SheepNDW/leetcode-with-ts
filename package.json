@@ -18,6 +18,7 @@
     "vitest": "^1.6.0"
   },
   "dependencies": {
+    "@datastructures-js/deque": "^1.0.4",
     "@datastructures-js/priority-queue": "5.4.0"
   }
 }
