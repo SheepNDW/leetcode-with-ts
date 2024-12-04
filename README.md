@@ -130,6 +130,7 @@
 * [[344] Reverse String](./problems/Two%20Pointer/[344]%20Reverse%20String/)
 * [[1574] Shortest Subarray to be Removed to Make Array Sorted](./problems/Two%20Pointer/[1574]%20Shortest%20Subarray%20to%20be%20Removed%20to%20Make%20Array%20Sorted/)
 * [[2486] Append Characters to String to Make Subsequence](./problems/Two%20Pointer/[2486]%20Append%20Characters%20to%20String%20to%20Make%20Subsequence/)
+* [[2825] Make String a Subsequence Using Cyclic Increments](./problems/Two%20Pointer/[2825]%20Make%20String%20a%20Subsequence%20Using%20Cyclic%20Increments/)
 * [[2938] Separate Black and White Balls](./problems/Two%20Pointer/[2938]%20Separate%20Black%20and%20White%20Balls/)
 
     * `Sliding window`
