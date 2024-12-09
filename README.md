@@ -23,6 +23,7 @@
 
 * `prefix`
   * [[1894] Find the Student that Will Replace the Chalk](./problems/Array/[1894]%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk/)
+  * [[3152] Special Array II](./problems/Array/[3152]%20Special%20Array%20II/)
 
 * `simulation`
   * [[874] Walking Robot Simulation](./problems/Array/[874]%20Walking%20Robot%20Simulation/)
