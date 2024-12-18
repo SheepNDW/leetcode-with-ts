@@ -251,6 +251,8 @@
 * [[1611] Minimum One Bit Operations to Make Integers Zero](./problems/Recursion/[1611]%20Minimum%20One%20Bit%20Operations%20to%20Make%20Integers%20Zero/)
   * `Min-Max Strategy`
     * [[1140] Stone Game II](./problems/Recursion/[1140]%20Stone%20Game%20II/)
+  * `Digit counting & finding`
+    * [[1545] Find Kth Bit in Nth Binary String](./problems/Recursion/[1545]%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String/)
 
 #### [Backtracking](./problems/Backtracking/)
 
