@@ -323,6 +323,7 @@
 
 #### [Math](./problems/Math/)
 
+* [[523] Continuous Subarray Sum](./problems/Math/[523]%20Continuous%20Subarray%20Sum/)
 * [[592] Fraction Addition and Subtraction](./problems/Math/[592]%20Fraction%20Addition%20and%20Subtraction/)
 * [[633] Sum of Square Numbers](./problems/Math/[633]%20Sum%20of%20Square%20Numbers/)
 * [[2028] Find Missing Observations](./problems/Math/[2028]%20Find%20Missing%20Observations/)
