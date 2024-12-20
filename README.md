@@ -50,6 +50,7 @@
       * [[85] Maximal Rectangle](./problems/Stack/[85]%20Maximal%20Rectangle/)
       * [[42] Trapping Rain Water](./problems/Stack/[42]%20Trapping%20Rain%20Water/)
       * [[739] Daily Temperatures](./problems/Stack/[739]%20Daily%20Temperatures/)
+      * [[769] Max Chunks To Make Sorted](./problems/Array/[769]%20Max%20Chunks%20To%20Make%20Sorted/)
       * [[907] Sum of Subarray Minimums](./problems/Stack/[907]%20Sum%20of%20Subarray%20Minimums/)
     * `monotonic stack: other usages`
       * [[962] Maximum Width Ramp](./problems/Stack/[962]%20Maximum%20Width%20Ramp/)
