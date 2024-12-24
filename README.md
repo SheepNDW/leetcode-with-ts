@@ -202,7 +202,8 @@
     * `Indexing Sort (Cycle Sort)`
       * [[41] First Missing Positive](./problems/Greedy/[41]%20First%20Missing%20Positive/)
       * [[287] Find the Duplicate Number](./problems/Two%20Pointer/[287]%20Find%20the%20Duplicate%20Number/)
-      * [[442] Find All Duplicates in an Array](./problems/Greedy/[442]%20Find%20All%20Duplicates%20in%20an%20Array/) 
+      * [[442] Find All Duplicates in an Array](./problems/Greedy/[442]%20Find%20All%20Duplicates%20in%20an%20Array/)
+      * [[2471] Minimum Number of Operations to Sort a Binary Tree by Level](./problems/Greedy/[2471]%20Minimum%20Number%20of%20Operations%20to%20Sort%20a%20Binary%20Tree%20by%20Level/)
     * `Parenthesis`
       * [[678] Valid Parenthesis String](./problems/Greedy/[678]%20Valid%20Parenthesis%20String/)
       * [[921] Minimum Add to Make Parentheses Valid](./problems/Greedy/[921]%20Minimum%20Add%20to%20Make%20Parentheses%20Valid/)
