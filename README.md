@@ -283,6 +283,9 @@
 * `BFS`
   * [[2415] Reverse Odd Levels of Binary Tree](./problems/Tree/[2415]%20Reverse%20Odd%20Levels%20of%20Binary%20Tree/)
 
+* `Path in a tree`
+  * [[3203] Find Minimum Diameter After Merging Two Trees](./problems/Tree/[3203]%20Find%20Minimum%20Diameter%20After%20Merging%20Two%20Trees/)
+
 * `LCA`
   * [[2096] Step-By-Step Directions From a Binary Tree Node to Another](./problems/Tree/[2096]%20Step-By-Step%20Directions%20From%20a%20Binary%20Tree%20Node%20to%20Another/)
 
