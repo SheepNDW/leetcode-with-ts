@@ -1,7 +1,8 @@
+import { Deque } from '@datastructures-js/deque';
 import { TreeNode } from '../../utils/tree';
 
 // BFS solution
-function largestValues(root: TreeNode | null): number[] {
+function largestValues0(root: TreeNode | null): number[] {
   const result: number[] = [];
 
   // BFS
@@ -50,6 +51,30 @@ function largestValues1(root: TreeNode | null): number[] {
   const result: number[] = [];
   dfs(root, 0);
   return result;
+}
+
+// 使用 LeetCode 環境中的 Deque
+function largestValues(root: TreeNode | null): number[] {
+  if (!root) return [];
+  const queue = new Deque([root]);
+  const res: number[] = [];
+
+  while (!queue.isEmpty()) {
+    let len = queue.size();
+    let max = Number.MIN_SAFE_INTEGER;
+
+    while (len--) {
+      const node = queue.popFront();
+      max = Math.max(max, node.val);
+
+      if (node.left) queue.pushBack(node.left);
+      if (node.right) queue.pushBack(node.right);
+    }
+
+    res.push(max);
+  }
+
+  return res;
 }
 
 export { largestValues };
