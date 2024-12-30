@@ -215,6 +215,7 @@
 
 #### [Dynamic Programming](./problems/Dynamic%20Programming/)
 
+* [[1014] Best Sightseeing Pair](./problems/Dynamic%20Programming/[1014]%20Best%20Sightseeing%20Pair/)
 * [[1137] N-th Tribonacci Number](./problems/Dynamic%20Programming/[1137]%20N-th%20Tribonacci%20Number/)
 * [[1395] Count Number of Teams](./problems/Dynamic%20Programming/[1395]%20Count%20Number%20of%20Teams/)
 * [[2684] Maximum Number of Moves in a Grid](./problems/Dynamic%20Programming/[2684]%20Maximum%20Number%20of%20Moves%20in%20a%20Grid/)
