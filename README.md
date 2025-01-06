@@ -23,6 +23,7 @@
 
 * `prefix`
   * [[1894] Find the Student that Will Replace the Chalk](./problems/Array/[1894]%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk/)
+  * [[2270] Number of Ways to Split Array](./problems/Array/[2270]%20Number%20of%20Ways%20to%20Split%20Array/)
   * [[2559] Count Vowel Strings in Ranges](./problems/Array/[2559]%20Count%20Vowel%20Strings%20in%20Ranges/)
   * [[3152] Special Array II](./problems/Array/[3152]%20Special%20Array%20II/)
 
