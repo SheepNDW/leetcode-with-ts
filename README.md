@@ -180,6 +180,7 @@
 * [[649] Dota2 Senate](./problems/Greedy/[649]%20Dota2%20Senate/)
 * [[670] Maximum Swap](./problems/Greedy/[670]%20Maximum%20Swap/)
 * [[731] My Calendar II](./problems/Greedy/[731]%20My%20Calendar%20II/)
+* [[916] Word Subsets](./problems/Greedy/[916]%20Word%20Subsets/)
 * [[948] Bag of Tokens](./problems/Greedy/[948]%20Bag%20of%20Tokens/)
 * [[1561] Maximum Number of Coins You Can Get](./problems/Greedy/[1561]%20Maximum%20Number%20of%20Coins%20You%20Can%20Get/)
 * [[1717] Maximum Score From Removing Substrings](./problems/Greedy/[1717]%20Maximum%20Score%20From%20Removing%20Substrings/)
