@@ -91,6 +91,7 @@
 * [[1497] Check If Array Pairs Are Divisible by k](./problems/Hash%20Table/[1497]%20Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k/)
 * [[1647] Minimum Deletions to Make Character Frequencies Unique](./problems/Hash%20Table/[1647]%20Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique/)
 * [[1657] Determine if Two Strings Are Close](./problems/Hash%20Table/[1657]%20Determine%20if%20Two%20Strings%20Are%20Close/)
+* [[1726] Tuple with Same Product](./problems/Hash%20Table/[1726]%20Tuple%20with%20Same%20Product/)
 * [[1743] Restore the Array From Adjacent Pairs](./problems/Hash%20Table/[1743]%20Restore%20the%20Array%20From%20Adjacent%20Pairs/)
 * [[1814] Count Nice Pairs in an Array](./problems/Hash%20Table/[1814]%20Count%20Nice%20Pairs%20in%20an%20Array/)
 * [[1897] Redistribute Characters to Make All Strings Equal](./problems/Hash%20Table/[1897]%20Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal/)
