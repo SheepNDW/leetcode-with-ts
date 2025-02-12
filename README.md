@@ -98,6 +98,7 @@
 * [[2196] Create Binary Tree From Descriptions](./problems/Hash%20Table/[2196]%20Create%20Binary%20Tree%20From%20Descriptions/)
 * [[2215] Find the Difference of Two Arrays](./problems/Hash%20Table/[2215]%20Find%20the%20Difference%20of%20Two%20Arrays/)
 * [[2225] Find Players With Zero or One Losses](./problems/Hash%20Table/[2225]%20Find%20Players%20With%20Zero%20or%20One%20Losses/)
+* [[2342] Max Sum of a Pair With Equal Sum of Digits](./problems/Hash%20Table/[2342]%20Max%20Sum%20of%20a%20Pair%20With%20Equal%20Sum%20of%20Digits/)
 * [[2501] Longest Square Streak in an Array](./problems/Hash%20Table/[2501]%20Longest%20Square%20Streak%20in%20an%20Array/)
 * [[2610] Convert an Array Into a 2D Array With Conditions](./problems/Hash%20Table/[2610]%20Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions/)
 * [[2784] Check if Array is Good](./problems/Hash%20Table/[2784]%20Check%20if%20Array%20is%20Good/)
