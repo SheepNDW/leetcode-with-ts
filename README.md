@@ -196,6 +196,8 @@
 * [[2864] Maximum Odd Binary Number](./problems/Greedy/[2864]%20Maximum%20Odd%20Binary%20Number/)
 * [[3075] Maximize Happiness of Selected Children](./problems/Greedy/[3075]%20Maximize%20Happiness%20of%20Selected%20Children/)
 
+    * `DI Sequence`
+      * [[2375] Construct Smallest Number From DI String](./problems/Greedy/[2375]%20Construct%20Smallest%20Number%20From%20DI%20String/)
     * `Two-pass distribution`
       * [[135] Candy](./problems/Greedy/[135]%20Candy/)
       * [[1846] Maximum Element After Decreasing and Rearranging](./problems/Greedy/[1846]%20Maximum%20Element%20After%20Decreasing%20and%20Rearranging/)
