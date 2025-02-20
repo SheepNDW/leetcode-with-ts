@@ -268,6 +268,7 @@
   * `Min-Max Strategy`
     * [[1140] Stone Game II](./problems/Recursion/[1140]%20Stone%20Game%20II/)
   * `Digit counting & finding`
+    * [[1415] The k-th Lexicographical String of All Happy Strings of Length n](./problems/Recursion/[1415]%20The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n/)
     * [[1545] Find Kth Bit in Nth Binary String](./problems/Recursion/[1545]%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String/)
 
 #### [Backtracking](./problems/Backtracking/)
