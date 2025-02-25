@@ -286,6 +286,9 @@
 * [[590] N-ary Tree Postorder Traversal](./problems/Tree/[590]%20N-ary%20Tree%20Postorder%20Traversal/)
 * [[1382] Balance a Binary Search Tree](./problems/Tree/[1382]%20Balance%20a%20Binary%20Search%20Tree/)
 
+* `Regular DFS`
+  * [[2467] Most Profitable Path in a Tree](./problems/Tree/[2467]%20Most%20Profitable%20Path%20in%20a%20Tree/)
+
 * `DFS`
   * [[129] Sum Root to Leaf Numbers](./problems/Tree/[129]%20Sum%20Root%20to%20Leaf%20Numbers/)
   * [[623] Add One Row to Tree](./problems/Tree/[623]%20Add%20One%20Row%20to%20Tree/)
