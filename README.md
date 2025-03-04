@@ -357,6 +357,7 @@
 * [[523] Continuous Subarray Sum](./problems/Math/[523]%20Continuous%20Subarray%20Sum/)
 * [[592] Fraction Addition and Subtraction](./problems/Math/[592]%20Fraction%20Addition%20and%20Subtraction/)
 * [[633] Sum of Square Numbers](./problems/Math/[633]%20Sum%20of%20Square%20Numbers/)
+* [[1780] Check if Number is a Sum of Powers of Three](./problems/Math/[1780]%20Check%20if%20Number%20is%20a%20Sum%20of%20Powers%20of%20Three/)
 * [[2028] Find Missing Observations](./problems/Math/[2028]%20Find%20Missing%20Observations/)
 * [[2601] Prime Subtraction Operation](./problems/Math/[2601]%20Prime%20Subtraction%20Operation/)
 * [[2807] Insert Greatest Common Divisors in Linked List](./problems/Math/[2807]%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List/)
