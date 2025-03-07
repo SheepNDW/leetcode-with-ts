@@ -363,6 +363,9 @@
 * [[2601] Prime Subtraction Operation](./problems/Math/[2601]%20Prime%20Subtraction%20Operation/)
 * [[2807] Insert Greatest Common Divisors in Linked List](./problems/Math/[2807]%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List/)
 
+  * `Number Theory`
+  * [[2523] Closest Prime Numbers in Range](./problems/Math/[2523]%20Closest%20Prime%20Numbers%20in%20Range/)
+
 #### [Graph](./problems/Graph/)
 
 * [[2285] Maximum Total Importance of Roads](./problems/Graph/[2285]%20Maximum%20Total%20Importance%20of%20Roads/)
