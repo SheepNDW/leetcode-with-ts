@@ -364,7 +364,8 @@
 * [[2807] Insert Greatest Common Divisors in Linked List](./problems/Math/[2807]%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List/)
 
   * `Number Theory`
-  * [[2523] Closest Prime Numbers in Range](./problems/Math/[2523]%20Closest%20Prime%20Numbers%20in%20Range/)
+    * [[204] Count Primes](./problems/Math/[204]%20Count%20Primes/)
+    * [[2523] Closest Prime Numbers in Range](./problems/Math/[2523]%20Closest%20Prime%20Numbers%20in%20Range/)
 
 #### [Graph](./problems/Graph/)
 
