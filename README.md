@@ -157,6 +157,7 @@
 
     * `Sliding window : Distinct Characters`
       * [[2461] Maximum Sum of Distinct Subarrays With Length K](./problems/Sliding%20Window/[2461]%20Maximum%20Sum%20of%20Distinct%20Subarrays%20With%20Length%20K/)
+      * [[3306] Count of Substrings Containing Every Vowel and K Consonants II](./problems/Sliding%20Window/[3306]%20Count%20of%20Substrings%20Containing%20Every%20Vowel%20and%20K%20Consonants%20II/)
 
     * `Floyd's Tortoise and Hare`
       * [[141] Linked List Cycle](./problems/Linked%20List/[141]%20Linked%20List%20Cycle/)
