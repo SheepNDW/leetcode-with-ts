@@ -177,6 +177,7 @@
   * [[2064] Minimized Maximum of Products Distributed to Any Store](./problems/Binary%20Search/[2064]%20Minimized%20Maximum%20of%20Products%20Distributed%20to%20Any%20Store/)
   * [[2226] Maximum Candies Allocated to K Children](./problems/Binary%20Search/[2226]%20Maximum%20Candies%20Allocated%20to%20K%20Children/)
   * [[2517] Maximum Tastiness of Candy Basket](./problems/Binary%20Search/[2517]%20Maximum%20Tastiness%20of%20Candy%20Basket/)
+  * [[2560] House Robber IV](./problems/Binary%20Search/[2560]%20House%20Robber%20IV/)
     * `Find K-th Element`
       * [[719] Find K-th Smallest Pair Distance](./problems/Binary%20Search/[719]%20Find%20K-th%20Smallest%20Pair%20Distance/)
       * [[786] K-th Smallest Prime Fraction](./problems/Binary%20Search/[786]%20K-th%20Smallest%20Prime%20Fraction/)
