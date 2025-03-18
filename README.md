@@ -150,6 +150,7 @@
       * [[1208] Get Equal Substrings Within Budget](./problems/Sliding%20Window/[1208]%20Get%20Equal%20Substrings%20Within%20Budget/)
       * [[1358] Number of Substrings Containing All Three Characters](./problems/Sliding%20Window/[1358]%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters/)
       * [[2134] Minimum Swaps to Group All 1's Together II](./problems/Sliding%20Window/[2134]%20Minimum%20Swaps%20to%20Group%20All%201's%20Together%20II/)
+      * [[2401] Longest Nice Subarray](./problems/Sliding%20Window/[2401]%20Longest%20Nice%20Subarray/)
       * [[2444] Count Subarrays With Fixed Bounds](./problems/Sliding%20Window/[2444]%20Count%20Subarrays%20With%20Fixed%20Bounds/)
       * [[2516] Take K of Each Character From Left and Right](./problems/Sliding%20Window/[2516]%20Take%20K%20of%20Each%20Character%20From%20Left%20and%20Right/)
       * [[2779] Maximum Beauty of an Array After Applying Operation](./problems/Sliding%20Window/[2779]%20Maximum%20Beauty%20of%20an%20Array%20After%20Applying%20Operation/)
