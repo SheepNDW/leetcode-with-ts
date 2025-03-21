@@ -203,6 +203,7 @@
 * [[2366] Minimum Replacements to Sort the Array](./problems/Greedy/[2366]%20Minimum%20Replacements%20to%20Sort%20the%20Array/)
 * [[2864] Maximum Odd Binary Number](./problems/Greedy/[2864]%20Maximum%20Odd%20Binary%20Number/)
 * [[3075] Maximize Happiness of Selected Children](./problems/Greedy/[3075]%20Maximize%20Happiness%20of%20Selected%20Children/)
+* [[3191] Minimum Operations to Make Binary Array Elements Equal to One I](./problems/Greedy/[3191]%20Minimum%20Operations%20to%20Make%20Binary%20Array%20Elements%20Equal%20to%20One%20I/)
 
     * `DI Sequence`
       * [[2375] Construct Smallest Number From DI String](./problems/Greedy/[2375]%20Construct%20Smallest%20Number%20From%20DI%20String/)
