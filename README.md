@@ -398,3 +398,4 @@
   * [[1094] Car Pooling](./problems/Others/[1094]%20Car%20Pooling/)
   * [[1109] Corporate Flight Bookings](./problems/Others/[1109]%20Corporate%20Flight%20Bookings/)
   * [[1871] Jump Game VII](./problems/Others/[1871]%20Jump%20Game%20VII/)
+  * [[3169] Count Days Without Meetings](./problems/Others/[3169]%20Count%20Days%20Without%20Meetings/)
