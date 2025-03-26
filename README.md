@@ -335,6 +335,7 @@
 * [[3243] Shortest Distance After Road Addition Queries I](./problems/BFS/[3243]%20Shortest%20Distance%20After%20Road%20Addition%20Queries%20I/)
 
   * `拓撲排序`
+    * [[207] Course Schedule](./problems/BFS/[207]%20Course%20Schedule/)
     * [[310] Minimum Height Trees](./problems/BFS/[310]%20Minimum%20Height%20Trees/)
     * [[2115] Find All Possible Recipes from Given Supplies](./problems/BFS/[2115]%20Find%20All%20Possible%20Recipes%20from%20Given%20Supplies/)
   * `Dijkstra (BFS+PQ)`
