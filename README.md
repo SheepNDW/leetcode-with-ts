@@ -372,7 +372,8 @@
 * [[2579] Count Total Number of Colored Cells](./problems/Math/[2579]%20Count%20Total%20Number%20of%20Colored%20Cells/)
 * [[2601] Prime Subtraction Operation](./problems/Math/[2601]%20Prime%20Subtraction%20Operation/)
 * [[2807] Insert Greatest Common Divisors in Linked List](./problems/Math/[2807]%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List/)
-
+  * `Median Theory`
+    * [[2033] Minimum Operations to Make a Uni-Value Grid](./problems/Math/[2033]%20Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid/)
   * `Number Theory`
     * [[204] Count Primes](./problems/Math/[204]%20Count%20Primes/)
     * [[2523] Closest Prime Numbers in Range](./problems/Math/[2523]%20Closest%20Prime%20Numbers%20in%20Range/)
