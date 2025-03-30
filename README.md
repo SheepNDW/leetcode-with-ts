@@ -101,6 +101,7 @@
 * [[2342] Max Sum of a Pair With Equal Sum of Digits](./problems/Hash%20Table/[2342]%20Max%20Sum%20of%20a%20Pair%20With%20Equal%20Sum%20of%20Digits/)
 * [[2501] Longest Square Streak in an Array](./problems/Hash%20Table/[2501]%20Longest%20Square%20Streak%20in%20an%20Array/)
 * [[2610] Convert an Array Into a 2D Array With Conditions](./problems/Hash%20Table/[2610]%20Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions/)
+* [[2780] Minimum Index of a Valid Split](./problems/Hash%20Table/[2780]%20Minimum%20Index%20of%20a%20Valid%20Split/)
 * [[2784] Check if Array is Good](./problems/Hash%20Table/[2784]%20Check%20if%20Array%20is%20Good/)
 * [[2956] Find Common Elements Between Two Arrays](./problems/Hash%20Table/[2956]%20Find%20Common%20Elements%20Between%20Two%20Arrays/)
 
