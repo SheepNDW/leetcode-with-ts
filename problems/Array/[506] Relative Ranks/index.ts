@@ -3,17 +3,16 @@ import { MaxPriorityQueue } from '@datastructures-js/priority-queue';
 /*
   PQ
 */
-function findRelativeRanks0(score: number[]): string[] {
-  const pq = new MaxPriorityQueue({
-    priority: (el: number[]) => el[1],
-  });
+function findRelativeRanks(score: number[]): string[] {
+  // [idx, score]
+  const pq = new MaxPriorityQueue((el: number[]) => el[1]);
   score.forEach((s, i) => pq.enqueue([i, s]));
 
   const n = score.length;
   const ranks: string[] = Array(n);
 
   for (let i = 1; i <= n; i++) {
-    const [idx, _] = pq.dequeue().element;
+    const [idx, _] = pq.dequeue()!;
 
     if (i === 1) {
       ranks[idx] = 'Gold Medal';
@@ -32,7 +31,7 @@ function findRelativeRanks0(score: number[]): string[] {
 /*
   Sorting
 */
-function findRelativeRanks(score: number[]): string[] {
+function findRelativeRanks1(score: number[]): string[] {
   const indexedScores = score.map((s, i) => [s, i]);
   indexedScores.sort((a, b) => b[0] - a[0]);
 
