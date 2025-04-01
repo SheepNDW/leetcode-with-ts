@@ -202,6 +202,7 @@
 * [[2257] Count Unguarded Cells in the Grid](./problems/Greedy/[2257]%20Count%20Unguarded%20Cells%20in%20the%20Grid/)
 * [[2275] Largest Combination With Bitwise AND Greater Than Zero](./problems/Greedy/[2275]%20Largest%20Combination%20With%20Bitwise%20AND%20Greater%20Than%20Zero/)
 * [[2366] Minimum Replacements to Sort the Array](./problems/Greedy/[2366]%20Minimum%20Replacements%20to%20Sort%20the%20Array/)
+* [[2551] Put Marbles in Bags](./problems/Greedy/[2551]%20Put%20Marbles%20in%20Bags/)
 * [[2864] Maximum Odd Binary Number](./problems/Greedy/[2864]%20Maximum%20Odd%20Binary%20Number/)
 * [[3075] Maximize Happiness of Selected Children](./problems/Greedy/[3075]%20Maximize%20Happiness%20of%20Selected%20Children/)
 * [[3191] Minimum Operations to Make Binary Array Elements Equal to One I](./problems/Greedy/[3191]%20Minimum%20Operations%20to%20Make%20Binary%20Array%20Elements%20Equal%20to%20One%20I/)
