@@ -253,6 +253,7 @@
     * [[931] Minimum Falling Path Sum](./problems/Dynamic%20Programming/[931]%20Minimum%20Falling%20Path%20Sum/)
     * [[1289] Minimum Falling Path Sum II](./problems/Dynamic%20Programming/[1289]%20Minimum%20Falling%20Path%20Sum%20II/)
   * `背包型`
+    * [[416] Partition Equal Subset Sum](./problems/Dynamic%20Programming/[416]%20Partition%20Equal%20Subset%20Sum/)
     * [[494] Target Sum](./problems/Dynamic%20Programming/[494]%20Target%20Sum/)
   * `鍵盤型`
     * [[650] 2 Keys Keyboard](./problems/Dynamic%20Programming/[650]%202%20Keys%20Keyboard/)
