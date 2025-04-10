@@ -286,6 +286,7 @@
   * `Digit counting & finding`
     * [[1415] The k-th Lexicographical String of All Happy Strings of Length n](./problems/Recursion/[1415]%20The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n/)
     * [[1545] Find Kth Bit in Nth Binary String](./problems/Recursion/[1545]%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String/)
+    * [[2999] Count the Number of Powerful Integers](./problems/Recursion/[2999]%20Count%20the%20Number%20of%20Powerful%20Integers/)
 
 #### [Backtracking](./problems/Backtracking/)
 
