@@ -161,6 +161,7 @@
     * `Sliding window : Distinct Characters`
       * [[3] Longest Substring Without Repeating Characters](./problems/Sliding%20Window/[3]%20Longest%20Substring%20Without%20Repeating%20Characters/)
       * [[2461] Maximum Sum of Distinct Subarrays With Length K](./problems/Sliding%20Window/[2461]%20Maximum%20Sum%20of%20Distinct%20Subarrays%20With%20Length%20K/)
+      * [[2537] Count the Number of Good Subarrays](./problems/Sliding%20Window/[2537]%20Count%20the%20Number%20of%20Good%20Subarrays/)
       * [[3306] Count of Substrings Containing Every Vowel and K Consonants II](./problems/Sliding%20Window/[3306]%20Count%20of%20Substrings%20Containing%20Every%20Vowel%20and%20K%20Consonants%20II/)
 
     * `Floyd's Tortoise and Hare`
