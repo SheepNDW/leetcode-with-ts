@@ -352,6 +352,7 @@
 
 #### [String](./problems/String/)
 
+* [[38] Count and Say](./problems/String/[38]%20Count%20and%20Say/)
 * [[165] Compare Version Numbers](./problems/String/[165]%20Compare%20Version%20Numbers/)
 * [[2914] Minimum Number of Changes to Make Binary String Beautiful](./problems/String/[2914]%20Minimum%20Number%20of%20Changes%20to%20Make%20Binary%20String%20Beautiful/)
 
