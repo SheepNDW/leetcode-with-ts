@@ -5,6 +5,7 @@
 #### [Array](./problems/Array/)
 
 * `matrix`
+  * [[73] Set Matrix Zeroes](./problems/Array/[73]%20Set%20Matrix%20Zeroes/)
   * [[840] Magic Squares In Grid](./problems/Array/[840]%20Magic%20Squares%20In%20Grid/)
   * [[861] Score After Flipping Matrix](./problems/Array/[861]%20Score%20After%20Flipping%20Matrix/)
   * [[885] Spiral Matrix III](./problems/Array/[885]%20Spiral%20Matrix%20III/)
