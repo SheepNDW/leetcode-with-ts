@@ -350,6 +350,7 @@
   * `拓撲排序`
     * [[207] Course Schedule](./problems/BFS/[207]%20Course%20Schedule/)
     * [[310] Minimum Height Trees](./problems/BFS/[310]%20Minimum%20Height%20Trees/)
+    * [[1857] Largest Color Value in a Directed Graph](./problems/BFS/[1857]%20Largest%20Color%20Value%20in%20a%20Directed%20Graph/)
     * [[2115] Find All Possible Recipes from Given Supplies](./problems/BFS/[2115]%20Find%20All%20Possible%20Recipes%20from%20Given%20Supplies/)
   * `Dijkstra (BFS+PQ)`
     * [[1514] Path with Maximum Probability](./problems/Graph/[1514]%20Path%20with%20Maximum%20Probability/)
