@@ -14,7 +14,7 @@ function candy(ratings: number[]): number {
     }
   }
 
-  return candies.reduce((prev, curr) => prev + curr, 0);
+  return candies.reduce((a, c) => a + c, 0);
 }
 
 export { candy };
