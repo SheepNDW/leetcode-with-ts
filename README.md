@@ -341,6 +341,7 @@
 * [[752] Open the Lock](./problems/BFS/[752]%20Open%20the%20Lock/)
 * [[773] Sliding Puzzle](./problems/BFS/[773]%20Sliding%20Puzzle/)
 * [[838] Push Dominoes](./problems/BFS/[838]%20Push%20Dominoes/)
+* [[1298] Maximum Candies You Can Get from Boxes](./problems/BFS/[1298]%20Maximum%20Candies%20You%20Can%20Get%20from%20Boxes/)
 * [[1992] Find All Groups of Farmland](./problems/BFS/[1992]%20Find%20All%20Groups%20of%20Farmland/)
 * [[2290] Minimum Obstacle Removal to Reach Corner](./problems/BFS/[2290]%20Minimum%20Obstacle%20Removal%20to%20Reach%20Corner/)
 * [[2641] Cousins in Binary Tree II](./problems/BFS/[2641]%20Cousins%20in%20Binary%20Tree%20II/)
