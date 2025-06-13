@@ -192,6 +192,7 @@
 #### [Greedy](./problems/Greedy/)
 
 * [[45] Jump Game II](./problems/Greedy/[45]%20Jump%20Game%20II/)
+* [[386] Lexicographical Numbers](./problems/Greedy/[386]%20Lexicographical%20Numbers/)
 * [[455] Assign Cookies](./problems/Greedy/[455]%20Assign%20Cookies/)
 * [[649] Dota2 Senate](./problems/Greedy/[649]%20Dota2%20Senate/)
 * [[670] Maximum Swap](./problems/Greedy/[670]%20Maximum%20Swap/)
