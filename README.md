@@ -189,6 +189,7 @@
     * `Find K-th Element`
       * [[719] Find K-th Smallest Pair Distance](./problems/Binary%20Search/[719]%20Find%20K-th%20Smallest%20Pair%20Distance/)
       * [[786] K-th Smallest Prime Fraction](./problems/Binary%20Search/[786]%20K-th%20Smallest%20Prime%20Fraction/)
+      * [[2040] Kth Smallest Product of Two Sorted Arrays](./problems/Binary%20Search/[2040]%20Kth%20Smallest%20Product%20of%20Two%20Sorted%20Arrays/)
 
 #### [Greedy](./problems/Greedy/)
 
