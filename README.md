@@ -208,6 +208,7 @@
 * [[2182] Construct String With Repeat Limit](./problems/Greedy/[2182]%20Construct%20String%20With%20Repeat%20Limit/)
 * [[2257] Count Unguarded Cells in the Grid](./problems/Greedy/[2257]%20Count%20Unguarded%20Cells%20in%20the%20Grid/)
 * [[2275] Largest Combination With Bitwise AND Greater Than Zero](./problems/Greedy/[2275]%20Largest%20Combination%20With%20Bitwise%20AND%20Greater%20Than%20Zero/)
+* [[2294] Partition Array Such That Maximum Difference Is K](./problems/Greedy/[2294]%20Partition%20Array%20Such%20That%20Maximum%20Difference%20Is%20K/)
 * [[2366] Minimum Replacements to Sort the Array](./problems/Greedy/[2366]%20Minimum%20Replacements%20to%20Sort%20the%20Array/)
 * [[2551] Put Marbles in Bags](./problems/Greedy/[2551]%20Put%20Marbles%20in%20Bags/)
 * [[2864] Maximum Odd Binary Number](./problems/Greedy/[2864]%20Maximum%20Odd%20Binary%20Number/)
