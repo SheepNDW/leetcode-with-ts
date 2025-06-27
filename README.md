@@ -295,6 +295,7 @@
   * `Min-Max Strategy`
     * [[1140] Stone Game II](./problems/Recursion/[1140]%20Stone%20Game%20II/)
   * `Digit counting & finding`
+    * [[440] K-th Smallest in Lexicographical Order](./problems/Trie/[440]%20K-th%20Smallest%20in%20Lexicographical%20Order/)
     * [[1415] The k-th Lexicographical String of All Happy Strings of Length n](./problems/Recursion/[1415]%20The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n/)
     * [[1545] Find Kth Bit in Nth Binary String](./problems/Recursion/[1545]%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String/)
     * [[2999] Count the Number of Powerful Integers](./problems/Recursion/[2999]%20Count%20the%20Number%20of%20Powerful%20Integers/)
