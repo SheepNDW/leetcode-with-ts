@@ -308,6 +308,7 @@
 * [[1219] Path with Maximum Gold](./problems/Backtracking/[1219]%20Path%20with%20Maximum%20Gold/)
 * [[1255] Maximum Score Words Formed by Letters](./problems/Backtracking/[1255]%20Maximum%20Score%20Words%20Formed%20by%20Letters/)
 * [[1863] Sum of All Subset XOR Totals](./problems/Backtracking/[1863]%20Sum%20of%20All%20Subset%20XOR%20Totals/)
+* [[2014] Longest Subsequence Repeated k Times](./problems/Backtracking/[2014]%20Longest%20Subsequence%20Repeated%20k%20Times/)
 * [[2597] The Number of Beautiful Subsets](./problems/Backtracking/[2597]%20The%20Number%20of%20Beautiful%20Subsets/)
 
 #### [Tree](./problems/Tree/)
