@@ -78,6 +78,7 @@
 * [[389] Find the Difference](./problems/Hash%20Table/[389]%20Find%20the%20Difference/)
 * [[409] Longest Palindrome](./problems/Hash%20Table/[409]%20Longest%20Palindrome/)
 * [[451] Sort Characters By Frequency](./problems/Hash%20Table/[451]%20Sort%20Characters%20By%20Frequency/)
+* [[594] Longest Harmonious Subsequence](./problems/Hash%20Table/[594]%20Longest%20Harmonious%20Subsequence/)
 * [[645] Set Mismatch](./problems/Hash%20Table/[645]%20Set%20Mismatch/)
 * [[767] Reorganize String](./problems/Hash%20Table/[767]%20Reorganize%20String/)
 * [[791] Custom Sort String](./problems/Hash%20Table/[791]%20Custom%20Sort%20String/)
