@@ -97,6 +97,7 @@
 * [[1726] Tuple with Same Product](./problems/Hash%20Table/[1726]%20Tuple%20with%20Same%20Product/)
 * [[1743] Restore the Array From Adjacent Pairs](./problems/Hash%20Table/[1743]%20Restore%20the%20Array%20From%20Adjacent%20Pairs/)
 * [[1814] Count Nice Pairs in an Array](./problems/Hash%20Table/[1814]%20Count%20Nice%20Pairs%20in%20an%20Array/)
+* [[1865] Finding Pairs With a Certain Sum](./problems/Hash%20Table/[1865]%20Finding%20Pairs%20With%20a%20Certain%20Sum/)
 * [[1897] Redistribute Characters to Make All Strings Equal](./problems/Hash%20Table/[1897]%20Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal/)
 * [[2196] Create Binary Tree From Descriptions](./problems/Hash%20Table/[2196]%20Create%20Binary%20Tree%20From%20Descriptions/)
 * [[2215] Find the Difference of Two Arrays](./problems/Hash%20Table/[2215]%20Find%20the%20Difference%20of%20Two%20Arrays/)
