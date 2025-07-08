@@ -290,6 +290,7 @@
   * `Sort+PQ`
     * [[502] IPO](./problems/Priority%20Queue/[502]%20IPO/)
     * [[857] Minimum Cost to Hire K Workers](./problems/Priority%20Queue/[857]%20Minimum%20Cost%20to%20Hire%20K%20Workers/)
+    * [[1353] Maximum Number of Events That Can Be Attended](./problems/Priority%20Queue/[1353]%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended/)
     * [[3362] Zero Array Transformation III](./problems/Priority%20Queue/[3362]%20Zero%20Array%20Transformation%20III/)
 
 #### [Recursion](./problems/Recursion/)
