@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { mostBooked } from '.';
 
-describe.skip('mostBooked', () => {
+describe('mostBooked', () => {
   it('should return 0 for n = 2 and meetings = [[0,10],[1,5],[2,7],[3,4]]', () => {
     const n = 2;
     const meetings = [

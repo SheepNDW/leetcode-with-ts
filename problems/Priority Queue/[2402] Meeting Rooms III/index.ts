@@ -1,4 +1,4 @@
-import { MinPriorityQueue } from '@datastructures-js/priority-queue';
+import { MinPriorityQueue, PriorityQueue } from '@datastructures-js/priority-queue';
 
 /*
   sorting and counting
@@ -54,52 +54,38 @@ function mostBooked0(n: number, meetings: number[][]): number {
 function mostBooked(n: number, meetings: number[][]): number {
   meetings.sort((a, b) => a[0] - b[0]);
 
-  // [endTime, idx]
-  const used = new MinPriorityQueue({
-    compare: (a: [number, number], b: [number, number]) =>
-      a[0] !== b[0] ? a[0] - b[0] : a[1] - b[1],
-  });
-
-  const unused = new MinPriorityQueue({ priority: (el: number) => el });
-  for (let i = 0; i < n; i++) {
-    unused.enqueue(i);
-  }
-
   const count: number[] = new Array(n).fill(0);
+  const freeRooms = new MinPriorityQueue<number>();
+  // [end time, room index]
+  const busyRooms = new PriorityQueue<[number, number]>((a, b) => a[0] - b[0] || a[1] - b[1]);
 
-  for (const meeting of meetings) {
-    const start = meeting[0];
-    const end = meeting[1];
-
-    while (!used.isEmpty() && (used.front() as unknown as [number, number])[0] <= start) {
-      const room = (used.front() as unknown as [number, number])[1];
-      used.dequeue();
-      unused.enqueue(room);
-    }
-
-    if (!unused.isEmpty()) {
-      const room = unused.front().element;
-      unused.dequeue();
-      used.enqueue([end, room]);
-      count[room]++;
-    } else {
-      const [roomAvailableTime, room] = used.front() as unknown as [number, number];
-      used.dequeue();
-      used.enqueue([roomAvailableTime + end - start, room]);
-      count[room]++;
-    }
-  }
-
-  let maxCount = 0;
-  let maxRoom = 0;
   for (let i = 0; i < n; i++) {
-    if (count[i] > maxCount) {
-      maxCount = count[i];
-      maxRoom = i;
+    freeRooms.push(i);
+  }
+
+  for (const [start, end] of meetings) {
+    while (!busyRooms.isEmpty() && busyRooms.front()![0] <= start) {
+      freeRooms.push(busyRooms.pop()![1]);
+    }
+
+    if (!freeRooms.isEmpty()) {
+      const room = freeRooms.pop()!;
+      count[room]++;
+      busyRooms.push([end, room]);
+    } else {
+      const [earliestEnd, room] = busyRooms.pop()!;
+      count[room]++;
+      busyRooms.push([earliestEnd + (end - start), room]);
     }
   }
 
-  return maxRoom;
+  let maxIndex = 0;
+  for (let i = 1; i < n; i++) {
+    if (count[i] > count[maxIndex]) {
+      maxIndex = i;
+    }
+  }
+  return maxIndex;
 }
 
 export { mostBooked };
