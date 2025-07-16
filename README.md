@@ -218,6 +218,7 @@
 * [[2873] Maximum Value of an Ordered Triplet I](./problems/Greedy/[2873]%20Maximum%20Value%20of%20an%20Ordered%20Triplet%20I/)
 * [[3075] Maximize Happiness of Selected Children](./problems/Greedy/[3075]%20Maximize%20Happiness%20of%20Selected%20Children/)
 * [[3191] Minimum Operations to Make Binary Array Elements Equal to One I](./problems/Greedy/[3191]%20Minimum%20Operations%20to%20Make%20Binary%20Array%20Elements%20Equal%20to%20One%20I/)
+* [[3201] Find the Maximum Length of Valid Subsequence I](./problems/Greedy/[3201]%20Find%20the%20Maximum%20Length%20of%20Valid%20Subsequence%20I/)
 * [[3440] Reschedule Meetings for Maximum Free Time II](./problems/Greedy/[3440]%20Reschedule%20Meetings%20for%20Maximum%20Free%20Time%20II/)
 
     * `DI Sequence`
