@@ -265,6 +265,7 @@
   * `基本型 II`
     * [[983] Minimum Cost For Tickets](./problems/Dynamic%20Programming/[983]%20Minimum%20Cost%20For%20Tickets/)
     * [[1105] Filling Bookcase Shelves](./problems/Dynamic%20Programming/[1105]%20Filling%20Bookcase%20Shelves/)
+    * [[3202] Find the Maximum Length of Valid Subsequence II](./problems/Dynamic%20Programming/[3202]%20Find%20the%20Maximum%20Length%20of%20Valid%20Subsequence%20II/])
       * `Interval`
         * [[1751] Maximum Number of Events That Can Be Attended II](./problems/Dynamic%20Programming/[1751]%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended%20II/)
   * `走迷宮型`
