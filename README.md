@@ -231,6 +231,7 @@
       * [[1653] Minimum Deletions to Make String Balanced](./problems/Greedy/[1653]%20Minimum%20Deletions%20to%20Make%20String%20Balanced/)
       * [[1671] Minimum Number of Removals to Make Mountain Array](./problems/Greedy/[1671]%20Minimum%20Number%20of%20Removals%20to%20Make%20Mountain%20Array/)
       * [[1769] Minimum Number of Operations to Move All Balls to Each Box](./problems/Greedy/[1769]%20Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box/)
+      * [[2163] Minimum Difference in Sums After Removal of Elements](./problems/Greedy/[2163]%20Minimum%20Difference%20in%20Sums%20After%20Removal%20of%20Elements/)
     * `Sort`
       * [[826] Most Profit Assigning Work](./problems/Greedy/[826]%20Most%20Profit%20Assigning%20Work/)
     * `Indexing Sort (Cycle Sort)`
