@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { removeSubfolders } from '.';
 
-describe.skip('removeSubfolders', () => {
+describe('removeSubfolders', () => {
   it('should remove sub-folders from folder = ["/a","/a/b","/c/d","/c/d/e","/c/f"]', () => {
     const folder = ['/a', '/a/b', '/c/d', '/c/d/e', '/c/f'];
 

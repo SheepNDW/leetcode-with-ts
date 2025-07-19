@@ -1,3 +1,5 @@
+import { a } from 'vitest/dist/chunks/suite.BJU7kdY9';
+
 /*
   set
 */
@@ -32,14 +34,12 @@ function removeSubfolders0(folder: string[]): string[] {
 /*
   sorting
 */
-function removeSubfolders1(folder: string[]): string[] {
-  folder.sort();
-  const res: string[] = [];
-  res.push(folder[0]);
+function removeSubfolders(folder: string[]): string[] {
+  folder.sort((a, b) => a.localeCompare(b));
+  const res: string[] = [folder[0]];
 
   for (let i = 1; i < folder.length; i++) {
-    let prev = res[res.length - 1];
-    prev += '/';
+    const prev = res[res.length - 1] + '/';
 
     if (!folder[i].startsWith(prev)) {
       res.push(folder[i]);
@@ -58,7 +58,7 @@ class TrieNode {
   isEnd: boolean = false;
 }
 
-function removeSubfolders(folder: string[]): string[] {
+function removeSubfolders2(folder: string[]): string[] {
   const root = new TrieNode();
 
   for (const path of folder) {
