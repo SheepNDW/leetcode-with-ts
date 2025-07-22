@@ -155,6 +155,7 @@
       * [[1052] Grumpy Bookstore Owner](./problems/Sliding%20Window/[1052]%20Grumpy%20Bookstore%20Owner/)
       * [[1208] Get Equal Substrings Within Budget](./problems/Sliding%20Window/[1208]%20Get%20Equal%20Substrings%20Within%20Budget/)
       * [[1358] Number of Substrings Containing All Three Characters](./problems/Sliding%20Window/[1358]%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters/)
+      * [[1695] Maximum Erasure Value](./problems/Sliding%20Window/[1695]%20Maximum%20Erasure%20Value/)
       * [[2134] Minimum Swaps to Group All 1's Together II](./problems/Sliding%20Window/[2134]%20Minimum%20Swaps%20to%20Group%20All%201's%20Together%20II/)
       * [[2401] Longest Nice Subarray](./problems/Sliding%20Window/[2401]%20Longest%20Nice%20Subarray/)
       * [[2444] Count Subarrays With Fixed Bounds](./problems/Sliding%20Window/[2444]%20Count%20Subarrays%20With%20Fixed%20Bounds/)
