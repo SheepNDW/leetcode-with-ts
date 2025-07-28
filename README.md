@@ -280,6 +280,8 @@
     * [[650] 2 Keys Keyboard](./problems/Dynamic%20Programming/[650]%202%20Keys%20Keyboard/)
   * `區間型 II`
     * [[131] Palindrome Partitioning](./problems/Dynamic%20Programming/[131]%20Palindrome%20Partitioning/)
+  * `Infer future from current`
+    * [[2044] Count Number of Maximum Bitwise-OR Subsets](./problems/Dynamic%20Programming/[2044]%20Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets/)
 
 #### [Priority Queue](./problems/Priority%20Queue/)
 
