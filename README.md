@@ -158,6 +158,7 @@
       * [[1695] Maximum Erasure Value](./problems/Sliding%20Window/[1695]%20Maximum%20Erasure%20Value/)
       * [[2134] Minimum Swaps to Group All 1's Together II](./problems/Sliding%20Window/[2134]%20Minimum%20Swaps%20to%20Group%20All%201's%20Together%20II/)
       * [[2401] Longest Nice Subarray](./problems/Sliding%20Window/[2401]%20Longest%20Nice%20Subarray/)
+      * [[2411] Smallest Subarrays With Maximum Bitwise OR](./problems/Sliding%20Window/[2411]%20Smallest%20Subarrays%20With%20Maximum%20Bitwise%20OR/)
       * [[2444] Count Subarrays With Fixed Bounds](./problems/Sliding%20Window/[2444]%20Count%20Subarrays%20With%20Fixed%20Bounds/)
       * [[2516] Take K of Each Character From Left and Right](./problems/Sliding%20Window/[2516]%20Take%20K%20of%20Each%20Character%20From%20Left%20and%20Right/)
       * [[2779] Maximum Beauty of an Array After Applying Operation](./problems/Sliding%20Window/[2779]%20Maximum%20Beauty%20of%20an%20Array%20After%20Applying%20Operation/)
