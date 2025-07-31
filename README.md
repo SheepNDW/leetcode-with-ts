@@ -394,6 +394,7 @@
 * [[1404] Number of Steps to Reduce a Number in Binary Representation to One](./problems/Bit%20Manipulation/[1404]%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One/)
 * [[1829] Maximum XOR for Each Query](./problems/Bit%20Manipulation/[1829]%20Maximum%20XOR%20for%20Each%20Query/)
 * [[2275] Largest Combination With Bitwise AND Greater Than Zero](./problems/Greedy/[2275]%20Largest%20Combination%20With%20Bitwise%20AND%20Greater%20Than%20Zero/)
+* [[2419] Longest Subarray With Maximum Bitwise AND](./problems/Bit%20Manipulation/[2419]%20Longest%20Subarray%20With%20Maximum%20Bitwise%20AND/)
 * [[3011] Find if Array Can Be Sorted](./problems/Bit%20Manipulation/[3011]%20Find%20if%20Array%20Can%20Be%20Sorted/)
 
 * `XOR`
