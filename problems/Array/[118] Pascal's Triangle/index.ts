@@ -1,21 +1,18 @@
 function generate(numRows: number): number[][] {
   if (numRows === 1) return [[1]];
-  if (numRows === 2) return [[1], [1, 1]];
 
-  const triangle = [[1], [1, 1]];
-  for (let i = 3; i <= numRows; i++) {
-    const row: number[] = [];
-    for (let j = 0; j < i; j++) {
-      if (j === 0 || j === i - 1) {
-        row.push(1);
-      } else {
-        row.push(triangle[i - 2][j] + triangle[i - 2][j - 1]);
-      }
+  const res = [[1]];
+  for (let i = 2; i <= numRows; i++) {
+    const cur = res[res.length - 1];
+    const next = [cur[0]];
+    for (let j = 1; j < cur.length; j++) {
+      next.push(cur[j] + cur[j - 1]);
     }
-    triangle.push(row);
+    next.push(cur[cur.length - 1]);
+    res.push(next);
   }
 
-  return triangle;
+  return res;
 }
 
 export { generate };
