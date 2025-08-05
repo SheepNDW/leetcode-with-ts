@@ -156,6 +156,7 @@
       * [[1208] Get Equal Substrings Within Budget](./problems/Sliding%20Window/[1208]%20Get%20Equal%20Substrings%20Within%20Budget/)
       * [[1358] Number of Substrings Containing All Three Characters](./problems/Sliding%20Window/[1358]%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters/)
       * [[1695] Maximum Erasure Value](./problems/Sliding%20Window/[1695]%20Maximum%20Erasure%20Value/)
+      * [[2106] Maximum Fruits Harvested After at Most K Steps](./problems/Sliding%20Window/[2106]%20Maximum%20Fruits%20Harvested%20After%20at%20Most%20K%20Steps/)
       * [[2134] Minimum Swaps to Group All 1's Together II](./problems/Sliding%20Window/[2134]%20Minimum%20Swaps%20to%20Group%20All%201's%20Together%20II/)
       * [[2401] Longest Nice Subarray](./problems/Sliding%20Window/[2401]%20Longest%20Nice%20Subarray/)
       * [[2411] Smallest Subarrays With Maximum Bitwise OR](./problems/Sliding%20Window/[2411]%20Smallest%20Subarrays%20With%20Maximum%20Bitwise%20OR/)
