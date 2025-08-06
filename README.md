@@ -150,6 +150,7 @@
 
     * `Sliding window`
       * [[713] Subarray Product Less Than K](./problems/Sliding%20Window/[713]%20Subarray%20Product%20Less%20Than%20K/)
+      * [[904] Fruit Into Baskets](./problems/Sliding%20Window/[904]%20Fruit%20Into%20Baskets/)
       * [[992] Subarrays with K Different Integers](./problems/Sliding%20Window/[992]%20Subarrays%20with%20K%20Different%20Integers/)
       * [[1004] Max Consecutive Ones III](./problems/Sliding%20Window/[1004]%20Max%20Consecutive%20Ones%20III/)
       * [[1052] Grumpy Bookstore Owner](./problems/Sliding%20Window/[1052]%20Grumpy%20Bookstore%20Owner/)
