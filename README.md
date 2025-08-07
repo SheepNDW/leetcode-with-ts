@@ -357,6 +357,10 @@
 * `LCA`
   * [[2096] Step-By-Step Directions From a Binary Tree Node to Another](./problems/Tree/[2096]%20Step-By-Step%20Directions%20From%20a%20Binary%20Tree%20Node%20to%20Another/)
 
+#### [Segment Tree](./problems/Segment_Tree/)
+
+* [[3479] Fruits Into Baskets III](./problems/Segment_Tree/[3479]%20Fruits%20Into%20Baskets%20III/)
+
 #### [Trie](./problems/Trie/)
 
 * [[648] Replace Words](./problems/Trie/[648]%20Replace%20Words/)
