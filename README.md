@@ -266,6 +266,7 @@
 * [[2901] Longest Unequal Adjacent Groups Subsequence II](./problems/Dynamic%20Programming/[2901]%20Longest%20Unequal%20Adjacent%20Groups%20Subsequence%20II/)
 * [[3333] Find the Original Typed String II](./problems/Dynamic%20Programming/[3333]%20Find%20the%20Original%20Typed%20String%20II/])
 * [[3335] Total Characters in String After Transformations I](./problems/Dynamic%20Programming/[3335]%20Total%20Characters%20in%20String%20After%20Transformations%20I/)
+* [[3363] Find the Maximum Number of Fruits Collected](./problems/Dynamic%20Programming/[3363]%20Find%20the%20Maximum%20Number%20of%20Fruits%20Collected/)
   * `基本型 I`
     * [[2597] The Number of Beautiful Subsets](./problems/Backtracking/[2597]%20The%20Number%20of%20Beautiful%20Subsets/)
   * `基本型 II`
