@@ -406,6 +406,7 @@
 * [[1829] Maximum XOR for Each Query](./problems/Bit%20Manipulation/[1829]%20Maximum%20XOR%20for%20Each%20Query/)
 * [[2275] Largest Combination With Bitwise AND Greater Than Zero](./problems/Greedy/[2275]%20Largest%20Combination%20With%20Bitwise%20AND%20Greater%20Than%20Zero/)
 * [[2419] Longest Subarray With Maximum Bitwise AND](./problems/Bit%20Manipulation/[2419]%20Longest%20Subarray%20With%20Maximum%20Bitwise%20AND/)
+* [[2438] Range Product Queries of Powers](./problems/Bit%20Manipulation/[2438]%20Range%20Product%20Queries%20of%20Powers/)
 * [[3011] Find if Array Can Be Sorted](./problems/Bit%20Manipulation/[3011]%20Find%20if%20Array%20Can%20Be%20Sorted/)
 
 * `XOR`
