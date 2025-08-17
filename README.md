@@ -264,6 +264,7 @@
 * [[2140] Solving Questions With Brainpower](./problems/Dynamic%20Programming/[2140]%20Solving%20Questions%20With%20Brainpower/)
 * [[2466] Count Ways To Build Good Strings](./problems/Dynamic%20Programming/[2466]%20Count%20Ways%20To%20Build%20Good%20Strings/)
 * [[2684] Maximum Number of Moves in a Grid](./problems/Dynamic%20Programming/[2684]%20Maximum%20Number%20of%20Moves%20in%20a%20Grid/)
+* [[2787] Ways to Express an Integer as Sum of Powers](./problems/Dynamic%20Programming/[2787]%20Ways%20to%20Express%20an%20Integer%20as%20Sum%20of%20Powers/)
 * [[2901] Longest Unequal Adjacent Groups Subsequence II](./problems/Dynamic%20Programming/[2901]%20Longest%20Unequal%20Adjacent%20Groups%20Subsequence%20II/)
 * [[3333] Find the Original Typed String II](./problems/Dynamic%20Programming/[3333]%20Find%20the%20Original%20Typed%20String%20II/])
 * [[3335] Total Characters in String After Transformations I](./problems/Dynamic%20Programming/[3335]%20Total%20Characters%20in%20String%20After%20Transformations%20I/)
