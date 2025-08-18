@@ -258,6 +258,7 @@
 #### [Dynamic Programming](./problems/Dynamic%20Programming/)
 
 * [[873] Length of Longest Fibonacci Subsequence](./problems/Dynamic%20Programming/[873]%20Length%20of%20Longest%20Fibonacci%20Subsequence/)
+* [[837] New 21 Game](./problems/Dynamic%20Programming/[837]%20New%2021%20Game/)
 * [[1014] Best Sightseeing Pair](./problems/Dynamic%20Programming/[1014]%20Best%20Sightseeing%20Pair/)
 * [[1137] N-th Tribonacci Number](./problems/Dynamic%20Programming/[1137]%20N-th%20Tribonacci%20Number/)
 * [[1395] Count Number of Teams](./problems/Dynamic%20Programming/[1395]%20Count%20Number%20of%20Teams/)
