@@ -315,6 +315,8 @@
 
 * [[808] Soup Servings](./problems/Recursion/[808]%20Soup%20Servings/)
 * [[1611] Minimum One Bit Operations to Make Integers Zero](./problems/Recursion/[1611]%20Minimum%20One%20Bit%20Operations%20to%20Make%20Integers%20Zero/)
+  * `Evaluate Expressions`
+    * [[679] 24 Game](./problems/Recursion/[679]%2024%20Game/)
   * `Min-Max Strategy`
     * [[1140] Stone Game II](./problems/Recursion/[1140]%20Stone%20Game%20II/)
   * `Digit counting & finding`
