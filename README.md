@@ -261,6 +261,7 @@
 * [[837] New 21 Game](./problems/Dynamic%20Programming/[837]%20New%2021%20Game/)
 * [[1014] Best Sightseeing Pair](./problems/Dynamic%20Programming/[1014]%20Best%20Sightseeing%20Pair/)
 * [[1137] N-th Tribonacci Number](./problems/Dynamic%20Programming/[1137]%20N-th%20Tribonacci%20Number/)
+* [[1277] Count Square Submatrices with All Ones](./problems/Dynamic%20Programming/[1277]%20Count%20Square%20Submatrices%20with%20All%20Ones/)
 * [[1395] Count Number of Teams](./problems/Dynamic%20Programming/[1395]%20Count%20Number%20of%20Teams/)
 * [[2140] Solving Questions With Brainpower](./problems/Dynamic%20Programming/[2140]%20Solving%20Questions%20With%20Brainpower/)
 * [[2466] Count Ways To Build Good Strings](./problems/Dynamic%20Programming/[2466]%20Count%20Ways%20To%20Build%20Good%20Strings/)
