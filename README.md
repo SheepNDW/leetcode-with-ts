@@ -59,6 +59,7 @@
       * [[2434] Using a Robot to Print the Lexicographically Smallest String](./problems/Stack/[2434]%20Using%20a%20Robot%20to%20Print%20the%20Lexicographically%20Smallest%20String/)
     * `monotonic stack: other usages`
       * [[962] Maximum Width Ramp](./problems/Stack/[962]%20Maximum%20Width%20Ramp/)
+      * [[1504] Count Submatrices With All Ones](./problems/Stack/[1504]%20Count%20Submatrices%20With%20All%20Ones/)
     * `form smallest sequence`
       * [[402] Remove K Digits](./problems/Stack/[402]%20Remove%20K%20Digits/)
 
