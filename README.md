@@ -400,6 +400,10 @@
     * [[1514] Path with Maximum Probability](./problems/Graph/[1514]%20Path%20with%20Maximum%20Probability/)
     * [[2503] Maximum Number of Points From Grid Queries](./problems/BFS/[2503]%20Maximum%20Number%20of%20Points%20From%20Grid%20Queries/)
 
+#### [DFS](./problems/DFS/)
+
+* [[3459] Length of Longest V-Shaped Diagonal Segment](./problems/DFS/[3459]%20Length%20of%20Longest%20V-Shaped%20Diagonal%20Segment/)
+
 #### [String](./problems/String/)
 
 * [[38] Count and Say](./problems/String/[38]%20Count%20and%20Say/)
