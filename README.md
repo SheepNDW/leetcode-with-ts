@@ -14,6 +14,7 @@
   * [[2326] Spiral Matrix IV](./problems/Linked%20List/[2326]%20Spiral%20Matrix%20IV/)
   * [[2373] Largest Local Values in a Matrix](./problems/Array/[2373]%20Largest%20Local%20Values%20in%20a%20Matrix/)
   * [[2661] First Completely Painted Row or Column](./problems/Array/[2661]%20First%20Completely%20Painted%20Row%20or%20Column/)
+  * [[3446] Sort Matrix by Diagonals](./problems/Array/[3446]%20Sort%20Matrix%20by%20Diagonals/)
 
 * `sorting`
   * [[945] Minimum Increment to Make Array Unique](./problems/Array/[945]%20Minimum%20Increment%20to%20Make%20Array%20Unique/)
