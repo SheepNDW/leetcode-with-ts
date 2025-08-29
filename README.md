@@ -442,6 +442,8 @@
 * [[2843] Count Symmetric Integers](./problems/Math/[2843]%20Count%20Symmetric%20Integers/)
   * `Median Theory`
     * [[2033] Minimum Operations to Make a Uni-Value Grid](./problems/Math/[2033]%20Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid/)
+  * `Geometry`
+    * [[3197] Find the Minimum Area to Cover All Ones II](./problems/Math/[3197]%20Find%20the%20Minimum%20Area%20to%20Cover%20All%20Ones%20II/)
   * `Number Theory`
     * [[204] Count Primes](./problems/Math/[204]%20Count%20Primes/)
     * [[2523] Closest Prime Numbers in Range](./problems/Math/[2523]%20Closest%20Prime%20Numbers%20in%20Range/)
