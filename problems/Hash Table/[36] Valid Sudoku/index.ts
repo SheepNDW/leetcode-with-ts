@@ -1,73 +1,23 @@
-// function isValidSudoku(board: string[][]): boolean {
-//   // check row
-//   for (const row of board) {
-//     if (!checkLine(row)) return false;
-//   }
-
-//   // check col
-//   for (let col = 0; col < 9; col++) {
-//     const hash: Record<string, boolean> = {};
-
-//     for (let row = 0; row < 9; row++) {
-//       const digit = board[row][col];
-//       if (digit !== '.' && hash[digit]) return false;
-//       hash[digit] = true;
-//     }
-//   }
-
-//   // check grid
-//   for (let row = 0; row < 9; row += 3) {
-//     for (let col = 0; col < 9; col += 3) {
-//       if (!checkSudokuGrid(board, row, col)) return false;
-//     }
-//   }
-//   return true;
-// }
-
-// function checkLine(row: string[]) {
-//   const hash: Record<string, boolean> = {};
-
-//   for (const digit of row) {
-//     if (digit !== '.' && hash[digit]) return false;
-//     hash[digit] = true;
-//   }
-
-//   return true;
-// }
-
-// function checkSudokuGrid(board: string[][], row: number, col: number) {
-//   const hash: Record<string, boolean> = {};
-
-//   for (let i = row; i < row + 3; i++) {
-//     for (let j = col; j < col + 3; j++) {
-//       const digit = board[i][j];
-//       if (digit !== '.' && hash[digit]) return false;
-//       hash[digit] = true;
-//     }
-//   }
-
-//   return true;
-// }
-
 function isValidSudoku(board: string[][]): boolean {
-  const rows: Record<string, boolean>[] = Array.from({ length: 9 }, () => ({}));
-  const cols: Record<string, boolean>[] = Array.from({ length: 9 }, () => ({}));
-  const boxes: Record<string, boolean>[] = Array.from({ length: 9 }, () => ({}));
+  const seen = new Set<string>();
 
-  for (let row = 0; row < 9; row++) {
-    for (let col = 0; col < 9; col++) {
-      const digit = board[row][col];
-      if (digit === '.') continue;
+  for (let i = 0; i < 9; i++) {
+    for (let j = 0; j < 9; j++) {
+      const number = board[i][j];
 
-      const boxIndex = Math.floor(row / 3) * 3 + Math.floor(col / 3);
+      if (number === '.') continue;
 
-      if (rows[row][digit] || cols[col][digit] || boxes[boxIndex][digit]) {
+      const rowKey = `row-${i}-${number}`;
+      const colKey = `col-${j}-${number}`;
+      const boxKey = `box-${Math.floor(i / 3)}-${Math.floor(j / 3)}-${number}`;
+
+      if (seen.has(rowKey) || seen.has(colKey) || seen.has(boxKey)) {
         return false;
       }
 
-      rows[row][digit] = true;
-      cols[col][digit] = true;
-      boxes[boxIndex][digit] = true;
+      seen.add(rowKey);
+      seen.add(colKey);
+      seen.add(boxKey);
     }
   }
 

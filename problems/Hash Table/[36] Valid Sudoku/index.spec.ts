@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { isValidSudoku } from '.';
 
-describe.skip('isValidSudoku', () => {
+describe('isValidSudoku', () => {
   it('should return true for a valid sudoku board', () => {
     const board = [
       ['5', '3', '.', '.', '7', '.', '.', '.', '.'],
