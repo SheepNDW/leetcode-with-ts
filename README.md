@@ -299,6 +299,7 @@
 #### [Priority Queue](./problems/Priority%20Queue/)
 
 * [[1642] Furthest Building You Can Reach](./problems/Priority%20Queue/[1642]%20Furthest%20Building%20You%20Can%20Reach/)
+* [[1792] Maximum Average Pass Ratio](./problems/Priority%20Queue/[1792]%20Maximum%20Average%20Pass%20Ratio/)
 * [[2530] Maximal Score After Applying K Operations](./problems/Priority%20Queue/[2530]%20Maximal%20Score%20After%20Applying%20K%20Operations/)
 * [[2593] Find Score of an Array After Marking All Elements](./problems/Priority%20Queue/[2593]%20Find%20Score%20of%20an%20Array%20After%20Marking%20All%20Elements/)
 
