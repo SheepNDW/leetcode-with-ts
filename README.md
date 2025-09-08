@@ -257,6 +257,8 @@
     * `Intervals`
       * [[452] Minimum Number of Arrows to Burst Balloons](./problems/Greedy/[452]%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons/)
       * [[3394] Check if Grid can be Cut into Sections](./problems/Greedy/[3394]%20Check%20if%20Grid%20can%20be%20Cut%20into%20Sections/)
+    * `Constructive Problems`
+      * [[2749] Minimum Operations to Make the Integer Zero](./problems/Greedy/[2749]%20Minimum%20Operations%20to%20Make%20the%20Integer%20Zero/)
     * `State Machine`
       * [[2370] Longest Ideal Subsequence](./problems/Dynamic%20Programming/[2370]%20Longest%20Ideal%20Subsequence/) 
 
