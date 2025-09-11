@@ -215,6 +215,7 @@
 * [[1561] Maximum Number of Coins You Can Get](./problems/Greedy/[1561]%20Maximum%20Number%20of%20Coins%20You%20Can%20Get/)
 * [[1717] Maximum Score From Removing Substrings](./problems/Greedy/[1717]%20Maximum%20Score%20From%20Removing%20Substrings/)
 * [[1727] Largest Submatrix With Rearrangements](./problems/Greedy/[1727]%20Largest%20Submatrix%20With%20Rearrangements/)
+* [[1733] Minimum Number of People to Teach](./problems/Greedy/[1733]%20Minimum%20Number%20of%20People%20to%20Teach/)
 * [[1921] Eliminate Maximum Number of Monsters](./problems/Greedy/[1921]%20Eliminate%20Maximum%20Number%20of%20Monsters/)
 * [[2182] Construct String With Repeat Limit](./problems/Greedy/[2182]%20Construct%20String%20With%20Repeat%20Limit/)
 * [[2257] Count Unguarded Cells in the Grid](./problems/Greedy/[2257]%20Count%20Unguarded%20Cells%20in%20the%20Grid/)
