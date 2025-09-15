@@ -4,21 +4,30 @@
  * 3. 跑回圈重新建構字串，如果目前字元是母音就填上排序後的母音，並追蹤 index
  */
 function sortVowels(s: string): string {
-  const vowels = new Set(['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']);
-  const sArr = s.split('');
-  const sortedVowel = sArr.filter((c) => vowels.has(c)).sort();
+  const vowelSet = new Set(['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']);
 
-  let result = '';
-  let vowelIndex = 0;
-  for (let i = 0; i < s.length; i++) {
-    if (vowels.has(s[i])) {
-      result += sortedVowel[vowelIndex++];
-    } else {
-      result += s[i];
+  const vowels: string[] = [];
+
+  for (const c of s) {
+    if (vowelSet.has(c)) {
+      vowels.push(c);
     }
   }
 
-  return result;
+  vowels.sort((a, b) => a.charCodeAt(0) - b.charCodeAt(0));
+
+  let t = '';
+  let j = 0;
+  for (let i = 0; i < s.length; i++) {
+    if (!vowelSet.has(s[i])) {
+      t += s[i];
+    } else {
+      t += vowels[j];
+      j++;
+    }
+  }
+
+  return t;
 }
 
 export { sortVowels };

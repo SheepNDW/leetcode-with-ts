@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { sortVowels } from '.';
 
-describe.skip('sortVowels', () => {
+describe('sortVowels', () => {
   it('should return the string with vowels sorted by ASCII value, and consonants in the same place', () => {
     const input = 'lEetcOde';
     const output = 'lEOtcede';
