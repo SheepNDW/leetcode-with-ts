@@ -353,27 +353,29 @@
 * [[590] N-ary Tree Postorder Traversal](./problems/Tree/[590]%20N-ary%20Tree%20Postorder%20Traversal/)
 * [[1382] Balance a Binary Search Tree](./problems/Tree/[1382]%20Balance%20a%20Binary%20Search%20Tree/)
 
-* `Regular DFS`
-  * [[2467] Most Profitable Path in a Tree](./problems/Tree/[2467]%20Most%20Profitable%20Path%20in%20a%20Tree/)
+  * `Regular DFS`
+    * [[2467] Most Profitable Path in a Tree](./problems/Tree/[2467]%20Most%20Profitable%20Path%20in%20a%20Tree/)
 
-* `DFS`
-  * [[129] Sum Root to Leaf Numbers](./problems/Tree/[129]%20Sum%20Root%20to%20Leaf%20Numbers/)
-  * [[623] Add One Row to Tree](./problems/Tree/[623]%20Add%20One%20Row%20to%20Tree/)
-  * [[951] Flip Equivalent Binary Trees](./problems/Tree/[951]%20Flip%20Equivalent%20Binary%20Trees/)
-  * [[979] Distribute Coins in Binary Tree](./problems/Tree/[979]%20Distribute%20Coins%20in%20Binary%20Tree/)
-  * [[1110] Delete Nodes And Return Forest](./problems/Tree/[1110]%20Delete%20Nodes%20And%20Return%20Forest/)
-  * [[1325] Delete Leaves With a Given Value](./problems/Tree/[1325]%20Delete%20Leaves%20With%20a%20Given%20Value/)
-  * [[1530] Number of Good Leaf Nodes Pairs](./problems/Tree/[1530]%20Number%20of%20Good%20Leaf%20Nodes%20Pairs/)
+  * `DFS`
+    * [[129] Sum Root to Leaf Numbers](./problems/Tree/[129]%20Sum%20Root%20to%20Leaf%20Numbers/)
+    * [[623] Add One Row to Tree](./problems/Tree/[623]%20Add%20One%20Row%20to%20Tree/)
+    * [[951] Flip Equivalent Binary Trees](./problems/Tree/[951]%20Flip%20Equivalent%20Binary%20Trees/)
+    * [[979] Distribute Coins in Binary Tree](./problems/Tree/[979]%20Distribute%20Coins%20in%20Binary%20Tree/)
+    * [[1110] Delete Nodes And Return Forest](./problems/Tree/[1110]%20Delete%20Nodes%20And%20Return%20Forest/)
+    * [[1325] Delete Leaves With a Given Value](./problems/Tree/[1325]%20Delete%20Leaves%20With%20a%20Given%20Value/)
+    * [[1530] Number of Good Leaf Nodes Pairs](./problems/Tree/[1530]%20Number%20of%20Good%20Leaf%20Nodes%20Pairs/)
 
-* `BFS`
-  * [[515] Find Largest Value in Each Tree Row](./problems/Tree/[515]%20Find%20Largest%20Value%20in%20Each%20Tree%20Row/)
-  * [[2415] Reverse Odd Levels of Binary Tree](./problems/Tree/[2415]%20Reverse%20Odd%20Levels%20of%20Binary%20Tree/)
+  * `BFS`
+    * [[515] Find Largest Value in Each Tree Row](./problems/Tree/[515]%20Find%20Largest%20Value%20in%20Each%20Tree%20Row/)
+    * [[2415] Reverse Odd Levels of Binary Tree](./problems/Tree/[2415]%20Reverse%20Odd%20Levels%20of%20Binary%20Tree/)
 
-* `Path in a tree`
-  * [[3203] Find Minimum Diameter After Merging Two Trees](./problems/Tree/[3203]%20Find%20Minimum%20Diameter%20After%20Merging%20Two%20Trees/)
+  * `Path in a tree`
+    * [[3203] Find Minimum Diameter After Merging Two Trees](./problems/Tree/[3203]%20Find%20Minimum%20Diameter%20After%20Merging%20Two%20Trees/)
 
-* `LCA`
-  * [[2096] Step-By-Step Directions From a Binary Tree Node to Another](./problems/Tree/[2096]%20Step-By-Step%20Directions%20From%20a%20Binary%20Tree%20Node%20to%20Another/)
+  * `LCA`
+    * [[235] Lowest Common Ancestor of a Binary Search Tree](./problems/Tree/[235]%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/)
+    * [[236] Lowest Common Ancestor of a Binary Tree](./problems/Tree/[236]%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/)
+    * [[2096] Step-By-Step Directions From a Binary Tree Node to Another](./problems/Tree/[2096]%20Step-By-Step%20Directions%20From%20a%20Binary%20Tree%20Node%20to%20Another/)
 
 #### [Segment Tree](./problems/Segment_Tree/)
 
