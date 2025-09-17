@@ -49,6 +49,7 @@
 * [[1249] Minimum Remove to Make Valid Parentheses](./problems/Stack/[1249]%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses/)
 * [[1441] Build an Array With Stack Operations](./problems/Stack/[1441]%20Build%20an%20Array%20With%20Stack%20Operations/)  (Medium)
 * [[1614] Maximum Nesting Depth of the Parentheses](./problems/Stack/[1614]%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/)
+* [[2197] Replace Non-Coprime Numbers in Array](./problems/Stack/[2197]%20Replace%20Non-Coprime%20Numbers%20in%20Array/)
 * [[2751] Robot Collisions](./problems/Stack/[2751]%20Robot%20Collisions/)
 
     * `monotonic stack: next greater / smaller`
