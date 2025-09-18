@@ -472,6 +472,10 @@
 
 * [[729] My Calendar I](./problems/Sorted_Container/[729]%20My%20Calendar%20I/)
 
+#### [Design](./problems/Design/)
+
+* [[2353] Design a Food Rating System](./problems/Design/[2353]%20Design%20a%20Food%20Rating%20System/)
+
 #### [Others](./problems/Others/)
 
 * [[1267] Count Servers that Communicate](./problems/Others/[1267]%20Count%20Servers%20that%20Communicate/)

@@ -1,33 +1,62 @@
+import { PriorityQueue } from '@datastructures-js/priority-queue';
+
+interface FoodInfo {
+  foodName: string;
+  rating: number;
+  cuisine: string;
+}
+
+function compare(a: FoodInfo, b: FoodInfo): number {
+  if (a.rating !== b.rating) {
+    return b.rating - a.rating;
+  }
+  if (a.foodName < b.foodName) return -1;
+  if (a.foodName > b.foodName) return 1;
+  return 0;
+}
+
 class FoodRatings {
-  public foods;
-  public cuisines;
-  public ratings;
+  // food -> {foodName, rating, cuisine}
+  private foodMap = new Map<string, FoodInfo>();
+  // cuisine -> Queue<{foodName, rating, cuisine}>
+  private cuisineFoodMap = new Map<string, PriorityQueue<FoodInfo>>();
 
   constructor(foods: string[], cuisines: string[], ratings: number[]) {
-    this.foods = foods;
-    this.cuisines = cuisines;
-    this.ratings = ratings;
+    for (let i = 0; i < foods.length; i++) {
+      const foodName = foods[i];
+      const cuisine = cuisines[i];
+      const rating = ratings[i];
+
+      this.foodMap.set(foodName, { foodName, rating, cuisine });
+
+      if (!this.cuisineFoodMap.has(cuisine)) {
+        this.cuisineFoodMap.set(cuisine, new PriorityQueue(compare));
+      }
+      this.cuisineFoodMap.get(cuisine)!.push({ foodName, rating, cuisine });
+    }
   }
 
   changeRating(food: string, newRating: number): void {
-    const index = this.foods.indexOf(food);
-    this.ratings[index] = newRating;
+    const foodInfo = this.foodMap.get(food)!;
+    foodInfo.rating = newRating;
+
+    this.cuisineFoodMap.get(foodInfo.cuisine)?.push({ ...foodInfo });
   }
 
   highestRated(cuisine: string): string {
-    let high = 0;
-    let highIndex = 0;
-    for (let i = 0; i < this.cuisines.length; i++) {
-      if (this.cuisines[i] == cuisine) {
-        if (this.ratings[i] > high) {
-          high = this.ratings[i];
-          highIndex = i;
-        } else if (this.ratings[i] == high) {
-          if (this.foods[highIndex] > this.foods[i]) highIndex = i;
-        }
+    const pq = this.cuisineFoodMap.get(cuisine)!;
+
+    while (!pq.isEmpty()) {
+      const top = pq.front()!;
+
+      if (this.foodMap.get(top.foodName)!.rating === top.rating) {
+        return top.foodName;
       }
+
+      pq.pop();
     }
-    return this.foods[highIndex];
+
+    return '';
   }
 }
 

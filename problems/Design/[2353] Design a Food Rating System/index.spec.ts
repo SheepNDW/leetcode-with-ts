@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { FoodRatings } from '.';
 
-describe.skip('FoodRatings', () => {
+describe('FoodRatings', () => {
   it('should correctly initialize and retrieve highest rated food', () => {
     const foodRatings = new FoodRatings(
       ['kimchi', 'miso', 'sushi', 'moussaka', 'ramen', 'bulgogi'],
