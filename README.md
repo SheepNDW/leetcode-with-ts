@@ -475,6 +475,7 @@
 #### [Design](./problems/Design/)
 
 * [[2353] Design a Food Rating System](./problems/Design/[2353]%20Design%20a%20Food%20Rating%20System/)
+* [[3408] Design Task Manager](./problems/Design/[3408]%20Design%20Task%20Manager/)
 
 #### [Others](./problems/Others/)
 
