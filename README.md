@@ -290,6 +290,7 @@
       * `Interval`
         * [[1751] Maximum Number of Events That Can Be Attended II](./problems/Dynamic%20Programming/[1751]%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended%20II/)
   * `走迷宮型`
+    * [[120] Triangle](./problems/Dynamic%20Programming/[120]%20Triangle/)
     * [[931] Minimum Falling Path Sum](./problems/Dynamic%20Programming/[931]%20Minimum%20Falling%20Path%20Sum/)
     * [[1289] Minimum Falling Path Sum II](./problems/Dynamic%20Programming/[1289]%20Minimum%20Falling%20Path%20Sum%20II/)
   * `背包型`
