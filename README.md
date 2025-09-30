@@ -155,6 +155,7 @@
 * [[3403] Find the Lexicographically Largest String From the Box I](./problems/Two%20Pointer/[3403]%20Find%20the%20Lexicographically%20Largest%20String%20From%20the%20Box%20I/)
 
     * `Sliding window`
+      * [[611] Valid Triangle Number](./problems/Sliding%20Window/[611]%20Valid%20Triangle%20Number/)
       * [[713] Subarray Product Less Than K](./problems/Sliding%20Window/[713]%20Subarray%20Product%20Less%20Than%20K/)
       * [[904] Fruit Into Baskets](./problems/Sliding%20Window/[904]%20Fruit%20Into%20Baskets/)
       * [[992] Subarrays with K Different Integers](./problems/Sliding%20Window/[992]%20Subarrays%20with%20K%20Different%20Integers/)
