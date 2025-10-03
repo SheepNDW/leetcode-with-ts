@@ -45,6 +45,7 @@
 * [[316] Remove Duplicate Letters](./problems/Stack/[316]%20Remove%20Duplicate%20Letters/)
 * [[341] Flatten Nested List Iterator](./problems/Stack/[341]%20Flatten%20Nested%20List%20Iterator/)
 * [[735] Asteroid Collision](./problems/Stack/[735]%20Asteroid%20Collision/)
+* [[946] Validate Stack Sequences](./problems/Stack/[946]%20Validate%20Stack%20Sequences/)
 * [[1190] Reverse Substrings Between Each Pair of Parentheses](./problems/Stack/[1190]%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/)
 * [[1249] Minimum Remove to Make Valid Parentheses](./problems/Stack/[1249]%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses/)
 * [[1441] Build an Array With Stack Operations](./problems/Stack/[1441]%20Build%20an%20Array%20With%20Stack%20Operations/)  (Medium)

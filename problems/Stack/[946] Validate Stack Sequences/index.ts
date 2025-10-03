@@ -1,5 +1,5 @@
 // ==== recursion ====
-function validateStackSequences(pushed: number[], popped: number[]): boolean {
+function validateStackSequences0(pushed: number[], popped: number[]): boolean {
   const stack: number[] = [];
   let popIndex = 0;
 
@@ -22,19 +22,21 @@ function validateStackSequences(pushed: number[], popped: number[]): boolean {
 }
 
 // ==== while loop ====
-// function validateStackSequences(pushed: number[], popped: number[]): boolean {
-//   const stack: number[] = [];
-//   let popIndex = 0;
+function validateStackSequences(pushed: number[], popped: number[]): boolean {
+  const n = pushed.length;
+  const stack: number[] = [];
 
-//   for (let i = 0; i < pushed.length; i++) {
-//     stack.push(pushed[i]);
-//     while (stack.length && stack[stack.length - 1] === popped[popIndex]) {
-//       stack.pop();
-//       popIndex++;
-//     }
-//   }
+  let j = 0;
+  for (let i = 0; i < n; i++) {
+    stack.push(pushed[i]);
 
-//   return stack.length === 0;
-// }
+    while (j < n && popped[j] === stack[stack.length - 1]) {
+      stack.pop();
+      j++;
+    }
+  }
+
+  return stack.length === 0;
+}
 
 export { validateStackSequences };

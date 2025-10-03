@@ -8,7 +8,7 @@ describe('validateStackSequences', () => {
 
     const result = validateStackSequences(pushed, popped);
 
-    expect(result).toBeTruthy();
+    expect(result).toBe(true);
   });
 
   it('example 2', () => {
@@ -17,7 +17,7 @@ describe('validateStackSequences', () => {
 
     const result = validateStackSequences(pushed, popped);
 
-    expect(result).toBeFalsy();
+    expect(result).toBe(false);
   });
 
   it('example 3', () => {
@@ -26,7 +26,7 @@ describe('validateStackSequences', () => {
 
     const result = validateStackSequences(pushed, popped);
 
-    expect(result).toBeTruthy();
+    expect(result).toBe(true);
   });
 
   it('example 4', () => {
@@ -35,6 +35,6 @@ describe('validateStackSequences', () => {
 
     const result = validateStackSequences(pushed, popped);
 
-    expect(result).toBeFalsy();
+    expect(result).toBe(false);
   });
 });
