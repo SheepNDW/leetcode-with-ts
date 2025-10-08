@@ -476,6 +476,7 @@
 #### [Sorted Container](./problems/Sorted_Container/)
 
 * [[729] My Calendar I](./problems/Sorted_Container/[729]%20My%20Calendar%20I/)
+* [[1488] Avoid Flood in The City](./problems/Sorted_Container/[1488]%20Avoid%20Flood%20in%20The%20City/)
 
 #### [Design](./problems/Design/)
 
