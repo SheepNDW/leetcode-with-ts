@@ -229,6 +229,7 @@
 * [[2366] Minimum Replacements to Sort the Array](./problems/Greedy/[2366]%20Minimum%20Replacements%20to%20Sort%20the%20Array/)
 * [[2551] Put Marbles in Bags](./problems/Greedy/[2551]%20Put%20Marbles%20in%20Bags/)
 * [[2561] Rearranging Fruits](./problems/Greedy/[2561]%20Rearranging%20Fruits/)
+* [[2598] Smallest Missing Non-negative Integer After Operations](./problems/Greedy/[2598]%20Smallest%20Missing%20Non-negative%20Integer%20After%20Operations/)
 * [[2864] Maximum Odd Binary Number](./problems/Greedy/[2864]%20Maximum%20Odd%20Binary%20Number/)
 * [[2873] Maximum Value of an Ordered Triplet I](./problems/Greedy/[2873]%20Maximum%20Value%20of%20an%20Ordered%20Triplet%20I/)
 * [[3075] Maximize Happiness of Selected Children](./problems/Greedy/[3075]%20Maximize%20Happiness%20of%20Selected%20Children/)
