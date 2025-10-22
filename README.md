@@ -191,6 +191,7 @@
 #### [Binary Search](./problems/Binary%20Search/)
 
 * [[2563] Count the Number of Fair Pairs](./problems/Binary%20Search/[2563]%20Count%20the%20Number%20of%20Fair%20Pairs/)
+* [[3346] Maximum Frequency of an Element After Performing Operations I](./problems/Binary%20Search/[3346]%20Maximum%20Frequency%20of%20an%20Element%20After%20Performing%20Operations%20I/)
 
 * `Binary Search by Value`
   * [[1482] Minimum Number of Days to Make m Bouquets](./problems/Binary%20Search/[1482]%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets/)
