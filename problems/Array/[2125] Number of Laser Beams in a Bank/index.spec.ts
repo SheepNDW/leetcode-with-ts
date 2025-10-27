@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { numberOfBeams } from '.';
 
-describe.skip('numberOfBeams', () => {
+describe('numberOfBeams', () => {
   it('should return 8 for bank = ["011001","000000","010100","001000"]', () => {
     const bank = ['011001', '000000', '010100', '001000'];
     const result = numberOfBeams(bank);

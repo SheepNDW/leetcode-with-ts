@@ -1,29 +1,24 @@
 function numberOfBeams(bank: string[]): number {
   const m = bank.length;
   const n = bank[0].length;
-  let ans = 0;
 
-  let prevRow = 0;
-  for (const num of bank[0]) {
-    if (num === '1') prevRow++;
-  }
+  let res = 0;
+  let prev = 0;
 
-  let currRow = 0;
+  for (let i = 0; i < m; i++) {
+    let cur = 0;
 
-  for (let row = 1; row < m; row++) {
-    for (let col = 0; col < n; col++) {
-      if (bank[row][col] === '1') {
-        currRow++;
-      }
+    for (let j = 0; j < n; j++) {
+      if (bank[i][j] === '1') cur++;
     }
-    if (currRow > 0) {
-      ans += prevRow * currRow;
-      prevRow = currRow;
-      currRow = 0;
+
+    if (cur !== 0) {
+      res += prev * cur;
+      prev = cur;
     }
   }
 
-  return ans;
+  return res;
 }
 
 export { numberOfBeams };
