@@ -497,6 +497,7 @@
   * [[995] Minimum Number of K Consecutive Bit Flips](./problems/Others/[995]%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips/)
   * [[1094] Car Pooling](./problems/Others/[1094]%20Car%20Pooling/)
   * [[1109] Corporate Flight Bookings](./problems/Others/[1109]%20Corporate%20Flight%20Bookings/)
+  * [[1526] Minimum Number of Increments on Subarrays to Form a Target Array](./problems/Others/[1526]%20Minimum%20Number%20of%20Increments%20on%20Subarrays%20to%20Form%20a%20Target%20Array/)
   * [[1871] Jump Game VII](./problems/Others/[1871]%20Jump%20Game%20VII/)
   * [[2327] Number of People Aware of a Secret](./problems/Dynamic%20Programming/[2327]%20Number%20of%20People%20Aware%20of%20a%20Secret/)
   * [[3169] Count Days Without Meetings](./problems/Others/[3169]%20Count%20Days%20Without%20Meetings/)
