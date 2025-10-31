@@ -13,9 +13,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@vitest/ui": "^3.0.5",
-    "vite": "^5.1.4",
-    "vitest": "^3.0.5"
+    "@vitest/ui": "^4.0.5",
+    "vite": "^7.1.12",
+    "vitest": "^4.0.5"
   },
   "dependencies": {
     "@datastructures-js/deque": "^1.0.4",
