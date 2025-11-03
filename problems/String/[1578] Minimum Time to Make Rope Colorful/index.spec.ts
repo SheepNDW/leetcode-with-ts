@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { minCost } from '.';
 
-describe.skip('minCost', () => {
+describe('minCost', () => {
   it('should return 3 for colors = "abaac" and neededTime = [1,2,3,4,5]', () => {
     const colors = 'abaac';
     const neededTime = [1, 2, 3, 4, 5];
