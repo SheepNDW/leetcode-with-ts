@@ -2,7 +2,7 @@ import { describe, expect, it } from 'vitest';
 import { longestDiverseString } from '.';
 
 describe('longestDiverseString', () => {
-  it('should return longest diverse string for a = 1, b = 1, c = 7', () => {
+  it('example 1', () => {
     const a = 1;
     const b = 1;
     const c = 7;
@@ -13,7 +13,7 @@ describe('longestDiverseString', () => {
     expect(['ccaccbcc', 'ccbccacc']).toContain(result);
   });
 
-  it('should return longest diverse string for a = 7, b = 1, c = 0', () => {
+  it('example 2', () => {
     const a = 7;
     const b = 1;
     const c = 0;
@@ -21,5 +21,15 @@ describe('longestDiverseString', () => {
     const result = longestDiverseString(a, b, c);
 
     expect(result).toBe('aabaa');
+  });
+
+  it('example 3', () => {
+    const a = 1;
+    const b = 4;
+    const c = 5;
+
+    const result = longestDiverseString(a, b, c);
+
+    expect(['ccbbccbbac', 'cbcbcbcbca']).toContain(result);
   });
 });

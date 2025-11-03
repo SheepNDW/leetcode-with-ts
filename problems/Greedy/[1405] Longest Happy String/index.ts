@@ -1,34 +1,29 @@
 import { MaxPriorityQueue } from '@datastructures-js/priority-queue';
 
 function longestDiverseString(a: number, b: number, c: number): string {
-  const pq = new MaxPriorityQueue({ priority: (el: [string, number]) => el[1] });
-  if (a !== 0) pq.enqueue(['a', a]);
-  if (b !== 0) pq.enqueue(['b', b]);
-  if (c !== 0) pq.enqueue(['c', c]);
+  const pq = new MaxPriorityQueue((el: [string, number]) => el[1]);
+
+  if (a > 0) pq.push(['a', a]);
+  if (b > 0) pq.push(['b', b]);
+  if (c > 0) pq.push(['c', c]);
 
   let res = '';
 
   while (!pq.isEmpty()) {
-    if (pq.size() === 1) {
-      const top = pq.front().element;
-      const k = Math.min(top[1], 2);
-      res += top[0].repeat(k);
-      return res;
-    }
+    const top = pq.pop()!;
+    const second = pq.pop();
 
-    const x = pq.dequeue().element;
-    const y = pq.dequeue().element;
+    const k = Math.min(2, top[1] - (second?.[1] ?? 0));
+    res += top[0].repeat(k);
+    top[1] -= k;
 
-    const k = Math.min(1 + x[1] - y[1], 2);
+    if (!second) break;
 
-    res += x[0].repeat(k);
-    res += y[0];
+    res += second[0];
+    second[1] -= 1;
 
-    x[1] -= k;
-    y[1] -= 1;
-
-    if (x[1] !== 0) pq.enqueue(x);
-    if (y[1] !== 0) pq.enqueue(y);
+    if (top[1] > 0) pq.push(top);
+    if (second[1] > 0) pq.push(second);
   }
 
   return res;
