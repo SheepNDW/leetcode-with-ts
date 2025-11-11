@@ -200,6 +200,7 @@
   * [[2064] Minimized Maximum of Products Distributed to Any Store](./problems/Binary%20Search/[2064]%20Minimized%20Maximum%20of%20Products%20Distributed%20to%20Any%20Store/)
   * [[2226] Maximum Candies Allocated to K Children](./problems/Binary%20Search/[2226]%20Maximum%20Candies%20Allocated%20to%20K%20Children/)
   * [[2517] Maximum Tastiness of Candy Basket](./problems/Binary%20Search/[2517]%20Maximum%20Tastiness%20of%20Candy%20Basket/)
+  * [[2528] Maximize the Minimum Powered City](./problems/Binary%20Search/[2528]%20Maximize%20the%20Minimum%20Powered%20City/)
   * [[2560] House Robber IV](./problems/Binary%20Search/[2560]%20House%20Robber%20IV/)
   * [[2616] Minimize the Maximum Difference of Pairs](./problems/Binary%20Search/[2616]%20Minimize%20the%20Maximum%20Difference%20of%20Pairs/)
     * `Find K-th Element`
