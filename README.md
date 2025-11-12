@@ -61,6 +61,7 @@
       * [[769] Max Chunks To Make Sorted](./problems/Array/[769]%20Max%20Chunks%20To%20Make%20Sorted/)
       * [[907] Sum of Subarray Minimums](./problems/Stack/[907]%20Sum%20of%20Subarray%20Minimums/)
       * [[2434] Using a Robot to Print the Lexicographically Smallest String](./problems/Stack/[2434]%20Using%20a%20Robot%20to%20Print%20the%20Lexicographically%20Smallest%20String/)
+      * [[3542] Minimum Operations to Convert All Elements to Zero](./problems/Stack/[3542]%20Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero/)
     * `monotonic stack: other usages`
       * [[962] Maximum Width Ramp](./problems/Stack/[962]%20Maximum%20Width%20Ramp/)
       * [[1504] Count Submatrices With All Ones](./problems/Stack/[1504]%20Count%20Submatrices%20With%20All%20Ones/)
