@@ -471,6 +471,7 @@
   * `Number Theory`
     * [[204] Count Primes](./problems/Math/[204]%20Count%20Primes/)
     * [[2523] Closest Prime Numbers in Range](./problems/Math/[2523]%20Closest%20Prime%20Numbers%20in%20Range/)
+    * [[2654] Minimum Number of Operations to Make All Array Elements Equal to 1](./problems/Math/[2654]%20Minimum%20Number%20of%20Operations%20to%20Make%20All%20Array%20Elements%20Equal%20to%201/)
 
 #### [Graph](./problems/Graph/)
 
