@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { countPalindromicSubsequence } from '.';
 
-describe.skip('countPalindromicSubsequence', () => {
+describe('countPalindromicSubsequence', () => {
   it('should return 3 when given "aabca"', () => {
     const s = 'aabca';
 
