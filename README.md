@@ -457,6 +457,7 @@
 * [[523] Continuous Subarray Sum](./problems/Math/[523]%20Continuous%20Subarray%20Sum/)
 * [[592] Fraction Addition and Subtraction](./problems/Math/[592]%20Fraction%20Addition%20and%20Subtraction/)
 * [[633] Sum of Square Numbers](./problems/Math/[633]%20Sum%20of%20Square%20Numbers/)
+* [[1015] Smallest Integer Divisible by K](./problems/Math/[1015]%20Smallest%20Integer%20Divisible%20by%20K/)
 * [[1780] Check if Number is a Sum of Powers of Three](./problems/Math/[1780]%20Check%20if%20Number%20is%20a%20Sum%20of%20Powers%20of%20Three/)
 * [[2028] Find Missing Observations](./problems/Math/[2028]%20Find%20Missing%20Observations/)
 * [[2579] Count Total Number of Colored Cells](./problems/Math/[2579]%20Count%20Total%20Number%20of%20Colored%20Cells/)
