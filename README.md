@@ -200,6 +200,7 @@
   * [[1552] Magnetic Force Between Two Balls](./problems/Binary%20Search/[1552]%20Magnetic%20Force%20Between%20Two%20Balls/)
   * [[1608] Special Array With X Elements Greater Than or Equal X](./problems/Binary%20Search/[1608]%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X/)
   * [[2064] Minimized Maximum of Products Distributed to Any Store](./problems/Binary%20Search/[2064]%20Minimized%20Maximum%20of%20Products%20Distributed%20to%20Any%20Store/)
+  * [[2141] Maximum Running Time of N Computers](./problems/Binary%20Search/[2141]%20Maximum%20Running%20Time%20of%20N%20Computers/)
   * [[2226] Maximum Candies Allocated to K Children](./problems/Binary%20Search/[2226]%20Maximum%20Candies%20Allocated%20to%20K%20Children/)
   * [[2517] Maximum Tastiness of Candy Basket](./problems/Binary%20Search/[2517]%20Maximum%20Tastiness%20of%20Candy%20Basket/)
   * [[2528] Maximize the Minimum Powered City](./problems/Binary%20Search/[2528]%20Maximize%20the%20Minimum%20Powered%20City/)
