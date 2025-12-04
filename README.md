@@ -474,6 +474,7 @@
     * [[3025] Find the Number of Ways to Place People I](./problems/Math/[3025]%20Find%20the%20Number%20of%20Ways%20to%20Place%20People%20I/)
     * [[3027] Find the Number of Ways to Place People II](./problems/Greedy/[3027]%20Find%20the%20Number%20of%20Ways%20to%20Place%20People%20II/])
     * [[3197] Find the Minimum Area to Cover All Ones II](./problems/Math/[3197]%20Find%20the%20Minimum%20Area%20to%20Cover%20All%20Ones%20II/)
+    * [[3623] Count Number of Trapezoids I](./problems/Math/[3623]%20Count%20Number%20of%20Trapezoids%20I/)
   * `Number Theory`
     * [[204] Count Primes](./problems/Math/[204]%20Count%20Primes/)
     * [[2523] Closest Prime Numbers in Range](./problems/Math/[2523]%20Closest%20Prime%20Numbers%20in%20Range/)
