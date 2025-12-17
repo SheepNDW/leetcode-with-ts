@@ -293,6 +293,7 @@
 * [[3363] Find the Maximum Number of Fruits Collected](./problems/Dynamic%20Programming/[3363]%20Find%20the%20Maximum%20Number%20of%20Fruits%20Collected/)
   * `基本型 I`
     * [[2597] The Number of Beautiful Subsets](./problems/Backtracking/[2597]%20The%20Number%20of%20Beautiful%20Subsets/)
+    * [[3573] Best Time to Buy and Sell Stock V](./problems/Dynamic%20Programming/[3573]%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20V/)
   * `基本型 II`
     * [[983] Minimum Cost For Tickets](./problems/Dynamic%20Programming/[983]%20Minimum%20Cost%20For%20Tickets/)
     * [[1105] Filling Bookcase Shelves](./problems/Dynamic%20Programming/[1105]%20Filling%20Bookcase%20Shelves/)
