@@ -31,6 +31,7 @@
   * [[2559] Count Vowel Strings in Ranges](./problems/Array/[2559]%20Count%20Vowel%20Strings%20in%20Ranges/)
   * [[3152] Special Array II](./problems/Array/[3152]%20Special%20Array%20II/)
   * [[3381] Maximum Subarray Sum With Length Divisible by K](./problems/Array/[3381]%20Maximum%20Subarray%20Sum%20With%20Length%20Divisible%20by%20K/)
+  * [[3652] Best Time to Buy and Sell Stock using Strategy](./problems/Array/[3652]%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20using%20Strategy/)
 
 * `simulation`
   * [[874] Walking Robot Simulation](./problems/Array/[874]%20Walking%20Robot%20Simulation/)
