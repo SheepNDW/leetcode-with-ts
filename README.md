@@ -270,6 +270,7 @@
     * `Intervals`
       * [[452] Minimum Number of Arrows to Burst Balloons](./problems/Greedy/[452]%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons/)
       * [[757] Set Intersection Size At Least Two](./problems/Greedy/[757]%20Set%20Intersection%20Size%20At%20Least%20Two/)
+      * [[2054] Two Best Non-Overlapping Events](./problems/Greedy/[2054]%20Two%20Best%20Non-Overlapping%20Events/)
       * [[3394] Check if Grid can be Cut into Sections](./problems/Greedy/[3394]%20Check%20if%20Grid%20can%20be%20Cut%20into%20Sections/)
     * `Constructive Problems`
       * [[2749] Minimum Operations to Make the Integer Zero](./problems/Greedy/[2749]%20Minimum%20Operations%20to%20Make%20the%20Integer%20Zero/)
