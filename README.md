@@ -433,6 +433,7 @@
 #### [DFS](./problems/DFS/)
 
 * [[37] Sudoku Solver](./problems/DFS/[37]%20Sudoku%20Solver/)
+* [[756] Pyramid Transition Matrix](./problems/DFS/[756]%20Pyramid%20Transition%20Matrix/)
 * [[3459] Length of Longest V-Shaped Diagonal Segment](./problems/DFS/[3459]%20Length%20of%20Longest%20V-Shaped%20Diagonal%20Segment/)
 
 #### [String](./problems/String/)
