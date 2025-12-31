@@ -4,46 +4,53 @@ function numMagicSquaresInside(grid: number[][]): number {
 
   let count = 0;
 
-  for (let i = 1; i < row - 1; i++) {
-    for (let j = 1; j < col - 1; j++) {
-      count += isMagicSquare(grid, i, j);
+  for (let i = 0; i < row - 2; i++) {
+    for (let j = 0; j < col - 2; j++) {
+      count += magic(grid, i, j);
     }
   }
 
   return count;
 }
 
-function isMagicSquare(grid: number[][], i: number, j: number): number {
+function magic(grid: number[][], r: number, c: number): number {
   const set = new Set<number>();
-  const targetSum = grid[i][j - 1] + grid[i][j] + grid[i][j + 1];
 
-  for (let row = i - 1; row <= i + 1; row++) {
-    let sum = 0;
-    for (let col = j - 1; col <= j + 1; col++) {
-      const num = grid[row][col];
-
-      if (num < 1 || num > 9 || set.has(num)) return 0;
-
-      set.add(num);
-      sum += num;
+  for (let i = r; i <= r + 2; i++) {
+    for (let j = c; j <= c + 2; j++) {
+      const v = grid[i][j];
+      if (set.has(v) || v < 1 || v > 9) return 0;
+      set.add(v);
     }
-
-    if (sum !== targetSum) return 0;
   }
 
-  for (let col = j - 1; col <= j + 1; col++) {
+  const target = 15;
+
+  // rows
+  for (let i = r; i <= r + 2; i++) {
     let sum = 0;
-
-    for (let row = i - 1; row <= i + 1; row++) {
-      sum += grid[row][col];
+    for (let j = c; j <= c + 2; j++) {
+      sum += grid[i][j];
     }
-
-    if (sum !== targetSum) return 0;
+    if (sum !== target) return 0;
   }
 
-  const diagonal1 = grid[i - 1][j - 1] + grid[i][j] + grid[i + 1][j + 1];
-  const diagonal2 = grid[i - 1][j + 1] + grid[i][j] + grid[i + 1][j - 1];
-  if (diagonal1 !== targetSum || diagonal2 !== targetSum) return 0;
+  // cols
+  for (let j = c; j <= c + 2; j++) {
+    let sum = 0;
+    for (let i = r; i <= r + 2; i++) {
+      sum += grid[i][j];
+    }
+    if (sum !== target) return 0;
+  }
+
+  // diagonals
+  if (
+    grid[r][c] + grid[r + 1][c + 1] + grid[r + 2][c + 2] !== target ||
+    grid[r + 2][c] + grid[r + 1][c + 1] + grid[r][c + 2] !== target
+  ) {
+    return 0;
+  }
 
   return 1;
 }

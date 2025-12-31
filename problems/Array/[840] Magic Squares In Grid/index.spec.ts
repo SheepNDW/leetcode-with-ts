@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { numMagicSquaresInside } from '.';
 
-describe.skip('numMagicSquaresInside', () => {
+describe('numMagicSquaresInside', () => {
   it('should return 1 for grid = [[4,3,8,4],[9,5,1,9],[2,7,6,2]]', () => {
     const grid = [
       [4, 3, 8, 4],
