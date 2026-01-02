@@ -436,6 +436,11 @@
 * [[756] Pyramid Transition Matrix](./problems/DFS/[756]%20Pyramid%20Transition%20Matrix/)
 * [[3459] Length of Longest V-Shaped Diagonal Segment](./problems/DFS/[3459]%20Length%20of%20Longest%20V-Shaped%20Diagonal%20Segment/)
 
+#### [Union Find](./problems/Union_Find/)
+
+* `Union in an order`
+  * [[1970] Last Day Where You Can Still Cross](./problems/Union_Find/[1970]%20Last%20Day%20Where%20You%20Can%20Still%20Cross/)
+
 #### [String](./problems/String/)
 
 * [[38] Count and Say](./problems/String/[38]%20Count%20and%20Say/)
