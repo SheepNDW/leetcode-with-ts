@@ -11,6 +11,7 @@
   * [[861] Score After Flipping Matrix](./problems/Array/[861]%20Score%20After%20Flipping%20Matrix/)
   * [[885] Spiral Matrix III](./problems/Array/[885]%20Spiral%20Matrix%20III/)
   * [[1072] Flip Columns For Maximum Number of Equal Rows](./problems/Array/[1072]%20Flip%20Columns%20For%20Maximum%20Number%20of%20Equal%20Rows/)
+  * [[1975] Maximum Matrix Sum](./problems/Array/[1975]%20Maximum%20Matrix%20Sum/)
   * [[2326] Spiral Matrix IV](./problems/Linked%20List/[2326]%20Spiral%20Matrix%20IV/)
   * [[2373] Largest Local Values in a Matrix](./problems/Array/[2373]%20Largest%20Local%20Values%20in%20a%20Matrix/)
   * [[2661] First Completely Painted Row or Column](./problems/Array/[2661]%20First%20Completely%20Painted%20Row%20or%20Column/)
