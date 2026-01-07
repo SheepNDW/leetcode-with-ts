@@ -376,6 +376,7 @@
 * [[1382] Balance a Binary Search Tree](./problems/Tree/[1382]%20Balance%20a%20Binary%20Search%20Tree/)
 
   * `Regular DFS`
+    * [[1339] Maximum Product of Splitted Binary Tree](./problems/Tree/[1339]%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/)
     * [[2467] Most Profitable Path in a Tree](./problems/Tree/[2467]%20Most%20Profitable%20Path%20in%20a%20Tree/)
 
   * `DFS`
