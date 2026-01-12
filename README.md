@@ -400,6 +400,7 @@
   * `LCA`
     * [[235] Lowest Common Ancestor of a Binary Search Tree](./problems/Tree/[235]%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/)
     * [[236] Lowest Common Ancestor of a Binary Tree](./problems/Tree/[236]%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/)
+    * [[1123] Lowest Common Ancestor of Deepest Leaves](./problems/Tree/[1123]%20Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves/) (aka. LC.865)
     * [[2096] Step-By-Step Directions From a Binary Tree Node to Another](./problems/Tree/[2096]%20Step-By-Step%20Directions%20From%20a%20Binary%20Tree%20Node%20to%20Another/)
 
 #### [Segment Tree](./problems/Segment_Tree/)
