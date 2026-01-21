@@ -465,6 +465,7 @@
 * [[2419] Longest Subarray With Maximum Bitwise AND](./problems/Bit%20Manipulation/[2419]%20Longest%20Subarray%20With%20Maximum%20Bitwise%20AND/)
 * [[2438] Range Product Queries of Powers](./problems/Bit%20Manipulation/[2438]%20Range%20Product%20Queries%20of%20Powers/)
 * [[3011] Find if Array Can Be Sorted](./problems/Bit%20Manipulation/[3011]%20Find%20if%20Array%20Can%20Be%20Sorted/)
+* [[3315] Construct the Minimum Bitwise Array II](./problems/Bit%20Manipulation/[3315]%20Construct%20the%20Minimum%20Bitwise%20Array%20II/)
 
 * `XOR`
   * [[1310] XOR Queries of a Subarray](./problems/Bit%20Manipulation/[1310]%20XOR%20Queries%20of%20a%20Subarray/)
