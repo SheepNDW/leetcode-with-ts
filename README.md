@@ -433,6 +433,7 @@
   * `Dijkstra (BFS+PQ)`
     * [[407] Trapping Rain Water II](./problems/BFS/[407]%20Trapping%20Rain%20Water%20II/)
     * [[743] Network Delay Time](./problems/BFS/[743]%20Network%20Delay%20Time/)
+    * [[778] Swim in Rising Water](./problems/BFS/[778]%20Swim%20in%20Rising%20Water/)
     * [[1514] Path with Maximum Probability](./problems/Graph/[1514]%20Path%20with%20Maximum%20Probability/)
     * [[2503] Maximum Number of Points From Grid Queries](./problems/BFS/[2503]%20Maximum%20Number%20of%20Points%20From%20Grid%20Queries/)
 
