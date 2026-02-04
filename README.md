@@ -505,6 +505,7 @@
 * [[2285] Maximum Total Importance of Roads](./problems/Graph/[2285]%20Maximum%20Total%20Importance%20of%20Roads/)
 
 * `Dijkstra`
+  * [[787] Cheapest Flights Within K Stops](./problems/Graph/[787]%20Cheapest%20Flights%20Within%20K%20Stops/)
   * [[3650] Minimum Cost Path with Edge Reversals](./problems/Graph/[3650]%20Minimum%20Cost%20Path%20with%20Edge%20Reversals/)
 
 * `Floyd`
