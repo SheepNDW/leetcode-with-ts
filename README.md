@@ -546,5 +546,8 @@
   * [[3355] Zero Array Transformation I](./problems/Others/[3355]%20Zero%20Array%20Transformation%20I/)
   * [[3362] Zero Array Transformation III](./problems/Priority%20Queue/[3362]%20Zero%20Array%20Transformation%20III/)
 
+* `Enumeration`
+  * [[3640] Trionic Array II](./problems/Others/[3640]%20Trionic%20Array%20II/)
+
 * `Quick Select`
   * [[347] Top K Frequent Elements](./problems/Others/[347]%20Top%20K%20Frequent%20Elements/)
