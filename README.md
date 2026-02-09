@@ -180,6 +180,7 @@
       * [[2958] Length of Longest Subarray With at Most K Frequency](./problems/Sliding%20Window/[2958]%20Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency/)
       * [[2962] Count Subarrays Where Max Element Appears at Least K Times](./problems/Sliding%20Window/[2962]%20Count%20Subarrays%20Where%20Max%20Element%20Appears%20at%20Least%20K%20Times/)
       * [[3439] Reschedule Meetings for Maximum Free Time I](./problems/Sliding%20Window/[3439]%20Reschedule%20Meetings%20for%20Maximum%20Free%20Time%20I/)
+      * [[3634] Minimum Removals to Balance Array](./problems/Sliding%20Window/[3634]%20Minimum%20Removals%20to%20Balance%20Array/)
 
     * `Sliding window : Distinct Characters`
       * [[3] Longest Substring Without Repeating Characters](./problems/Sliding%20Window/[3]%20Longest%20Substring%20Without%20Repeating%20Characters/)
