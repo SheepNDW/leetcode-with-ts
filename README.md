@@ -407,6 +407,7 @@
 #### [Segment Tree](./problems/Segment_Tree/)
 
 * [[3479] Fruits Into Baskets III](./problems/Segment_Tree/[3479]%20Fruits%20Into%20Baskets%20III/)
+* [[3721] Longest Balanced Subarray II](./problems/Segment_Tree/[3721]%20Longest%20Balanced%20Subarray%20II/)
 
 #### [Trie](./problems/Trie/)
 
