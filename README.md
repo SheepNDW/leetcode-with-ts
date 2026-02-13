@@ -130,6 +130,7 @@
     * [[1524] Number of Sub-arrays With Odd Sum](./problems/Hash%20Table/[1524]%20Number%20of%20Sub-arrays%20With%20Odd%20Sum/)
     * [[1590] Make Sum Divisible by P](./problems/Hash%20Table/[1590]%20Make%20Sum%20Divisible%20by%20P/)
     * [[1915] Number of Wonderful Substrings](./problems/Hash%20Table/[1915]%20Number%20of%20Wonderful%20Substrings/)
+    * [[3714] Longest Balanced Substring II](./problems/Hash%20Table/[3714]%20Longest%20Balanced%20Substring%20II/)
 
 #### [Linked List](./problems/Linked%20List/)
 
