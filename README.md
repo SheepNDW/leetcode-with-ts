@@ -465,6 +465,7 @@
 * [[476] Number Complement](./problems/Bit%20Manipulation/[476]%20Number%20Complement/)
 * [[898] Bitwise ORs of Subarrays](./problems/Bit%20Manipulation/[898]%20Bitwise%20ORs%20of%20Subarrays/)
 * [[1404] Number of Steps to Reduce a Number in Binary Representation to One](./problems/Bit%20Manipulation/[1404]%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One/)
+* [[1461] Check If a String Contains All Binary Codes of Size K](./problems/Bit%20Manipulation/[1461]%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K/)
 * [[1829] Maximum XOR for Each Query](./problems/Bit%20Manipulation/[1829]%20Maximum%20XOR%20for%20Each%20Query/)
 * [[2275] Largest Combination With Bitwise AND Greater Than Zero](./problems/Greedy/[2275]%20Largest%20Combination%20With%20Bitwise%20AND%20Greater%20Than%20Zero/)
 * [[2419] Longest Subarray With Maximum Bitwise AND](./problems/Bit%20Manipulation/[2419]%20Longest%20Subarray%20With%20Maximum%20Bitwise%20AND/)
