@@ -283,6 +283,7 @@
 
 #### [Dynamic Programming](./problems/Dynamic%20Programming/)
 
+* [[799] Champagne Tower](./problems/Dynamic%20Programming/[799]%20Champagne%20Tower/)
 * [[873] Length of Longest Fibonacci Subsequence](./problems/Dynamic%20Programming/[873]%20Length%20of%20Longest%20Fibonacci%20Subsequence/)
 * [[837] New 21 Game](./problems/Dynamic%20Programming/[837]%20New%2021%20Game/)
 * [[1014] Best Sightseeing Pair](./problems/Dynamic%20Programming/[1014]%20Best%20Sightseeing%20Pair/)
