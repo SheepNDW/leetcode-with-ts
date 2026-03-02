@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { numSteps } from '.';
 
-describe.skip('numSteps', () => {
+describe('numSteps', () => {
   it('should return 6 for s = "1101"', () => {
     const s = '1101';
 

@@ -3,11 +3,11 @@ function numSteps(s: string): number {
   let carry = 0;
 
   for (let i = s.length - 1; i > 0; i--) {
-    const bit = Number(s[i]) + carry;
+    const digit = parseInt(s[i]) + carry;
 
-    if (bit === 1) {
-      carry = 1;
+    if (digit % 2 === 1) {
       steps += 2;
+      carry = 1;
     } else {
       steps += 1;
     }
