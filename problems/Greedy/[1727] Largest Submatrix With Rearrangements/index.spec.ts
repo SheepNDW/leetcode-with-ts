@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { largestSubmatrix } from '.';
 
-describe.skip('largestSubmatrix', () => {
+describe('largestSubmatrix', () => {
   it('should return the largest area of a submatrix of 1s (Example 1)', () => {
     const matrix = [
       [0, 0, 1],
