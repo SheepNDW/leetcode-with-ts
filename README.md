@@ -30,6 +30,7 @@
   * [[1894] Find the Student that Will Replace the Chalk](./problems/Array/[1894]%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk/)
   * [[2270] Number of Ways to Split Array](./problems/Array/[2270]%20Number%20of%20Ways%20to%20Split%20Array/)
   * [[2559] Count Vowel Strings in Ranges](./problems/Array/[2559]%20Count%20Vowel%20Strings%20in%20Ranges/)
+  * [[3070] Count Submatrices with Top-Left Element and Sum Less Than k](./problems/Array/[3070]%20Count%20Submatrices%20with%20Top-Left%20Element%20and%20Sum%20Less%20Than%20k/)
   * [[3152] Special Array II](./problems/Array/[3152]%20Special%20Array%20II/)
   * [[3381] Maximum Subarray Sum With Length Divisible by K](./problems/Array/[3381]%20Maximum%20Subarray%20Sum%20With%20Length%20Divisible%20by%20K/)
   * [[3652] Best Time to Buy and Sell Stock using Strategy](./problems/Array/[3652]%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20using%20Strategy/)
