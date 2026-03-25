@@ -34,6 +34,7 @@
   * [[3152] Special Array II](./problems/Array/[3152]%20Special%20Array%20II/)
   * [[3212] Count Submatrices With Equal Frequency of X and Y](./problems/Array/[3212]%20Count%20Submatrices%20With%20Equal%20Frequency%20of%20X%20and%20Y/)
   * [[3381] Maximum Subarray Sum With Length Divisible by K](./problems/Array/[3381]%20Maximum%20Subarray%20Sum%20With%20Length%20Divisible%20by%20K/)
+  * [[3546] Equal Sum Grid Partition I](./problems/Array/[3546]%20Equal%20Sum%20Grid%20Partition%20I/)
   * [[3652] Best Time to Buy and Sell Stock using Strategy](./problems/Array/[3652]%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20using%20Strategy/)
 
 * `simulation`
