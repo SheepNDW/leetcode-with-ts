@@ -534,6 +534,10 @@
 * [[3408] Design Task Manager](./problems/Design/[3408]%20Design%20Task%20Manager/)
 * [[3484] Design Spreadsheet](./problems/Design/[3484]%20Design%20Spreadsheet/)
 
+#### [Simulation](./problems/Simulation/)
+
+* [[2069] Walking Robot Simulation II](./problems/Simulation/[2069]%20Walking%20Robot%20Simulation%20II/)
+
 #### [Others](./problems/Others/)
 
 * [[1267] Count Servers that Communicate](./problems/Others/[1267]%20Count%20Servers%20that%20Communicate/)
