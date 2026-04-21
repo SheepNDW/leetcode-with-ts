@@ -454,6 +454,7 @@
 #### [Union Find](./problems/Union_Find/)
 
 * [[547] Number of Provinces](./problems/Union_Find/[547]%20Number%20of%20Provinces/)
+* [[1722] Minimize Hamming Distance After Swap Operations](./problems/Union_Find/[1722]%20Minimize%20Hamming%20Distance%20After%20Swap%20Operations/)
 * `Union in an order`
   * [[1970] Last Day Where You Can Still Cross](./problems/Union_Find/[1970]%20Last%20Day%20Where%20You%20Can%20Still%20Cross/)
 
