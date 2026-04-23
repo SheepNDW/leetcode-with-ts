@@ -549,6 +549,9 @@
 * `Collision`
   * [[2211] Count Collisions on a Road](./problems/Others/[2211]%20Count%20Collisions%20on%20a%20Road/)
 
+* `結論轉移`
+  * [[2615] Sum of Distances](./problems/Others/[2615]%20Sum%20of%20Distances/) 
+
 * `掃描線 / 差分陣列`
   * [[995] Minimum Number of K Consecutive Bit Flips](./problems/Others/[995]%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips/)
   * [[1094] Car Pooling](./problems/Others/[1094]%20Car%20Pooling/)
